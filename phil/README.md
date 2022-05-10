@@ -1,8 +1,14 @@
 # A PHILOSPOPHY OF SOFTWARE DESIGN 
 - Software開発について
 
-# 本の構成
+# Reference
+- https://speakerdeck.com/iwashi86/understand-roughly-philosophy-of-software-design-in-30-minutes
+- https://milkov.tech/assets/psd.pdf
+- https://zenn.dev/tatane616/scraps/8b6d877aebd9b4
+- https://journal.lampetty.net/entry/chapter1-software-design-book
 
+
+# 本の構成
 1. Introduction
  - 1.1 How to use this book
 
