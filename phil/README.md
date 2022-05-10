@@ -69,4 +69,103 @@
  - 9.1 Bring together if information is shared
  - 9.2 Bring together if it will simplify the interface
  - 9.3 Bring together to eliminate duplication
- -  
+ - 9.4 Separate general-purpose and special purpose
+ - 9.5 Example: insertion cursor and selection
+ - 9.6 Example: separate class for logging
+ - 9.7 Splitting and joining methods
+ - 9.8 A different opinion: Clean Code
+ - 9.9 Conclusion
+
+10. Define Errors Out Of Existence
+ - 10.1 Why exceptions add complexity
+ - 10.2 Too many exceptions
+ - 10.3 Define errors out of existence
+ - 10.4 Example: file delection in Windows
+ - 10.5 Example: Java substring method
+ - 10.6 Mask exceptions
+ - 10.7 Exception aggregation
+ - 10.8 Just crash?
+ - 10.9 Taking it too far
+ - 10.10 Conclusion
+
+11. Design it Twice
+
+12. Why Write Comments? The Four Excuses
+ - 12.1 Good code is self-documenting
+ - 12.2 I don't have time to write comments
+ - 12.3 Comments get out of date and become misleading
+ - 12.4 All the comments I have seen are worthless
+ - 12.5 Benefits of well-written comments
+ - 12.6 A different opinion: comments are failures
+
+13. Comments Should Describe Things that Aren't Obvious from the code
+ - 13.1 Pick conventions
+ - 13.2 Don't repeat the code
+ - 13.3 Lower-level comments add precision
+ - 13.4 Higher-level comments enhance intuition
+ - 13.5 Interface documentation
+ - 13.6 Implementation comments: what and why ,not how
+ - 13.7 Cross-module design decisions
+ - 13.8 Conclusion
+ - 13.9 Answers to question from Section 13.5
+
+14. Choosing Names
+ - 14.1 Example: bad names cause bugs
+ - 14.2 Create an image
+ - 14.3 Names should be precise
+ - 14.4 Use names consistently
+ - 14.5 Avoid extra words
+ - 14.6 A different opinion: Go style guide
+ - 14.7 Conclusion
+
+15. Write The Comments First
+ - 15.1 Deleyed comments are bad comments
+ - 15.2 Write the comments first
+ - 15.3 Comments are a desing tool
+ - 15.4 Early comments are fun comments
+ - 15.5 Are early comments expensive?
+ - 15.6 Conclusion
+
+16. Modifying Existing Code
+ - 16.1 Stay strategic
+ - 16.2 Maintaining comments: keep the comments near the code
+ - 16.3 Comments belong in the code, not the commit log
+ - 16.4 Maintaining comments: avoid duplication
+ - 16.5 Maintaining comments: check the diffs
+ - 16.6 Higher-level comments are easier to maintain
+
+17. Consistency
+ - 17.1 Ecamples of consistency
+ - 17.2 Ensuring consistency
+ - 17.3 Taking it too far
+ - 17.4 Conclusion
+
+18. Code Should be Obvious
+ - 18.1 Things that make code more obvious
+ - 18.2 Things that make code less obvious
+ - 18.3 Conclusion
+
+19. Software Treads
+ - 19.1 Object-oriented programming and inheritance 
+ - 19.2 Agile development
+ - 19.3 Unit tests
+ - 19.4 Test-driven development
+ - 19.5 Design patterns
+ - 19.6 Getters and setters
+ - 19.7 Conclusion
+
+20. Designing for Performance
+ - 20.1 How to think about preformance
+ - 20.2 Measure before(and after) modifying
+ - 20.3 Desing around the critical path
+ - 20.4 An Example: RAMCloud Buffers
+ - 20.5 Conclusion
+
+21. Decide What Matters
+ - 21.1 How to decide what matters?
+ - 21.2 Minimize what matters
+ - 21.3 How to emphasize things that matter
+ - 21.4 Mistakes
+ - 21.5 Thinking more broadly
+
+22. Conclusion
