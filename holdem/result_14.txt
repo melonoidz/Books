@@ -1,0 +1,1124 @@
+d:\work\kindle\holdem\701.png @@ Positional defending range after flatting flop: 88(3),
+TT-99(12), 77(6), A@Q@, Aala,KaQe,Kaja,
+KaTa, Qala, QaTa,JaTa,Ja9a,Tad%e,
+9 #74, A8s(3), T8s(3), 98s(3), 878(3), 86s(3),
+65s(3), AK(3), AQ(15), KQ(7), Aa@Jx(3), Ao],
+Ae@TÅë =80
+
+Tun:8Åë4@34@TY
+
+Total combos: 76 (-3 TT, - T8s)
+
+Desired combos defended: 76 X 0.6 = 46
+
+Value raises: 88(3), T8s(2) = 5
+
+Bluff raises: 65S(3),9@7@,J@9@=5
+
+calls: TT(3), A@T #, A8s(3), 98s(3), 878(3), 86s(3),
+99(6), 77(6), A@Qa, Aala, KaQa,Kaja,
+KaTa, Qala, QaTea,JaIa,Tade = 37
+
+Total combos defended: 47 (61.8%)
+
+Analysis: IÅfm not sure whether to call or raise with
+tens. By raising, we may be raising too frequently,
+but I also dislike giving cheap cards on this board
+texture. In practice, against most players, IÅfd
+probably raise, especially since few players overbet
+on blank rivers. But I wouldnÅft be surprised if, in
+theory, calling is the superior play.
+
+Positional defending range after flatting flop + turn: TT(3),
+AT Åë, A8s(3), 98s(3), 878(3), 868(3), 99(6),
+77(6), A@Qa, Aaja, KaQa, Kala, KaTa,
+Qala, QaTea, Jara, Tad%e = 37d:\work\kindle\holdem\702.png @@ River: 8Åë4@34aTJ&
+
+Total combos: 37
+
+Desired combos defended: 37 X 0.6 = 22
+
+Value raises: TT(3), J@T@ = 4
+
+Bluff raises: 98s(2) = 2
+
+calls: AÅëTÅë,Aala, Kala, KaTa, Qala, QaTa,
+Ja9a,Ta9@, 99(6) A8s(2) = 16
+
+Total combos defended: 22
+
+Analysis: This is a pretty tough river card as we now
+
+only have a few top pair hands. As such, weÅfre
+
+required to either call with nines or allow our
+
+opponent to profitably bluff with any two cards.
+
+However, since he will not be bluffing with a hand
+
+stronger than nines or value betting a weaker hand,
+
+itÅfs still a bluff catcher.
+
+We also can fold enough here to allow our
+opponent to profitably bluff with any two cards if
+we think the river card is particularly atrocious, but
+I donÅft think thatÅfs the case. Additionally, having
+tens in our range helps significantly as this makes
+our opponent's river overbets less effective.
+
+Now, letÅfs look at the cutoff opener.d:\work\kindle\holdem\703.png @@ Cutoff opening range: AA-22, AKo-ATo, KQo-KJo,
+QJo, AKs-A2s, KQs-K6s, QJs-Q7s, JTs-J8s, T9s-T8s,
+98s-97s, 87s-86s, 768-755, 658-645, 54s = 314
+
+Flop:8Åë44a34@
+
+Total combos: 293
+
+Value betting range: QQ-99(24), 77(6), 66(6),
+AO86,KO80,TO86,9686, 8676, 8466 =
+42
+
+Draw betting range: A@5@,Q4@J@-Q4@74@(5),
+JaTaJa8o(3),
+
+KaQe,7464@,7456, 65s(3)=15
+
+Bluffing range: A5s(3), A2s(3), 75s(3), 76s(3),
+AK(15), KQ(7), A@Tx(3), QI(7), AT 4, A494,
+AO7Åë,A964,KOJÅë,KOTÅë,KO94,KO6Åë6,
+JoT4,T494,9074 =55
+
+Total combos bet: 112
+
+Flop Cbet percent: 38.2%
+
+Total combos checked: 181
+
+Check-raising range: AA(3), KK(6), 88(3), 44(3),
+33(3),Aa9a,Aa2@, 6454, Ka)Jx(3), Al(7),
+Q6T4,Q0694,J494, 5 @5x(3), A4s(3), 648(3),
+54s(3), A3s(3) = 49
+
+Check-calling range: AA(3), AQ(15), A8s(2), K8s(2),
+Q8s(2), J8s(2), T8s(2), 98s(2), 87s(2), 868(2),
+A@Ke, AaQe, Aala, AaTa = 38
+
+Percent of checks defended: 48.1%d:\work\kindle\holdem\704.png @@ EV of opponentÅfs air on flop: (0.618) [(8) (0.519) -
+
+(6)(0.481)] = 0.78 big blinds
+Analysis: ItÅfs tough to develop ranges for this spot
+since the cutoff opening range is so wide and this
+flop is hard to play out of position. Although both
+the cutoff opening range and the button flatting
+range have about 50 percent equity and include
+many strong and weak hands, and since position is
+so valuable on this board texture, it makes sense to
+assume the button is in a more favorable position.
+
+ItÅfs also important to remember that if we donÅft
+defend enough checks on this flop, our opponent
+will almost always bet. Just as we dislike giving
+many hands in his range free cards, he dislikes
+giving our check-folding range free cards. While
+many players on this flop texture prefer to
+recklessly bet and rarely check-call, this clearly is
+a weak strategy against a strong opponent. And
+since I expect our opponent to frequently bet, my
+strategy is to check-raise all sets as well as some
+overpairs.
+
+In addition, my strategy includes betting our pair
+plus flush draw hands since I want to be able to
+check-call with these hands on the turn. Without
+them, it would probably be difficult to have flushd:\work\kindle\holdem\705.png @@ draws in our turn check-calling range. Additionally,
+these hands do well when facing a raise on the flop,
+as they work well as both calls and 3-bets.
+
+When betting a hand like sevens or sixes, weÅfre
+hoping our opponent folds despite our usually
+being ahead when called. The reason for betting
+these hands is to make high equity hands fold, and
+if our opponent calls, they can be check-called on
+many turn cards.
+
+Lastly, notice that although the strongest hand
+in our flop betting range is queens, if the turn is a
+blank, it will effectively be the nuts. Our opponent
+isnÅft likely to slowplay on this flop, so if he does call,
+we can be confident that many our holdings are
+best on many turn cards.
+
+OOP range after betting flop: 112
+
+Tun:8Åë4@34@TY
+
+Total combos: 108 (- AT, -3 TT)
+
+Value betting range: QQ-JJ(12), A@Tx(2), AÅëTÅë,
+KoTÅë,JÅëTÅë,T49Åë,QaTa,JaTa, 99(6) = 26
+
+Bluffing range: Q@J@,Q9S,Q474@,Ja9a,Ja8e,
+KaQe,7454,7064,Aa56, 658(3), 9474,
+J #94, QJ(7), AK(4) = 25
+
+Total combos bet: 51
+
+Turn Cbet percent: 47.2%
+
+Total combos checked: 57d:\work\kindle\holdem\706.png @@ Check-raising range: TT(3), AK(3) = 6
+Check-calling range: 77(6), 66(6) A@8@,Ka8e,
+Ta80,9086,8476,8466, AK(8) = 26
+Analysis: This is a great example of a spot where
+using multiple bet sizes is important. Our opponent
+rarely has queens or jacks beat, so making a large
+bet with these hands will be a strong play. In
+contrast, a large bet with a hand like nines will not
+be effective since heÅfll have us beat more often.
+
+In addition, I dislike check-calling with nut type
+hands on this board since itÅfs so wet. Sure, our
+opponent can overbet all-in when the river comes a
+complete blank if he knows we canÅft be strong, but
+the river won't blank all that often and giving a free
+card is risky.
+
+Furthermore, it should come as no surprise that
+we're able to comfortably defend our turn checks
+since our flop betting range wasnÅft especially
+polarized. In other words, we bet hands such as
+sevens and sixes on the flop knowing they'd likely
+be check-called on the turn. This was done because
+itÅfs desirable to make high equity hands fold, and
+our opponent almost always has two overcards to
+our sixes.
+
+Lastly, notice I put ace-king in three different
+ranges. It makes sense to bet it as a bluff, check-d:\work\kindle\holdem\707.png @@ call with it for its showdown value and redraw,
+
+and check-raise bluff with it. If we always took the
+
+same line with this hand, itÅfd be pretty easy for our
+opponent to exploit us since we'd have so many
+combinations of it in our range.
+
+OOP range after betting flop and turn: 51
+
+River: 8Åë4@34aTJ&
+
+Total combos: 47 (-3 JJ,-QaJ&)
+
+Value betting range: QQ(6), JJ(3), QJ(6), Q494,947Åë4,
+Aaja KaJa, Qala, JaTa,Ja8a,Jo9eÅë,
+KaTa,AeTÅë,A@Tx(2) =27
+
+Bluffing range: AK(4), K@Q@,Q476@,7464,7456,
+A@5 @,65s8(3) = 12
+
+Total combos bet: 39
+
+River Cbet percent: 83.0%
+
+Total combos checked: 8
+
+Check-raising range: 0
+
+Check-calling range: Q@T @,99(4)=5
+
+Percent of checks defended: 62.5%
+
+Analysis: This river card improved many hands in our
+
+range, especially since we bet eight combinations
+
+of queen-jack on the turn. As such, itÅfs easy to bet
+the river aggressively. However, on the river, our
+opponent should have some very strong hands in
+his range which can raise our bet, so sometimesd:\work\kindle\holdem\708.png @@ expect to face a raise, especially when betting
+smaller.
+
+It of course makes sense to bet the river
+aggressively when we get an excellent river card for
+our range. Although itÅfs uncommon to bet the river
+over 80 percent of the time, itÅfs likely justified here
+since our range includes so many top pair hands.
+
+Hand No. 10: Cutoff
+
+versus the Button
+
+Button cold calling range vs. middle position: TT-22, AQo-AJo,
+KQo, AQs-A8s, KQs-KTs, QJs-QTs, JTs-J9s, T9s-T8s,
+98s-97s, 87s-86s, 768-758, 65s, 54s, 1 AAcombo,
+3 AK combo
+
+Flop: K&9 60
+
+Total combos: 161
+
+Desired combos defended: 161 x 0.6 = 97
+
+value raises: 99(3), 66(3) = 6
+
+Bluff raises: 758(4), T8s(4), A8s(3) = 11
+
+calls: AA(1), AK(2), KQ(12), KJs(3), KTs(3), TT(6),
+A9s(3), J9s(3), T9s(3), 98s(3), 978(3), QJs(4),
+QTs(4), JTs(4), 87s(4), 88(6), 86s(3), 76s(3),
+65s(3), AQs(3), AJs(3), ATs(3) = 82
+
+Total combos defended: 99 (61.5%)d:\work\kindle\holdem\709.png @@ Analysis: There is a surprising amount of possible
+straight draws on this board, and for this reason I
+prefer to raise our sets. ItÅfs close though, and calling
+with some sets is probably fine as well. In theory,
+the expectation of raising and calling is probably
+the same. But if we always or never raise our sets,
+our opponent can probably exploit us. Nevertheless,
+as usual, itÅfs not worth getting bogged down with
+details when analyzing a board texture.
+
+ItÅfs tough to say whether aces or ace-king should
+be raised. Aces are quite strong, but I dislike their
+removal effect since it blocks half of our opponentÅfs
+ace-king combinations. Additionally, since our
+opponent will not need to call down with any hands
+worse than ace-king, IÅfd rather call with it despite
+the fact that he will sometimes outdraw us with his
+bluffs.
+
+Also note this board texture is a bit trickier to
+defend than it would at first seem, mainly because
+king high flops do not hit our range as well as
+ace, queen, or jack high flops. If we believe our
+preflop calling range isnÅft making enough strong
+hands on king high flops, then perhaps it should
+include king-jack offsuit or more ace-king hands.
+As previously discussed, theory is usefull for
+determining if preflop ranges must be wrong, butd:\work\kindle\holdem\710.png @@ thereÅfs no way to determine if a range is optimal.
+
+So always think back to previous streets when
+
+analyzing hands and try to decide if there is a way
+
+to improve a previous range.
+
+Positional defending range after flatting flop: AA(1), AK(2),
+KQ(12), KJs(3), KTs(3), TT(6), A9s(3), J9s(3),
+T9s(3), 98s(3), 97s(3), QJs(4), QTs(4), JTs(4),
+87s(4), 88(6), 86s(3), 76s(3), 65s(3), AQs(3),
+AJs(3), ATs(3) = 82
+
+Tun: K&9Åë605@
+
+Total combos: 81 (-6@5@)
+
+Desired combos defended: 81 x 0.6 = 49
+
+Value raises: 65S(2) = 2
+
+Bluff raises: 865(2) = 2
+
+calls: 875(4), AA(1), AK(2), KQ(12), KJs(3), KTs(3),
+TT(6), A9s(3), J9s(3), T9s(3), 98s(3), 978(3) = 46
+
+Total combos defended: 50 (61.8%)
+
+Analysis: I chose to call with eight-seven suited rather
+
+than raise since no flush draws are possible and
+
+our opponent will often be drawing dead against
+the nuts. We may lose some value by slowplaying
+if he gets scared by the river, but I prefer to call
+and encourage him to keep bluffing. Additionally,
+calling with the nuts will prevent him from being
+
+able to overbet effectively on certain river cards.d:\work\kindle\holdem\711.png @@ Whether or not to raise six-five suited is a bit
+trickier, and while IÅfm not certain, in my opinion,
+itÅfs a raise. ThatÅfs because I want to get value from
+my opponentÅfs aces, ace-king, and king-queen
+hands, and dislike allowing him to cheaply see an
+additional card. Furthermore, our hand blocks most
+possible sets of sixes and fives (in case they are
+in his range), and he may not bet pocket kings or
+nines on the flop. So if weÅfre behind on the turn, it
+will frequently be to the straight, and he shouldn't
+have it often enough to justify calling rather than
+raising.
+
+Also, keep in mind that just because IÅfm Ågvalue
+raisingÅh it doesnÅft necessarily mean getting action
+is best. On the turn, IÅfm quite happy winning the
+pot immediately, and certainly donÅft want to face
+a 3-bet from someone whose range will almost
+certainly just include sets, straights, and bluffs.
+Positional defending range after flatting flop and turn: 87s(4),
+
+AA(1), AK(2), KQ(12), KJs(3), KTs(3), TT(6),
+A9s(3), J9s(3), T9s(3), 98s(3), 978(3) = 46
+River: K&9Åë605a3&
+Total combos: 46
+Desired combos defended: 46 x 0.6 = 28
+Value raises: 878(4) = 4
+Bluff raises: 98s(2) = 2d:\work\kindle\holdem\712.png @@ calls: AA(1), AK(2), KQ(12), KJs(3), KTs(3), TT(1) = 22
+Total combos defended: 28
+
+Analysis: The river card is a blank, but fortunately,
+since we just called with our straights on the turn,
+our range isnÅft capped. This allows us to raise the
+river aggressively as well as forces our opponent to
+bet smaller.
+
+Despite the river coming a blank and improving no
+hands in our range, nearly every hand in our calling
+range is still top pair or better. If the turn or river
+would have improved more hands in our range,
+then it wouldn't even be necessary to call with all
+our top pair hands.
+
+Now letÅfs look at the cutoff opener.
+
+Cutoff opening range: AA-22, AKo-ATo, KQo-KJo, QJo,
+AKs-A2s, KQs-K6s, QJs-Q7s, JTs-J8s, T9s-T8s,
+98s-97s, 87s-86s, 768-755, 658-645, 54s = 314
+
+Flop: K&9 60
+
+Total combos: 275
+
+Value betting range: AA(6), AK(12), K9s(2), KQ(12),
+TT(6), A9s(3), Q9s(3) = 44
+
+Draw betting range: 87S(4) = 4
+
+Bluffing range: QJ(16), QTs(4), JTs(4), T8s(4), 75s(4),
+Q8s(3),Q7s(3), J8s(3), A8s(3), A7s(3), A5s(3),
+A4s(3), A3s(3), A2s(3), AQ(8) = 67
+
+Total combos bet: 115d:\work\kindle\holdem\713.png @@ Flop Cbet percent: 41.8%
+
+Total combos checked: 160
+
+Check-raising range: 99(3), 66(3), 868(3), 76s(3), 65s(3),
+64s(3) = 18
+
+Check-calling range: KK(3), QQ-JJ(12), 88-77(12), KJ(12),
+KTs(3), K8s-K6s(9), J9s(3), T9s(3), 98s(3), 978(3),
+AQ(8), AJs(3), ATs(3) = 77
+
+Percent of checks defended: 59.4%
+
+EV of opponent's air on flop: (0.582) [(8) (0.406) - (6)
+
+(0.594)] = -0.184 big blinds
+Analysis: I chose to bet king-queen because the
+button is unlikely to have called with ace-king
+preflop. While this hand is strong enough to bet, it
+isnÅft likely strong enough to bet 75 percent of the
+pot on all three streets, so we'll need to either check
+at some point or bet smaller.
+
+Since IÅfm defending 59.7 percent of our flop
+checks, our opponent cannot make an immediate
+profit by betting. ItÅfs possible that some hands
+I chose to check-call with, such as ace-queen or
+sevens, will have a negative expectation, but I
+think theyÅfre slightly profitable. However, this isnÅft
+something that can be proven and these hands are
+undoubtedly tough to play, so make your best guessd:\work\kindle\holdem\714.png @@ when designing ranges. New players especially
+should emphasize playing tighter in close spots.
+OOP range after betting flop: 115
+
+Tun: K&9Åë605@
+
+Total combos: 114 (-7@54@)
+
+value betting range: AA(6), AK(12), K9s(2), KQ(6) = 26
+Bluffing range: A7S(3), Q7s(3), QJ(16), 758(4) = 26
+Total combos bet: 52
+
+Turn Cbet percent: 45.6%
+
+Total combos checked: 62
+
+Check-raising range: 878(4), QTs(4) = 8
+
+Check-calling range: A9s(3), Q9s(3), TT(6), KQ(6) = 18
+Percent of checks defended: 41.9%
+
+Analysis: Everything looks pretty normal on the turn.
+We're not betting especially aggressively, but itÅfs
+not difficult to defend a large portion of our turn
+checks, and this prevents our opponent from being
+able to profitably call us with weak hands on the
+flop.
+
+Since not all our king-queen hands are bet,
+I probably should have a bluffed a bit less
+aggressively on the flop. Hands like ace-four and
+ace-trey suited should perhaps have been check-
+folded, as a tighter flop betting range allows us to
+bet the turn at a higher frequency. Besides, check-
+folding a few more hands on the flop doesnÅft seemd:\work\kindle\holdem\715.png @@ problematic since weÅfre already defending so many
+of our checks.
+
+OOP range after betting flop and turn: 52
+
+River: K&9Åë605a3&
+
+Total combos: 52
+
+value betting range: AA(6), AK(12), K9s(2), KQ(6) = 26
+Bluffing range: QJ(10) = 10
+
+Total combos bet: 36
+
+River Cbet percent: 69.2%
+
+Total combos checked: O
+
+Check-raising range: 0
+
+Check-calling range: O
+
+Percent of checks defended: O
+
+Analysis: The river card is a blank, so our range
+remains polarized while our opponent's is
+condensed. I expect him to check back on the river
+at a high frequency since his range consists mostly
+of medium strength made hands. Because of this, I
+donÅft think we should worry about defending any
+of our checks, and should instead just continue
+
+to value bet with all of our strong hands and the
+proper amount of bluffs.d:\work\kindle\holdem\716.png @@ Conclusion
+
+With the current state of online poker, itÅfs
+sometimes easy to get frustrated and remember the
+Ågglory yearsÅh which occurred when online poker
+was new. Players often lament thinking about how
+much money they could make if only they had a
+time machine which could take them back in time
+when games were much softer. And while the
+future of poker may be undetermined, one thing for
+sure is that dedicated players will keep improving
+as information becomes more available and they
+continue to work on their game.
+
+However, while itÅfs true games were much easier
+in the past, playerÅfs frequently exaggerate the
+current skill level of their opponents and refuse to
+acknowledge their own numerous leaks. So those
+who care about winning must put in the necessary
+work to stay ahead of the learning curve or else they
+should expect to win less money and have to move
+down in stakes.
+
+Thope this book succeeded in increasing your
+understanding of poker theory and gave you
+the necessary tools to improve your game.
+Furthermore, I hope every time a leak was foundd:\work\kindle\holdem\717.png @@ or a misunderstood concept was identified, you
+got a bit excited. Each one is an opportunity to
+increase your winrate, and while fixing some leaks
+may be difficult, hopefully you'll enjoy the process
+of improving and increasing your understanding
+of poker. After all, if poker included no difficult
+concepts, then edges would be harder to find and
+the game wouldnÅft be as much fun.
+
+As of right now, there are many significant edges
+waiting to be developed by talented and dedicated
+players. HereÅfs a short list of mistakes I believe most
+players are currently making:
+
+1. Not 3-betting and calling aggressively enough
+against button opens. Likewise, few players re-
+alize how aggressively they must defend when
+they open the button very wide and face a 3-
+bet.
+
+2.1
+2
+8
+
+Using one generic bet sizing in spots when
+large or small bets are more effective. While
+balancing multiple ranges is hard, itÅfs not
+
+usually overly difficult to identify spots whered:\work\kindle\holdem\718.png @@ overbets are best and the increased expectation
+from making a large bet can be significant.
+Most players donÅft even bother to think about
+their bet size before betting, and this leak will
+become more significant as players continue to
+improve.
+
+1
+2
+9
+
+Failing to understand how frequencies and ra-
+tios change based on the street. ItÅfs possible to
+bluff more aggressively on the flop than on the
+river since there are still two streets remaining,
+and few players are currently bluff raising ag-
+gressively enough when in position.
+
+1
+3
+(0)
+
+Recklessly betting as the preflop raiser and not
+adequately defending their checking range.
+Balancing multiple ranges is difficult, but itÅfs
+crucial to defend checks against skilled oppo-
+
+nents. Despite initiative having no theoreticald:\work\kindle\holdem\719.png @@ value, players often choose to thoughtlessly
+bet when out of position simply because they
+haven't put in the effort necessary to learn how
+to protect their checking range.
+
+5.1
+3
+1
+
+Few players truly understand why not all eq-
+uity is created equally and why equity cannot
+be converted into expected value. This usually
+causes many small leaks to develop in nearly
+
+every aspect of their game.
+
+In addition, players often get worried when
+good information becomes available, as if that
+information will be immediately absorbed and
+no one will make mistakes anymore. But simply
+understanding a concept when itÅfs explained isnÅft
+enough, as you must be able to apply it quickly
+while playing. And like most everything else in life,
+this takes work, practice, and talent.
+
+Continuing with this idea, think about how silly
+this thought process would be when applying it
+to any other subject or game with freely available
+information. Everyone in a college classroomd:\work\kindle\holdem\720.png @@ usually has access to all the information necessary
+to do well in the course (either by reading the
+textbook or getting lecture notes), yet the ones who
+excel are usually those who put in the most work.
+Simply having access to information isnÅft enough.
+
+Moreover, IÅfd recommend against overwhelming
+yourself trying to implement too many new
+concepts at once. There is no magic pill, and all
+leaks take time to fix. That is, trying to fix too
+many at the same time may cause your game to fall
+apart, so itÅfs better to focus on one or two leaks and
+methodically try to fix them before moving on to
+others. And while drastic measures are sometimes
+necessary to fix previously misunderstood
+concepts, itÅfs usually easier to continuously
+improve and tweak your game rather than rebuild it
+completely from scratch.
+
+Lastly, I'd like to thank you for reading Applications
+of No-Limit Hold Åfem; A Guide to Understanding
+Theoretical Sound Poker and wish you luck.
+Hopefully, this book got you excited not only
+about poker but also with how applying math
+and theory can be useful for shedding light on
+complex situations even if a solution cannot be
+found. So always remember to check your thought
+process for contradictions, and get excited whend:\work\kindle\holdem\721.png @@ one is discovered as that means you've found an
+opportunity to improve.d:\work\kindle\holdem\722.png @@ Index
+
+Note: Page numbers in italics indicate figures.
+
+advanced bet sizing. See bet sizing, advanced
+Ankenman, Jerrod 91, 343
+balancing a range 17-18, 65-66, 137-38, 221-22,
+274-75
+bets, large, as making opponent put in more money
+26-27
+bet sizing, advanced 394-412
+checking for contradictions in thought processes
+via 395-99, 400
+examples 401-9
+introduction 394
+summary 410-12
+bet sizing, post-flop 90-96. See also river play
+betting vs. checking in position 142-77
+bluffing with the right hands on the flop 162-64
+checking back with a strong hand 165-66
+example of balancing a flop bet in position 174-
+75
+facing a flop check-raise 167-70, 169n
+hand strength required to value bet the flop 153-
+57
+introduction 142-43d:\work\kindle\holdem\723.png @@ summary 176-77
+thought process for deciding 171-73
+value betting to bluffing ratio for 1 or 2 streets of
+value 149-52,191
+value betting to bluffing ratio for 3 streets of
+value 144-48, 190
+which streets to value bet 158-61
+bluffing
+bluff catchers 17-18, 339, 339n, 368-70
+made hands turned into bluffs in position 352-
+55, 353n making opponent indifferent to 23-24
+profitability of opponentÅfs bluffs in position on
+the flop 195-99, 198-99n
+randomized 23
+with the right hands on the flop 162-64
+semi-bluffs 286n
+value betting to bluffing ratio, out of position
+190-91
+value betting to bluffing ratio for 1 or 2 streets of
+value 149-52,191
+value betting to bluffing ratio for 3 streets of
+value 144-48, 190
+value to bluff raising ratio 105-16, 109n, 117-19
+vs. value betting 19-22
+board textures
+delaying a raise on a dry board 125-27d:\work\kindle\holdem\724.png @@ difficulties of check-raising certain flop textures
+210-11
+equity distribution 9-10
+examples 188-89
+frequencies 67-68, 67 (table)
+calculus 343-45
+calling. See also under turn play in position
+defending flop bets by 99-104, 101, 134-36, 231-
+33
+on the river, making opponent indifferent to 17-
+18
+check-calling
+after check-calling the flop 300-301
+check-raising
+after 301-2, 302n
+donk betting after 302-3
+after flop betting 295-97
+vs. check-raising 205-9
+with vulnerable hands, difficulties of 212-14
+checking vs. betting in position. See betting vs.
+checking in position
+check-raising
+bet after calling a flop check-raise, facing 267-70
+check after calling a flop check-raise, facing 271-
+73
+after check-calling the flop 301-2, 302nd:\work\kindle\holdem\725.png @@ difficulties of check-raising certain flop textures
+210-11
+facing a flop 167-70, 169n
+after flop betting 297-99
+vs. check-calling 205-9
+Chen, Bill 91, 343
+complex ranges 54-79
+balance 65-66 board texture frequencies 67-68,
+67 (table)
+defending against 3-bets 69-75, 72-74 (tables)
+defending against 4-bets 76-79
+defending enough against opens 54-61, 55n, 59n
+designing defending ranges to maximize EV 62-
+64
+deep vs. shallow stack play. See stack play, shallow
+vs. deep donk betting
+from the blinds 215-16
+after check-calling the flop 302-3
+defined 181
+double barreling 310-13
+equity 6-12
+defined/understanding 6
+distribution on different board textures 9-10
+hand signaling to see additional cards 8-9, 8n
+retained against strong ranges 7-8
+vs. expected value 11-12d:\work\kindle\holdem\726.png @@ EV (expected value)
+defined 11
+designing defending ranges to maximize EV 62-
+64
+of 4-betting 45-51, 46 (table), 47n
+optimal players as taking most +EV line 25
+vs. equity 11-12
+5-betting 34-38, 42, 45-52, 46 (table), 48-50
+(tables), 76-78 flop bets in position 98-140
+defending by calling 99-104, 101
+defending by calling and raising 134-36
+defending by raising (value to bluff raising ratio)
+105-16, 109n
+delaying a raise on a dry board 125-27
+delaying a raise on a wet flop 128-29
+example of balancing a defending range 137-38
+facing a flop 3-bet 130-33
+hand strength required to value raise a made
+hand 120-24,
+122nn10-11
+introduction 98
+summary 139-40
+value to bluff raising ratio, complications of 117-
+19
+flop play out of position 180-224d:\work\kindle\holdem\727.png @@ betting vs. checking very strong hands on flop out
+of position 200-204
+
+bluffing to value betting ratio 218-19
+
+check-calling vs. check-raising 205-9
+
+check-calling vulnerable hands, difficulties of
+212-14
+
+check-defending frequencies and out of position
+betting 219-20
+
+check-raising certain flop textures, difficulties of
+210-11
+
+defending frequency, minimum required 217
+
+donk betting from the blinds 215-16
+
+example of balancing a range 221-22
+
+felting range when facing a bet on 3 streets 218
+
+flop range analysis 183-84
+
+introduction 180
+
+mental block of betting as preflop raiser 181-84
+
+out of position value betting to bluffing ratio 190-
+91
+
+parameters of flop play 217-20
+
+profitability of opponentÅfs bluffs in position on
+the flop
+
+195-99, 198-99n
+
+summary 223-24, 223n
+
+value of position on the flop, assessing 185-89d:\work\kindle\holdem\728.png @@ when betting with any two cards is profitable
+192-94
+4-betting 76-79. See also under preflop play
+game theoretically optimal play 1
+hand analysis by applying theory 414-21
+betting in position 417-18
+betting out of position 419
+introduction 414-16, 414n
+summary 420-21
+hand examples 424-79
+cutoff vs. button
+hand no. 6 452-57
+hand no. 7 457-62
+hand no. 8 462-68
+hand no. 9 468-74
+hand no. 10 474-79
+introduction 424-25
+middle position vs. button
+hand no. 4 443-47
+hand no. 5 447-52
+middle position vs. cutoff 437-43, 439n
+under the gun vs. button 431-37
+under the gun vs. cutoff 426-31
+hands, preflop 80-86, 81-86 (tables), 371-72
+hand signaling 8-9, 8n
+hand strengthd:\work\kindle\holdem\729.png @@ betting vs. checking very strong hands on flop out
+of position 200-204
+checking back with a strong hand in position
+165-66
+equity retained against strong ranges 7-8
+on the flop, in multiway pots 365-67, 366 (table)
+ranking, strongest to weakest 13-14
+to value bet the flop in position 153-57
+to value raise a made hand in position 120-24,
+122nn10-11
+Howard, Nick 80
+implied odds 287, 287n
+information availability, fear of 482-83
+Malmuth, Mason 339n
+Miller, Ed 409n
+mistakes, common 481-83
+multiway pots 364-76
+bluff catchers 368-70
+hand strength on the flop 365-67, 366 (table)
+introduction 364
+responsibility for defending 373-74
+speculative preflop hands 371-72
+summary 375-76
+vs. heads up pots 364
+Nash Equilibrium 261
+
+no-limit cash games and tournaments 182, 182nd:\work\kindle\holdem\730.png @@ position. See also betting vs. checking in position;
+flop bets in
+position; flop play out of position; turn play in
+position; turn play out of position
+bluffing according to 190-91, 195-99, 198-99n,
+352-55, 353n
+facing a flop check as cold caller in position 238-
+39
+hand analysis according to 417-19
+middle position hand examples (see under hand
+examples)
+on the river 329-34, 352-55, 353n
+value of 28
+post-flop bet sizing 90-96
+post-flop play. See river play; turn play in position;
+turn play out of position
+pot odds
+defined 5
+equity 6-12
+introduction to calculating 5
+summary 29-30
+preflop play 32-88. See also complex ranges
+3-bet flatting 52-53
+3-betting frequencies 34-38, 35n
+3-betting in position, facing 85-86 (table)
+3-betting ranges, maximum 41-44, 42 (table)d:\work\kindle\holdem\731.png @@ 4-bet flatting 52-53
+4-betting, folding against opponents who donÅft
+flat 45-51, 46 (table), 47n
+4-betting frequencies 34-38
+4-bettingÅfs EV 45-51, 46 (table), 47n
+5-betting frequencies 34-38
+hand chart 80-86, 81-86 (tables)
+introduction 32-33
+raising first in ranges 39-40, 39-40nn.
+summary 87-88
+quadratic equation solver 343-45
+raising. See also check-raising; flop bets in position
+after calling the flop 245-50
+defending by 234-37
+first in ranges, preflop 39-40, 39-40nn
+after flop was checked through 251-56, 252n
+mental block of betting as preflop raiser 181-84
+value to bluff raising ratio 105-16, 109n, 117-19
+ranges. See also complex ranges
+3-betting ranges in preflop play, maximum 41-
+44, 42 (table)
+balancing 17-18, 137-38, 221-22, 274-75
+cold calling, preflop 82-83 (table)
+felting range when facing a bet on 3 streets 218
+flop range analysis 183-84d:\work\kindle\holdem\732.png @@ flop value betting frequencies with polarized
+range 379-82, 380 (table)
+
+opening, preflop 81-82 (table)
+
+polarized vs. condensed 15-16, 79
+
+preflop hands 80-86, 81-86 (tables)
+
+raising first in ranges on preflop play 39-40, 39-
+40nn
+
+strong, equity retained against 7-8
+
+3-betting, preflop 84-85 (table)
+
+removal effects 346-51
+river play 328-62
+
+in position vs. out of position jams 329-34
+
+introduction 328
+
+made hands turned into bluffs in position 352-
+55,353n
+
+making opponent indifferent to calling 17-18
+
+optimal bet size 339-46, 339n (see also bet sizing,
+advanced)
+
+overbetting 356-59
+
+post-flop bet sizing, overview/difficulties of 90-
+96
+
+removal effects 346-51
+
+slowplaying 357-59
+
+summary 360-62
+
+value betting in position 329-31
+
+value betting out of position 331-34d:\work\kindle\holdem\733.png @@ value betting when raises are possible 335-38
+sample hands. See hand examples
+shallow vs. deep stack play. See stack play, shallow
+vs. deep
+Sklansky, David 286-87nn, 339n, 409n
+stack play, shallow vs. deep 378-92
+deep play at a glance 387-90, 389n
+flop value betting frequencies with polarized
+range 379-82, 380 (table)
+introduction 378
+shallow play and all-in play 346
+shallow play at a glance 383-86
+summary 391-92
+in tournaments 378
+texture of board. See board textures
+theory. See also complex ranges; hand analysis by
+applying
+theory; hand examples; ranges
+basics 4 (see also equity; pot odds)
+game theoretically optimal play 1
+hand ranking 13-14
+large bets as making opponent put in more
+money 26-27
+making opponent indifferent to bluffing 23-24
+making opponent indifferent to calling on the
+river 17-18d:\work\kindle\holdem\734.png @@ optimal players as taking most +EV line 25
+scope of applying 32-33
+
+summary 29-30
+
+value betting vs. bluffing 19-22 (see also under
+bluffing)
+
+value of position 28
+
+vs. experience 51
+
+vs. trial and error 32, 226, 378
+
+3-bet pots on the flop 226-41
+
+bet sizing as the 3-bettor 228-30
+
+defending by calling 231-33
+
+defending by raising 234-37
+
+facing a flop 3-bet in position 130-33
+
+facing a flop check as cold caller in position 238-
+39
+
+introduction 226-27
+
+summary 240-41
+
+3-bet pots on the turn 308-26
+
+double barreling 310-13
+
+introduction 308-9
+
+out of position after flop checks through 314-16
+summary 325-26
+
+turn bet in position after calling a flop bet, facing
+317-22
+
+turn check in position after calling a flop bet,
+facing 323-24d:\work\kindle\holdem\735.png @@ 3-betting
+defending against 3-bets 69-75, 72-74 (tables)
+preflop 34-38, 35n, 41-44, 42 (table), 52-53, 85-
+86 (table)
+turn play in position 244-78. See also 3-bet pots on
+the turn
+bet after calling a flop check-raise, facing 267-70
+bet after calling the flop, facing 257-58
+check after calling a flop check-raise, facing 271-
+73
+check after calling the flop, facing 259-62
+check after checking back the flop, facing 264-66
+check as flop bettor, facing 262-64
+example of balancing a defending range 274-75
+introduction 244
+raising after calling the flop 245-50
+raising after flop was checked through 251-56,
+252n
+summary 276-78
+turn play out of position 280-305
+betting after flop betting 292-95
+after betting the flop 292-99
+check-calling after check-calling the flop 300-301
+check-calling after flop betting 295-97
+after check-calling the flop 300-303d:\work\kindle\holdem\736.png @@ check-raising after check-calling the flop 301-2,
+302n
+
+check-raising after flop betting 297-99
+donk betting after check-calling the flop 302-3
+draws 286-91, 287n
+as flop bettor 281-85
+introduction 280
+summary 304-5
+
+value betting 19-22, 379-82, 380 (table). See also
+under betting vs. checking in position; bluffing;
+river play
+
+om Two Plus Two
+
+GAMBLING
+THEORY
+
+other Topics
+
+PROFESSIONAL
+Poker Dealer's
+HANDBOOKd:\work\kindle\holdem\737.png @@ Books from Two Plus Two
+
+GETTING STARTED
+
+ÅgHOLD ÅfEm
+Ed Miller
+
+Un fs
+
+Small Stakes
+mHolih em
+
+ÅeWinning Big With Expert Play
+
+B
+
+PROFESSIONAL
+NO-LIMIT HOLD'EMd:\work\kindle\holdem\738.png @@ AD ig
+aw eg
+salittey hit
+Hold Åeem
+
+DADS
+
+t www.twoplustwo.com.d:\work\kindle\holdem\739.png @@ APPLICATIONS of No-Limit Hold Ågem
+
+MATTHEW JANDA
+
+"SY One of the most daunting moments ina poker player's
+career occurs when he realizes his knowledge of how
+to play a specific hand well is incomplete without the
+additional understanding of how to play every other
+hand in his range well. This task would be impossible
+if a player had to actually think about every other
+hand in his range, but by understanding theoretical
+sound poker, he can quickly design balanced ranges
+using the proper bet-sizing while playing.
+
+Applications of No-Limit Hold Åeem teaches theoretical sound poker, and thus
+the ability to create the bet-sizings and ranges that will beat the better players.
+The theory in this book is not designed to be complex or abstract, but rather it
+is intended to be applied immediately, producing better overall results
+
+Many confusing concepts such as overbetting, balancing multiple bet-sizing
+ranges, donk betting, and check-raising as the preflop raiser are crucial to
+a player's strategy, despite few players implementing them or talking about
+them. After reading this book, you should be able to not only conceptually
+understand these ideas, but also know how to begin to incorporate them into
+your game and thereby successfully compete against tough opponents.
+
+For the best discussion of poker and gambling on the Internet, visit our forums at
+
+aa a
+
+E-books and translated print editions soees to'sÅh?
+PROMOTERS RIMM tson-13: 978-1ssosesss<
+
+Åenow being translated into many different 53995>|
+languages including French, German,
+Italian, Portuguese, Russian, andSpanish.
+Other books are being made available
+7
+
+as e-books. For more information, visit
+
+reece 7818501685556

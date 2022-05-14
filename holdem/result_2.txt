@@ -1,0 +1,1297 @@
+d:\work\kindle\holdem\101.png @@ whether the 3-bet came from the small blind or big
+blind, the two values are similar and against a big
+blind 3-bet the 4-bet must succeed about 57 percent
+of the time to make an immediate profit.
+
+(12.5)(X) -(16.5)-X) >
+
+X = 0.569
+
+So far in this chapter weÅfve done a lot of math.
+
+Therefore, itÅfs probably a good idea to summarize
+what weÅfve found and make sure we donÅft have any
+contradicting thoughts.
+
+1. The button raise first in cannot succeed more
+than 62.5 percent of the time or else he should
+open with any two cards  even two blank
+cards.
+
+2. The weakest hand in the button opening range
+will lose 2.5 big blinds every time one of the
+blinds 3-bets.
+
+3. The blinds cannot defend by 3-betting more
+than 37.5 percent of the time combined.
+
+4. The blinds must defend more than 37.5 per-
+cent of the time if they ever just call preflop.
+
+5. The worst hand in the button opening range is
+
+indifferent to raising and folding preflop.d:\work\kindle\holdem\102.png @@ 6. The big blind will not cold call unless the entire
+expected value for his hand is greater than -1
+big blind
+
+7. The small blind will not cold call unless the
+entire expected value for his hand is greater
+than -0.5 big blinds.
+
+8. Hands in the small and big blind flatting range
+will on average have a higher expected value
+against weaker hands than stronger hands in
+
+the button opening range.
+
+The weakest hand in the big blind calling range
+will most likely be indifferent to calling and folding
+preflop. This means the hand has an expected value
+of approximately -1 big blind against the button
+opening range. We will know we're at a possible
+equilibrium when the weakest hand in the button
+opening range is indifferent to opening and folding,
+and the weakest hands in the big blind and small
+blind flatting ranges are indifferent to calling and
+folding.
+
+We now have the opportunity to make a long and
+cumbersome equation (which canÅft be solved) to
+try to find the expected value of a button open.
+However, instead of doing this, we'll use a less
+precise but more practical equation to try to figured:\work\kindle\holdem\103.png @@ out what button opening and blind defending
+ranges make sense.
+(EVwhen both blinds fold) (frequency both blinds fold) +
+(average EV when called )( frequency called) 
+
+(EV when 3 - bet )( facing 3 - bet frequency) = 0
+We can begin by plugging in the values we already
+know.
+
+(1.5)( frequency both blinds fold)
++ (average EV when called) (frequency called) 
+(2.5) (facing 3 - bet frequency) =0
+
+This problem would be solvable if we knew the
+average expected value of the worst hand in the
+button opening range when called. Unfortunately,
+there is no way for us to get this value. We would
+practically (quite possibly even literally) need
+to solve the entire game of poker to get this
+information.
+
+Yet there are still ways this equation can be useful.
+We can start by plugging in values for commonly
+used ranges to solve for the unknown. If the ranges
+look reasonable, we can attempt to use them
+against good opponents while continuing to refine
+them through trial and error.
+
+LetÅfs start by designing what we think are
+theoretically reasonable 3-betting ranges. We knowd:\work\kindle\holdem\104.png @@ the 3-bet percentage from the blinds must be less
+than 37.5 combined, and at least 43 percent of the
+3-bets must be defended against 4-bets. Hence, a
+good starting point is a 3-betting range from the
+blinds which consist of 5 percent value hands (TT
++, AJs+, AQo+) and 7.5 percent bluffs. This brings
+the total 3-bet percentage to 12.5 percent in each
+position.
+
+This is a pretty standard 3-betting range many
+good players use. Since 40 percent of the 3-betting
+range consists of strong hands, itÅfs not hard to
+defend at least 43 percent of the range to a 4-bet by
+mixing in some calls and 5-bet bluffs. If the small
+blind and big blind each 3-bet 12.5 percent of the
+time, then the button will be 3-bet 23.4 percent of
+the time total.
+
+0.234 =1-(0.875)*
+
+LetÅfs also assume the small blind and big blind call
+10 and 20 percent of the time respectively when
+there is no 3-bet. This means either one or both
+positions will call approximately 24.3 percent of
+the time.
+
+0.243 = (0.1)(0.875) + (0.2)(0.775)
+where
+0.875 is the fraction of the time the big blind does
+not 3-bet after the small blind calls, andd:\work\kindle\holdem\105.png @@ 0.775 is the fraction of the time the small blind
+folds to the button open.
+
+We now have enough values to plug into our
+equation. If we defend the blinds this way, letÅfs see
+how much money we expect the button to win or
+lose on average when he opens with the worst hand
+in his opening range if heÅfs to remain indifferent.
+(0.234)(2.5) + (0.243)(X) + (1 0.234  0.243)(1.5) =0 >
+X =-0.82
+
+where
+
+(0.234)(-2.5) is the EV when button is 3-bet,
+(0.243)(X) is the EV when button is called, and
+(1-0.234 - 0.243)(1.5) is the EV when both blinds
+fold.
+That is, the button expects to lose on average 0.82
+big blinds when the worst hand in his opening
+range gets called if heÅfs to remain indifferent.
+
+Now letÅfs interpret the significance of this value.
+When the button open is called by just one of the
+blinds, he gets to see in position a flop of either 5.5
+or 6 big blinds. And if he expects an average result
+to be -0.82 big blinds, his expectation is to get back
+only 1.68 big blinds from the pot. Does this value
+seem reasonable?
+
+While I by no means know the exact correct
+answer, my opinion is no! The blinds both haved:\work\kindle\holdem\106.png @@ fairly wide calling ranges and the button will
+always have position.Åf And since an expected value
+of only 1.68 big blinds is less than one-third of an
+at least 5.5 big blind pot, it appears that the button
+could open with extremely weak hands and still
+have an expectation greater than this. Therefore,
+this leads me to believe the blinds are not 3-betting
+and/or calling as aggressively as they need to be
+with the values we used.
+
+8 In future sections of this book, weÅfll see that
+position is extremely valuable when both players
+have wide ranges.
+
+LetÅfs pause for a moment and emphasize the
+importance of the last few pages. This concept
+wonderfully shows how despite the fact that
+we're often very restricted on what we can prove
+theoretically, we can check our thought process
+for contradictions as well as make models and
+ask ourselves ÅgDo these ranges seem reasonable?Åh
+Theory is much better at showing us when
+something must be wrong than when something
+must be correct. This means theory can be used to
+estimate what are likely reasonable ranges and then
+slowly improve them over time as well as adjust
+them to exploit our specific opponents as needed.d:\work\kindle\holdem\107.png @@ ItÅfs also important to stress the difficulty of
+explaining theory in a methodical and efficient
+way. Of course, as the author, this is my problem
+and not yours. But right now there is a lot of other
+theory available to help us analyze these ranges
+that I simply canÅft use yet. Put another way, itÅfs not
+possible to answer every question you likely have or
+TÅfll constantly be going off on tangents and wonÅft be
+efficiently moving through all the theory we need
+to cover.
+
+For instance, you might ask, ÅgWell, whatÅfs the
+big deal if the button can open an extremely wide
+range profitably? This may not suggest the blind
+defending ranges we used are wrong, only rather
+that the button can open an extremely wide range
+profitably.Åh The problem is once a player starts
+opening a wide range on the button, he becomes
+extremely vulnerable to aggressive 3-betting 
+see ÅgUnderstanding Complex Ranges  Defending
+Enough Against 3-BetsÅh starting on page 69.
+
+And while I do have a choice in what order the
+information is presented, itÅfs often difficult to
+discuss one concept without having first discussed
+another related one. Nevertheless, I must discuss
+one concept first.d:\work\kindle\holdem\108.png @@ Finally, you likely noticed we treated all flats
+from the big blind and small blind the same when
+plugging values into the equation. This is an
+estimate we used to allow us to solve for a single
+variable. Models always simplify complex problems
+and we cannot leave too many variables in our final
+equation. More advanced readers should feel free to
+build on the methods we've previously discussed.
+Aslightly more complex formula which plugs
+indifferent values for a big blind and small blind
+cold call could easily be used if one desires.
+
+Before moving on, letÅfs use the formula one more
+time with different values. We'll assume the small
+blind 3-bets 16 percent and calls 8 percent of the
+time, and the big blind 3-bets 14 percent and calls
+20 percent of the time. We first should notice
+the blinds will be 3-betting the button open 27.8
+percent of the time.
+
+0.278 = 0.16 + (0.84)(0.14)
+
+In addition, the button open will also be called 21.7
+percent of the time.
+
+0.217 = (0.08)(0.86) + (0.20)(0.74)
+
+Plugging in these numbers show the button must
+on average have an expected value of -0.29 big
+blinds when called to be indifferent to opening the
+
+worst hand in his range.d:\work\kindle\holdem\109.png @@ (0.278)(2.5) + (0.217)(X) + (L 0.278 0.217)(1.5) =0 >
+X=-0.29
+
+The button expects to on average lose 0.29 big
+blinds when the worst hand in his opening range
+is called. This value looks more reasonable to
+me. The buttonÅfs hand will be weak compared
+to the average hand in the small blind and big
+blind flatting ranges, but there will also usually
+be some dead money in the pot and he has the
+advantage of position. So while we do not have
+game theoretically perfect defending ranges, we
+likely have reasonable values for defending against
+
+a button open that we can slowly tweak over time.d:\work\kindle\holdem\110.png @@ Examining
+
+Complex Ranges
+ Designing
+
+Defending Ranges To
+Maximizing EV
+
+Although the previous concept showed us how to
+examine if blind defending ranges look reasonable,
+it did not address what hands go into each of
+those ranges. An oversimplified rule which many
+beginning players often find useful is to raise strong
+hands for value, call with hands not quite strong
+enough to raise, bluff raise hands just not strong
+enough to call, and fold the worst hands.
+
+While this rule provides a simple starting point, it
+also causes a couple of problems.d:\work\kindle\holdem\111.png @@ 1. It encourages players to think hands can
+
+accurately be ranked from strongest to
+
+weakest based on their equity alone.
+
+2. It does not take into account that the
+
+opponentÅfs range will change based on what
+line we take and this causes the equity of
+our hands to change. For this reason, hands
+which work best as calls donÅft always have
+more equity than hands which work best as
+
+bluff raises.
+
+Since a game theoretically optimal player
+will always take the line which maximizes his
+expectation, we should be 3-betting and cold
+calling with the hands which work well in those
+ranges. No simple rule will suffice, and this requires
+us to always be aware of what our opponentÅfs range
+consists of and how calling, betting, and raising all
+impact that range.
+
+LetÅfs continue with designing blind defending
+ranges when facing a button open. When we call
+in the big blind against a button open, we'll almost
+always play against a wide range for a small pot.
+This means our calling range should put mored:\work\kindle\holdem\112.png @@ emphasis on flatting with hands which make
+marginal pairs at a high frequency and can win
+small and medium sized pots.
+
+The most obvious hands to call a button open
+with in the big blind will be suited hands such as
+king-ten, queen-ten, queen-jack, and king-nine. Of
+course, other types of hands will be needed in the
+flatting range, but all of these can make good pairs
+on the flop which do well against a wide opening
+range.
+
+While these hands do well in small raised pots,
+they will be much trickier to play in 3-bet pots.
+ThatÅfs because 3-betting results in our opponentÅfs
+flop range being much stronger, and itÅfs often
+difficult, when out of position, to play top pair with
+a mediocre kicker for a large pot. So calling preflop
+with hands like the K#9 @ and Q#T @is probably
+best since this keeps our opponentÅfs range wide and
+allows us to frequently have the better kicker when
+we make a pair.
+
+Continuing on, hands which work particularly
+well as 3-bet bluffs are hands which have the
+potential to make very strong hands by the river
+and can be bluffed on the flop and turn effectively.
+For example, hands like thed:\work\kindle\holdem\113.png @@ awe a
+vw WV &
+and the
+wv) wey
+v
+a a! |4 a
+
+make effective bluffs since they have the potential
+to make nut hands by the river. We almost always
+know we hold the best hand with suited connectors
+
+and rarely have trouble realizing their equity.
+
+Often times we will 3-bet bluff a hand such as six-
+five suited, which also could be profitably called
+preflop. Although calling with a small suited
+connector likely has a positive expectation, it often
+makes weak pairs which won't win at showdown
+ina raised pot. However, in 3-bet pots, where we
+will have five outs to two pair and trips and will
+occasionally win a massive pot, these pairs usually
+work better.
+
+Also notice that when our opponent has position,
+he will usually defend against our 3-bets by flatting
+since this requires us to play a large pot out of
+position. Therefore, this allows us to 3-bet withd:\work\kindle\holdem\114.png @@ hands that do well in 3-bet pots even if they have to
+occasionally fold to a 4-bet.
+
+Unfortunately, not all of our bluffs will be with
+ideal bluffing hands. ItÅfs often necessary to 3-bet
+bluff with hands like the K Åë 7 from the small
+blind despite the fact that they can lead to tougher
+situations post-flop. We simply arenÅft dealt enough
+suited connectors and suited gapers to balance out
+our value 3-bets, and as already seen, we should be
+3-betting quite aggressively against a button open.
+While top pair no kicker is usually difficult to play
+out of position in a large pot, itÅfs still useful to have
+some marginal hands in our flop checking range.d:\work\kindle\holdem\115.png @@ Examining
+
+Complex Ranges
+ Balance
+
+Few concepts in poker are as misunderstood and
+misapplied as ÅgbalancingÅh a range. If our range is
+not balanced, our opponent will often be able to
+take extremely effective lines against that range. A
+balanced range is the by-product of playing every
+hand in our range in a way which maximizes, on
+average, its expected value.
+
+There will usually be some board textures which
+favor our opponent's range more than ours no
+matter how balanced our preflop range is. For
+instance, if our range is much weaker than our
+opponentÅfs, he will be able to make large bets at
+a high frequency since he knows we'll rarely be
+strong. This encourages us to put hands in our
+preflop range which allow us to connect better on
+boards which would otherwise miss our range,
+
+and we'll occasionally win a massive pot when wed:\work\kindle\holdem\116.png @@ have one of the few possible strong hands in an
+otherwise weak range.
+
+LetÅfs visualize this process by examining a cutoff
+versus button situation and assume the button.
+always 3-bets aces and ace-king preflop against a
+cutoff open as most players do. This means that
+when the button does not raise he will not have
+many strong hands on king high flops and the
+cutoff can then exploit him by making large bets
+frequently on king high boards. Notice that itÅfs rare
+for the button to have many hands stronger than
+two kings with a queen kicker.
+
+This means the button now has an incentive
+to change strategy. Since he may win a large pot
+when the flop comes king high and he holds aces
+or ace-king, flatting those hands preflop is now
+more profitable than 3-betting. In addition, by
+flatting some strong hands preflop the button will
+sometimes win a large pot when a player in the
+blinds squeezes  reraises preflop.
+
+Now once the cutoff notices the button has aces
+and ace-king in his range on king high flops, he
+should start betting less aggressively, and these
+adjustments back and forth eventually lead both
+players to playing close to game theoretically
+optimally and establishing an equilibrium. Thed:\work\kindle\holdem\117.png @@ button, while usually 3-betting preflop with aces or
+ace-king, will occasionally call with them, and the
+cutoff will play king high flops aggressively, but not
+as aggressively as before.
+
+We may run into a similar problem if we never
+flat any strong hands in the small blind. If this is
+the case, our range will become quite vulnerable
+to squeezes from the big blind. Also notice that the
+big blind does not have this problem since no one
+can squeeze after he calls. While the big blindÅfs cold
+calling range is condensed  no very strong hands
+ the flop will usually put some two pairs and
+sets in the big blinds range before the button can
+capitalize on this.
+
+For this reason, it may make sense to put some
+strong hands in the small blind flatting range. We
+cannot prove this, and it may be the case that the
+small blind should almost always fold to a squeeze
+and expect the button to do most of the defending.
+Yet the idea to occasionally flat a few aces or ace-
+king hands at the very least seems reasonable in
+theory, and is something we should surely do in
+
+practice if the big blind is an aggressive squeezer.d:\work\kindle\holdem\118.png @@ Examining Complex
+
+Ranges
+
+ Board Texture
+
+Frequencies
+
+Another important consideration to take into
+account when designing defending ranges is the
+frequency a certain flop will come since weÅfre more
+concerned with connecting on flops which occur
+at a higher frequency. For instance, missing a king
+high flop is much more problematic than missing
+a seven high flop since king high flops occur much
+more often. This is important to consider when
+deciding whether or not itÅfs problematic if a range
+misses on a certain flop texture.
+
+Below are the odds that a flop comes with a certain
+high card. Ace high flops are of course the most
+common as more cards can come underneath them.
+than any other card, while flops eight high and
+
+lower are quite rare.d:\work\kindle\holdem\119.png @@ HighCard | SingleHigh | TwoHighCards | Total
+Card (Axx, (AAx, KKx, etc)
+Kxx, ete)
+Ace 20.4% 1.3% 21.7%
+King 17.1% 1.2% 18.4%
+Queen 14.1% 1.1% 15.2%
+Jack 11.4% 1.0% 12.4%
+Ten 9.0% 0.9% 9.9%
+Nine 6.8% 0.8% 7.6%
+Eight or less - - 14.8%
+
+While itÅfs useful to have a general sense of how
+frequently a certain flop texture will come, this is
+not information we need to commit to memory.
+Instead, we should notice how unlikely the board is
+to come eight high or lower and how 67.7 percent
+of all flops have at least one card which is a jack or
+higher.
+
+As we'll see, cold calling ranges from the blinds
+are often designed to miss on eight high and lower
+flops. This is largely due to the fact that these flops
+are not likely so missing them when they do occur
+will only rarely cause problems.
+
+In addition, as we'll discuss in future chapters,
+these low boards are particularly difficult to playd:\work\kindle\holdem\120.png @@ out of position. Even if we do put more low suited
+connectors in our calling range, holding the
+
+wy) wey
+vy vy
+aa a4
+out of position on the
+See fe) be
+he & &
+ne) *: | * 3
+
+flop will still not be a favorable situation. This
+means that check-folding from the blinds at a high
+frequency is likely the best way to approach these
+boards. Instead of connecting on them, weÅfll design
+our calling range to hit the more common jack and
+higher boards.d:\work\kindle\holdem\121.png @@ Understanding Complex
+Ranges  Defending
+
+Enough Against 3-Bets
+
+We know itÅfs necessary to defend wider against
+a raise first in if we defend by calling instead of
+3-betting since calling lets our opponent see the
+flop. Therefore, it should come as no surprise the
+same concept applies when we open and face a 3-
+bet. That is, when we call our opponent's 3-bet,
+heÅfs guaranteed to get to see the flop and have
+the opportunity to either make a strong hand or
+profitable bluff. This forces us to defend many more
+hand combinations than if we only 4-bet or folded.
+LetÅfs start by assuming we use a 45 percent button
+opening range  a reasonable button opening range
+used by many winning players. When we open to
+2.5 big blinds and our opponent 3-bets from the
+big blind to 9.5 big blinds, he risks 8.5 big blinds
+to win 4 big blinds. And as weÅfve already shown,
+this means the big blindÅfs 3-bet cannot be allowedd:\work\kindle\holdem\122.png @@ to succeed more than 68 percent of the time. Put
+another way, itÅfs important to defend at least 32
+percent of our opening range and since our opening
+range is 45 percent, this means we should defend at
+least 14.4 percent of all hands.
+
+0.144 = (0.32)(0.45)
+
+However, the 14.4 percent is correct if we only
+defended by 4-betting, but now we need to figure
+out how many additional hands should be added
+in if we also defend by calling. This will require us
+to use a similar method as we did in ÅgExamining
+Complex Ranges  Defending Enough Against
+Opens,Åh starting on page 54, and start with either
+estimating a range or a value. In fact, the formula
+for the big blinds expectation when bluffing looks
+almost identical.
+
+(EV when button folds )( frequency button folds) +
+(average EV when called) (frequency called) 
+(EV when 4 - bet) (facing 4 - bet frequency ) = 0
+
+There are two ways we can approach this problem.
+The first is to plug in our typical calling and 4-
+betting ranges and see what the big blindÅfs average
+expected value must be when his 3-bet bluff is
+called for him to be indifferent. In fact, it may bead:\work\kindle\holdem\123.png @@ good idea to do this now before moving on just to
+see what value you come up with.
+
+Another option is to estimate the big blindÅfs
+expected value when we call his 3-bet bluff and
+then design the defending ranges accordingly.
+HereÅfs an example. We expect the big blind will on
+average lose 5.5 big blinds when the weakest 3-bet
+bluff in his range is called. This means he will get
+on average 3 big blinds back from the 18 big blind
+pot. This estimate may seem low, but as will be
+shown in the hand chart, the worst hand in the big
+blind 3-betting range is very weak. That is, it makes
+sense to expect the big blind to rarely be in a highly
+profitable spot post-flop when heÅfs out of position
+with the weakest hand in his 3-betting range.
+
+Furthermore, letÅfs assume that when facing a 3-bet
+on the button, we will 4-bet 5 percent of the total
+hands we're dealt. This is a reasonable estimate if
+we use a small 4-bet sizing with a range of KK-JJ, AK,
+and bluffs. This results in us 4-betting 11.1 percent
+of the time we face a 3-bet.
+
+0.111 = 295
+
+0.45
+Now we can plug these values into the previous
+equation and solve for how wide our button calling
+
+range must be when facing a 3-bet.d:\work\kindle\holdem\124.png @@ (4) X  0.111) +(-5.5)(X) + (-8.5)(0.111) =0 >
+X = 0.275
+where
+4 is the blindÅfs EV when the button folds,
+1-X-0.111 is the frequency that the button
+folds,
+-5.5 is the blindÅfs EV when the button folds,
+X is the buttonÅfs folding frequency,
+0.111 is the frequency the button 4-bets, and
+-8.5 is the blindÅfs EV when the button 4-bets.
+Therefore, the button should defend 27.5 percent of
+his opening range by calling against the big blindÅfs
+3-bet. This comes out to be 12.4 percent of all hands
+the button is dealt preflop.
+0.124 = (0.275)(0.45)
+We can repeat this process and instead assume
+our opponent's bluffs only lose 4.5 big blinds when
+they are called. The same math as above will show
+we then need to defend 30.7 instead of 27.5 percent
+of our opening range by calling. Remember, these
+calls are in addition to the 4-bets, so we are in total
+defending around 40 percent of the hands we open
+preflop when we face a 3-bet.
+LetÅfs take a moment and examine what button 3-
+bet calling ranges may look like for different raise
+first in frequencies. The math below assumes a 2.5d:\work\kindle\holdem\125.png @@ big blind open in the button and a 9.5 big blind 3-
+bet. Remember, thereÅfs no way to prove which calls
+are better preflop. A player could reasonably argue
+itÅfs better to flat a 3-bet on the button with queen-
+jack offsuit instead of sixes or seven-six suited and
+vice versa. In all likelihood, if the decision looks
+close, there is probably not a huge difference in the
+expected value of either hand.
+
+The following table produces the range of hands
+the button raiser will call a 3-bet from the big blind.
+It assumes the big blind will lose 5.5 big blinds
+when his worse 3-bet is called.
+
+Button 3-Bet Calling Range
+Opening Range | Percentage Percentage of Possible Cold
+of Opening All Possible calling Range
+Range Called Hands Called
+30% 20.1% 6.0% AA, TT-88,
+AQo, KQo, AQs-
+ATs, KQs-KJs,
+QJs, JTs, T9s
+40% 25.7% 10.0% AA, TT-77, AQo-
+AJo, KQo, AQs-
+A9s, KQs-KTs,
+QJs-QTs, JTs-
+J9s, T9s, 985,
+87s, 76s, 658
+50% 28.9% 14.5% AA, TT-55, AQo-
+ATo, KQo-Kd:\work\kindle\holdem\126.png @@ QJo, AQs-
+KQs-KTs, QJs-
+Q9s, JTs-J9s, T9s-
+T8s, 98s-97s,
+875-865, 765, 655
+
+Ss,
+
+60%
+
+31.4%
+
+18.8%
+
+AA, TT-22, AQo-
+ATo, KQo-KJo, QJo,
+AQs-A8s, A5s-
+A2s, KQs-K9s,
+QJs-Q9s, JTs-J9s,
+T9s-T8s, 988-975,
+875-865, 768-758,
+65-645, 54s
+
+The next table produces a possible range of hands
+the button opener will call when facing a 3-bet from
+the big blind assuming the big blind loses 4.5 big
+blinds when his worse 3-bet is called.
+
+OpeningRange | Percentage Percentage of | Possible Cold Calling Range
+of Opening All Possible
+RangeCalled | Hands Called
+30% 22.5% 6.8% AA, TT-88, AQo-AJo,
+KQo, AQs-ATs, KQs-
+KJs, Qs, JTs, T9s
+40% 28.7% 11.5% AA, TT-77, AQo-
+ATo, KQo-KJo, AQs-
+A9s, KQs-KTs, QJs-
+QTs, JTs-J9s, T9s,
+985, 87s, 76s
+50% 32.3% 16.2% | AA, TT-44, AQo-ATo,
+KQo-KJo, QJo, AQs-
+A9s, A5s-Ads, KQs-d:\work\kindle\holdem\127.png @@ K9s, QJs-Q9s,JTs- |.
+J9s, T9s-T8s, 98s-97s,
+875-865, 76s, 65s, 54s
+
+60% 34.8% 20.9% AA, TT-44, AQo-
+ATo, KQo-KTo, QJo-
+QTo, AQs-A2s, KQs-
+
+K7s, QJs-Q9s, JTs-
+J9s, T9s-T8s, 985-97,
+875-86s, 768-755,
+65s-645,54s
+
+Notice all of these button flatting ranges include
+aces. Aces have a strong removal effect and are
+unlikely to be outdrawn by the opponent on the
+flop. (We can always raise the flop and turn if the
+board is particularly threatening.) Aces make
+a strong hand on board textures which would
+otherwise miss our flatting range and because of
+this, I believe there is more value in flatting aces
+than 4-betting them preflop. Kings and queens
+could also be called preflop, but since these hands
+fear overcards, they are more risky to slowplay.
+
+Also notice how wide the buttonÅfs 3-bet flatting
+range quickly becomes once the button is opening
+over 50 percent of the hands. Weak pocket pairs and
+low suited connectors get placed in the 3-bet calling
+range even if we assume a low expected value on
+the flop for our opponent's 3-bet bluffs. Specifically,
+assuming our opponentÅfs worst 3-bet bluff losesd:\work\kindle\holdem\128.png @@ less than 5.5 big blinds when called, we will need
+to start calling with weak suited aces and suited
+kings, hands that are going to be difficult to play
+effectively post-flop, especially against a polarized
+range.
+
+As mentioned previously, one of the biggest
+problems when designing 3-bet calling ranges is
+as the range gets wider, the big blindÅfs 3-bet bluffs
+also get more profitable opportunities post-flop.
+While it may be possible the expected value of a
+weak 3-bet bluff will only be on average 3 big blinds
+on the flop against a very strong range, as the 3-bet
+calling range gets wider, itÅfs going to become more
+difficult to prevent the 3-bettor from profitably
+bluffing his weak hands. When flatting against
+3-bets with hands as weak as the 5@4@ andthe
+334, itÅfs unlikely the big blind will lose 5.5 big
+blinds or more when the worst 3-bet in his range is
+called. Again, thatÅfs because the defending range is
+so weak.
+
+This suggests itÅfs unlikely the buttonÅfs opening
+range should be exceptionally wide for a 2.5 big
+blind open. ItÅfs simply too difficult to defend against
+3-bets on the button once we are opening over half
+the hands weÅfre dealt preflop. Some players may
+disagree with this, but if they do, they must eitherd:\work\kindle\holdem\129.png @@ be comfortable defending an extremely wide range
+against 3-bets or believe the opponent's 3-bet bluffs
+will only rarely get into profitable spots post-flop.
+In reality, this is most likely the opposite of what
+many good players think. ThatÅfs because the best
+players at a given stake can open the button much
+wider than they should theoretically be able to
+since they are more skilled than their opponents. In
+addition, itÅfs much easier to make mistakes when
+out of position than in position which further
+reinforces the superior playerÅfs advantage.
+Likewise, mediocre players look at how the best
+players play and try to mimic them. If the biggest
+winners are able to open 70 percent of their hands
+on the button, many mediocre players will copy
+them and it won't take long before itÅfs generally
+accepted among poker players to open the button
+much wider than is theoretically correct. Mob
+mentality is alive and well in the poker community,
+and it gets increasingly difficult to improve asa
+player when one finds themselves no longer able
+to simply copy what other successful players are
+doing.d:\work\kindle\holdem\130.png @@ Understanding
+Complex Ranges 
+
+Defending Against
+4-Bets
+
+One of the more difficult aspects of preflop play
+is deciding how to defend against 4-bets. WeÅfve
+already discussed how conceptually it can make
+sense to flat against a 4-bet both in and out of
+position, so we won't repeat that here. Nevertheless,
+deciding how to handle a 4-bet is a difficult concept
+to approach and often there is no clear answer.
+
+We will now attempt to analyze possible ways to
+defend against button 4-bets after3-betting from
+the blinds. There are two general ways to approach
+this problem:
+
+1. Design our 3-betting range so that every
+
+hand can comfortably 5-bet jam or fold
+
+when facing a 4-bet. This allows us to avoidd:\work\kindle\holdem\131.png @@ playing large pots out of position, but
+makes small 4-bets very effective against
+
+us.
+2. Defend some hands against 4-bets by
+calling and other hands by 5-betting. This
+
+allows us to call when our opponent gives us
+excellent odds and is likely the best line
+with hands like king-queen suited which
+we do not want to fold but cannot effec-
+tively 5-bet.
+
+Also, when calling a 4-bet, itÅfs important to
+remember that the call only needs to be profitable
+relative to folding which results in losing 9.5 big
+blinds overall for the hand. So calling the 4-bet
+will have a positive expected value as long as we
+expect to lose, on average, less than this amount. In
+addition, this allows us to check-fold the flop at a
+high frequency since we are just trying to lose less
+than 9.5 big blinds overall for the hand.
+
+After calling a 4-bet out of position, we are likely
+not going to be able to prevent our opponent from
+being able to profitably bet any two cards on the
+flop. When his 4-bet bluff is called, heÅfll have
+already invested 19.5 big blinds preflop, so allowingd:\work\kindle\holdem\132.png @@ him to make a profitable bet post-flop with any two
+cards is not a problem. ThatÅfs because he'll still lose
+money by 4-bet bluffing too weak of hands preflop
+despite the fact that he can often make profitable
+bluffs post-flop.
+
+For example, suppose we fold enough to our
+opponentÅfs flop bet in a 4-bet pot that his expected
+value is +5 big blinds when he bets any two cards
+on the flop. When he has no equity on the flop, heÅfll
+still expect to lose on average 14.5 big blinds total
+for the hand.
+
+-14.5=5-19.5
+where
+19.5 big blinds is how much money heÅfs investing
+into the pot to get the profitable post-flop
+opportunity, and
+5 big blinds is the expected value of our
+opponent's bet post flop.
+
+Finally, if our opponent notices our 4-bet calling
+range is weak, heÅfll start betting on the flop at a
+high frequency. This makes slowplaying, as we
+did before by flatting 3-bets from the blinds with
+aces on the button, some very strong hands, such
+as the just mentioned aces, more profitable than 5-
+betting. We already utilized this strategy earlier.d:\work\kindle\holdem\133.png @@ Although we understand the theory behind 4-bet
+flatting ranges well at this point, there are a few
+practical problems with designing and using the
+ranges. The first is even if we use a very aggressive
+3-betting range, we will still have relatively few
+hand combinations in our 4-bet flatting range and
+5-betting range. This often requires us to put the
+same hand in both a 4-bet calling and 5-betting
+range (and sometimes the folding range as well).
+This makes designing the ranges quite difficult.
+
+HereÅfs an example. The button opens and we 3-bet
+in the big blind with the
+
+If we have the best hand preflop and call the 4-
+
+bet, we are out of position and quite likely to be
+outdrawn or bluffed off the best hand on the
+
+flop. Therefore, 5-betting is an option since the
+holding blocks aces, queens, and ace-king in the
+buttonÅfs 5-bet calling range, but ace-queen has less
+equity when called than many suited connectors.
+Arguments for both 5-betting and calling with ace-
+queen can be made and itÅfs possible the hand goes
+
+into both ranges.d:\work\kindle\holdem\134.png @@ Likewise, we may find if we are always flatting
+a 4-bet with hands like ace-jack and king-queen,
+that our calling range consists of too many of these
+types of hands. Imagine what our 4-bet calling
+range will look like if we call with all our ace-queen,
+ace-jack, and king-queen hands. Since each hand
+makes 16 combinations, this would result in our
+4-bet calling range including 48 combinations of
+these three hands, and this may make our range
+too transparent enabling our opponent to play
+extremely effectively against us. ThatÅfs because
+he will know we often have many strong but not
+amazing hands on ace and queen high boards.
+
+So to avoid having too transparent of a range,
+this likely requires us to flat 4-bets with a few
+combinations of suited connectors. And if we
+are flatting only a few combinations of suited
+connectors, we must believe the expected value
+of flatting and folding (as well as possibly even 5-
+betting) is approximately equal.
+
+Finally, we must also remember that neither our
+opponents nor ourselves are capable of playing
+theoretically optimally post-flop. With this in
+mind, who do you think is more likely to make a
+mistake in a 4-bet pot, the player who is in position
+with a polarized range, or the player out of positiond:\work\kindle\holdem\135.png @@ with a condensed range? Remember, a polarized
+range in position is much easier to play, so this
+encourages players to minimize flatting 4-bets
+out of position when possible unless they are very
+confident with their post-flop play.
+
+For these reasons, itÅfs not likely a productive use
+of time to attempt to design and memorize 4-
+bet calling ranges. They are simply too difficult
+to develop precisely since there are probably
+many hands which have approximately the same
+expected value taking different lines. It would
+instead be wiser to know what hands are reasonable
+to flat 4-bets without of position and then
+consider calling with those hands against the right
+opponents.d:\work\kindle\holdem\136.png @@ Recommended
+Hand Chart
+
+The following hand chart was created with one
+of my poker friends, Nick Howard. These ranges
+assume a 3.5 big blind open in all positions except
+for the button where it is 2.5 big blinds. While far
+from perfect, these ranges are reasonable for players
+to examine and use against strong opponents if
+they donÅft want to spend the time creating their
+own.
+
+In addition, while a small change in bet sizing
+will not greatly impact most ranges, the smaller
+the opening sizing, the more aggressively the
+remaining players must defend. If the open is 3
+big blinds, the remaining positions will have to
+defend more aggressively than if the open is to 3.5
+big blinds. Likewise, if we use a smaller opening
+size, we should be able to open a bit wider, but as
+implied, our opponents will be able to call more
+hands profitably from the blinds and elsewhere.
+
+ItÅfs also worth pointing out that I chose to defend
+very aggressively from the blinds against a button
+open, much more than most players are probablyd:\work\kindle\holdem\137.png @@ use to. In fact, the button must win on average
+
+0.74 big blinds when his worse open is called for
+him to break even. Yet since most all the calls will
+come from the big blind, who, with the worse hand
+in his calling range, is only trying to lose less than
+
+1 big blind overall, I think this is best. However,
+newer players should likely defend less aggressively
+since playing out of position with a weak range is
+difficult.
+
+Finally, note that many percentages are rounded
+or estimates, and to make a more accurate and
+detailed hand chart is quite difficult and can
+quickly become cluttered. In addition, the bluffs
+listed are meant to give a sense of the type of bluffs
+which are reasonable for that position. They are not
+in the sense that these are the only recommended
+bluffing hands. In fact, if we only bluffed with these
+hands, our range might be come too transparent.
+
+Preflop is far from solved and while strong preflop
+play is critical to success in no-limit hold Åfem, itÅfs
+much more important to have a general sense of
+what types of hands go into what ranges and to
+understand why rather than memorize specific
+ranges. So donÅft needlessly spend time memorizing
+an imperfect hand chart when your time would
+be better spent elsewhere, and donÅft use Ågbut itÅfsd:\work\kindle\holdem\138.png @@ likely correct in theory!Åh as an excuse for taking a
+line that is terrible in practice against your specific
+opponent.
+
+Also, a* appears with some of the hands. This
+means the hand either goesinto multiple ranges or
+is meant to draw attention to the fact that only a
+limited combination of these hands are used.
+
+Opening Ranges
+Position | Opening Percentage Range
+UTG 13.9% AA-33, AKo-AJo, KQo,
+
+AKs-ATs, KQs-KTs,
+QJs-QTs, JTs-J9s, T9s,
+98s, 87s, 76s, 65s
+
+MP 17.9% AA-22, AKo-ATo,
+
+KQo, AKs-A7s, A5s,
+
+KQs-KTs, QJs-QTs,
+JTs-J9s, T9s-T8s,d:\work\kindle\holdem\139.png @@ 98s-97s, 87s-86s,
+76s-75s, 65s, 54s
+
+co
+
+23.7%
+
+AA-22, AKo-ATo,
+KQo-KJo, QJo, AKs-
+A2s, KQs-K6s, QJs-
+
+Q7s, JTs-J8s, T9s-T8s,
+
+98s-97s, 87s-86s,
+76s-75s, 65s-64s,54s
+
+Button
+
+47.5%
+
+AA-22, AKo-A20,
+KQo-K7o, QJo-Q90,
+JTo-J90, T90-T8o, 980,
+870, AKs-A2s, KQs-
+K2s, QJs-Q2s, JTs-
+J5s, T9s-T6s, 98s-96s,
+87s-85s, 76s-74s,
+65s-64s, 54s-53s,43s
+
+SB
+
+36.3%
+
+AA-22, AKo-A7o,
+KQo-K9o,
+
+QJo-Q9o, JTo-
+J90, T90, 980,
+
+36.3% AKs-A2s,
+KQs-K2s, QJs-Q4s,
+
+JTs-J7s, T9s-
+T7s, 98s-97s,d:\work\kindle\holdem\140.png @@ 87s-86s, 76s-75s,
+65s-645s,54s
+
+Cold Calling Ranges
+Position Cold Calling Range
+Percentage
+MP Flat 8.5% QQ-55, AKo-AQo,
+vs UTG AQs-ATs, KQs-KJs,
+QJs, JTs, T9s, 98s, 87s
+CO Flat 9.5% QQ-44, AKo-AQo,
+vs UTG AQs-ATs, KQs-KJs,
+QJs, JTs, T9s, 98s,
+87s, 76s, 65s
+Button Flat 11.2% QQ-33, AKo-AQo,
+vs UTG AQs-ATs, KQs-KTs,
+QJs-QTs, JTs-J9s, T9s,
+98s, 87s, 76s, 65s, 54s
+SBFlat 3.6% QQ-88, AKo*,
+vs UTG AQs, KQs
+BB Flat 8.0% QQ-44, AKo-AQo,
+vs UTG AQs-ATs, KQs-
+Js, QJs, JTs
+Co Flat 9.4% JJ-44, AKo-AQo,
+vs MP
+
+AQs-ATs, KQs-KTs,d:\work\kindle\holdem\141.png @@ Qjs-QTs, JTs,T9s, |
+
+98s, 87s, 76s
+Button Flat 10.7% J)-33, AKo-AQo, AQs-
+vs MP ATs, KQs-KTs, QJs-
+QTs, JTs-J9s, T9s, 98s,
+87s, 76s, 65s, 54s
+SB Flat 4.1% JJ-77, AKo*-AQo,
+vs MP AQs, KQs
+BB Flat 8.5% JJ-22, AQo, AQs-
+vs MP ATs, KQs-KJs, QJs,
+JTs, T9s, 98s, 87s
+Button Flat 14.2% AA*, TT-22, AKo*-
+vsCO AJo, KQo, AQs-
+A8s, KQs-KTs,
+
+QJs-QTs, JTs-
+
+J9s, T9s-T8s,
+98s-97s, 87s-86s,
+76s-75s, 65s, 54s
+
+SB Flat 5.6% TT-88, AQo-AJo,
+vs CO KQo, AJs-ATs,
+
+KQs-KJs, QJs
+
+BB Flat 9.8% TT-22, AQo-AJo,
+vs CO
+
+KQo, AJs-ATs, KJs-
+KTs, QJs-QTs, JTs-
+J9s, T9s, 98sd:\work\kindle\holdem\142.png @@ ÅeSB Flat vs
+
+Button
+
+6.9%
+
+99-66, KTo, QJo-
+QTo, A9s-A8s,
+KTs-K9s, QJs-
+
+QTs, JTs, T9s
+
+BB Flat vs
+
+Button
+
+28.2%
+
+99-33, A90-A2o0,
+KTo-K7o, QJo-
+Q8o, JTo-J90, T90,
+980 A8s-A2s, KTs-
+K5s, Qjs-Q7s, JTs-
+J8s, T9s-T8s
+
+BB Flat
+
+vs SB
+
+45.4%
+
+TT-22, ATo-A2o,
+KJo-K7o, QJo-
+Q80, JTo-J80, T9I0-
+T80, 980-970,
+870, 760, ATs-A2s,
+KJs-K2s, QJs-Q2s,
+JTs-J4s, T9s-T5s,
+98s-95s, 87s-85s,
+76s-74s, 65s-64s,
+54s-53s, 43s
+
+3-Betting Ranges
+
+Position
+
+3-Betting
+
+Percentage
+
+3-Betting Ranged:\work\kindle\holdem\143.png @@ Vs UTG 3.6% AA-KK, AJo, KQo,
+3-Bet IP AKs, A5s-A4s
+Vs UTG 3.8% AA-KK, AKo*,
+3-Bet SB 44-33, AKs, T9s,
+and BB 98s, 87s, 76s, 65s
+Vs MP 3- 4.7% AA-QQ, AJo,
+Bet IP KQo, AKs, A5s-
+A4s,T8s, 97s
+Vs MP 3- 5.7% AA-QQ, 66-44, AKo,
+Bet SB AKs-AQs, JTs, T9s,
+98s, 87s, 76s
+Vs MP 3- 5.6% AA-QQ, AKo, AKs-
+Bet BB AQs, QTs, J9s,
+T8s, 98s-97s, 87s,
+76s, 65s, 54s
+Vs co 3- 7.2% AA*JJ, AKo*,
+Bet IP ATo, KJo, QJo,
+AKs, A7s-A2s
+Vs CO 3- 8.0% AA-JJ, 55-44, AKo,
+Bet SB AKs-AQs, KTs,
+QTs, JTs-J9s, T9s-
+T8s, 98s-97s, 87s,
+76s, 65s, 54s
+Vs co 3- 8.6% AAJ, 44-22, AKo,
+Bet BB
+
+AKs-AQs, A5s-A4s,d:\work\kindle\holdem\144.png @@ K9s, Q9s, T8s,97s, |
+87s-86s, 76s-75s,
+65s-64s, 54s
+
+Vs Button
+
+3-Bet SB
+
+18.1%
+
+AA-TT, 55-33,
+AKo-ATo, KQo-
+KJo, AKs-ATs, A7s-
+A2s, KQs-KJs, K8s-
+K4s, Q9s-Q8s, J9s-
+J8s, T8s, 98s-97s,
+87s-86s, 76s-75s,
+65s-64s, 54s
+
+Vs Button
+
+3-Bet BB
+
+17.5%
+
+AA-TT, 22, AKo-ATo,
+
+KQo-KJo, AKs-
+AYs, KQs-KJs,
+
+K4s-K2s, Q6s-
+Q2s, J7s-J6s,
+
+T7s, 98s-96s,
+87s-85s, 76s-75s,
+
+65s-64s,
+54s-53s, 43s
+
+Facing a 3-Bet in Positiond:\work\kindle\holdem\145.png @@ Position
+
+Total Defending
+
+3-Bet Flatting Range
+
+4-Betting Range
+
+Range
+ure vs 5.1% KK-TT*, AKo- | AA, 98s, 87s, 76s
+IP3-Bet AQo*, AKs-
+
+AQs, KQs
+ÅeMP vs IP 6.4% QQTT, AKo- | AA-KK, AKs, 98s,
+3-Bet AQo*, AKs- | 87s, 76s, 65s, 54s
+AQs, KQs
+covsIP 8.9% AA, JJ-99, AKo*- | KK-QQ, AKo*,
+3-Bet AQo, KQo, AQs- | AKs, T9s, 98s,
+Als, KQs-KJs, QJs | 87s, 76s, 65s
+Button 21.4% AA,TT-77,AQo- | KKJJ, AKo,
+vs 3-Bet ATo, KQo-KTo, | AKs, As, A4s-
+QJo, AQs-A7s, | A2s, K8s-K4s,
+A5s-A2s, KQs- Q8s-Q7s
+K9s, QJs-Q9s,
+JIs-J9s, T9s-
+T8s, 98s-97s,
+87s, 76s, 658
+uTGvs 5.1% KK-TT*, AKo- | AA, AJs, ATs, 76s
+OOP 3-Bet AQo*, AKs-
+AQs, KQs
+MP vs 6.3% AAÅe,QQ-TT, | AA-KK, 98s,
+OOP 3-Bet AKo-AQo, AKs- | 87s, 76s, 65s
+AJs, KQs, QJs,
+covs 11.6% JJ-99, AKo-AJo, | AA-QQ, AKs,
+OOP 3-Bet KQo, AQs-ATs, A8s-A5s,
+KQs-KTs, QJs- 87s, 76s
+QTs, JTs,T9s,98s
+
+SBvs BB 16% AA,TT-77, AQo- | KK-JJ, AKo,
+
+3-Bet ATo, KQo-KJo, | AKs, T9s-T8s,
+AQs-A9s, KQs-d:\work\kindle\holdem\146.png @@ 's, QJs-QTs,
+JIs-J9s,T9s, 98s | 76s, 65s, 54sd:\work\kindle\holdem\147.png @@ Summary
+
+. When designing optimal preflop defending
+ranges, our main goal is to prevent the preflop
+raiser from being able to open wider than he
+should theoretically be able to.
+
+. We should be more likely to defend our hands
+by calling in position and re-raising out of
+position.
+
+. 3-bet bluffs need folds around 67 to 70 percent
+of the time to show an immediate profit, anda
+player should defend around 40 to 50 percent
+of his 3-bets when facing a 4-bet.
+
+. 4-bet bluffs need folds around 50 to 60 percent
+of the time to yield an immediate profit and
+should call between 50 to 60 percent of the
+time when facing a 5-bet jam.
+
+. 5-bet bluffs usually only need to succeed
+around 40 to 50 percent of the time to be
+profitable if they are randomized with the right
+bluffing hands. Usually, hands like ace-rag
+suited and low pocket pairs work best as 5-bet
+bluffs.d:\work\kindle\holdem\148.png @@ 6. Three-bets on average punish the worst hands
+in our opponentÅfs opening range more severely
+than calling does since calling allows him to see
+a flop.
+
+7. The expected value of 3-betting and 4-betting
+strong but not super premium hands like ace-
+king and queens in position is probably much
+lower against an optimal opponent than play-
+ers expect. With these hands, many players
+are making a mistake by re-raising when they
+should call instead.
+
+8. We must make sure we use calling ranges
+which can connect on many different flop
+textures so our range will not be transparent.
+However, itÅfs also okay to use calling ranges
+which miss on low board textures since 8 high
+and lower boards are quite uncommon.
+
+9. Hand values can change drastically based on
+what range they are facing. For example, king-
+nine offsuit may do well as a cold call in the big
+blind against a button open since the opening
+range includes many weaker king-x and nine-x
+hands. But it may work poorly as a 3-bet since
+
+3-betting makes many dominated hands fold,d:\work\kindle\holdem\149.png @@ and out of position, marginal pairs are tough to
+play for a large pot against a strong range.
+
+10. A hand chart will not be perfect until the game
+of poker is actually solved. But they are cer-
+tainly useful at identifying leaks and helping
+newer players. That is itÅfs more important to
+understand why hands go into certain ranges
+
+than to memorize a hand chart.d:\work\kindle\holdem\150.png @@ Part Three
+
+Post-flop Bet Sizing

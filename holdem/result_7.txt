@@ -1,0 +1,1225 @@
+d:\work\kindle\holdem\351.png @@ then betting a bit less than 0.5 pot-sized bets on
+each street will get all the money in by the river.
+Likewise, the pot will usually be smaller than 25 big
+blinds when the button opens and we 3-bet from
+the blinds. When this occurs, our bets need to be
+slightly larger on each street to get us all-in by the
+river. Nevertheless, while itÅfs important to make
+small bet sizing adjustments based on the flop pot
+size, betting around half the pot will usually get us
+close to all-in by the river.
+
+Therefore, we can once again work backwards
+to figure out what fraction of our flop bets need
+to be value bets if we bet the flop with a perfectly
+polarized range. So if we bet a 0.5 pot sized bet on
+the river, our opponent will risk 0.5 pot sized bets
+to win 1.5 pot sized bets. This requires 75 percent of
+our river bets to be value bets to keep our opponent
+indifferent to calling with his bluff catchers.
+
+(1.5)1X)-(0.5).) =0>
+X =0.75
+
+And as previously explained, when we bet the river
+with a balanced range, our opponent has effectively
+lost, but if we check, since our range is perfectly
+polarized, heÅfll always win. Thus, if we bet 0.5 pot
+sized bets on the turn, our opponent once again
+risks 0.5 pot sized bets to win 1.5 pot sized bets,d:\work\kindle\holdem\352.png @@ and therefore the river must be bet with a balanced
+range 75 percent of the time after betting the turn.
+Likewise, if we bet the flop for 0.5 pot sized bets,
+the turn must be bet with a balanced range 75
+percent of the time. We thus should bet the turn 75
+percent of the time after betting the flop, the river
+75 percent of the time after betting the turn, and 75
+percent of our river bets need to be value bets. This
+results in 42.2 percent of our flop bets needing to be
+value bets.
+0.422 = (0.75)(0.75)(0.75)
+where
+
+the first 0.75 is the turn betting frequency,
+
+the second 0.75 is the river betting frequency, and
+
+the third 0.75 is the percent of river bets which
+
+are value bets.
+
+Furthermore, if we continue using assumptions
+from previous chapters and assume our value bets
+have 85 percent equity and our bluffs 15 percent
+equity, approximately 38.9 percent of our flop bets
+should be value bets. The reason why our value
+bets and bluffs have 85 and 15 percent equity
+respectivly, as opposed to 80 and 20 respectively
+which was used earlier in the book, is because our
+3-betting range is quite polarized which makes it
+more difficult for stronger hands to be outdrawn.d:\work\kindle\holdem\353.png @@ (0.85)(X) + (0.15)(1 X) = 0.422 >
+X = 0.389
+It should come as no surprise that in 3-bet pots a
+
+greater fraction of our flop betting range needs to
+consist of value hands when compared to raised
+pots. ThatÅfs because our bets are smaller in 3-bet
+pots relative to the size of the pot, and our opponent
+thus gets a better price to call on each street. And for
+this reason, we come to our next general rule:
+
+Our flop betting range in 3-bet pots should include!
+around 3 bluffs for every 2 very strong value bets.
+
+Although it may at first seem difficult to balance a
+flop betting range in a 3-bet pot since more of our
+bets need to be value bets, this can be taken into
+account preflop when designing 3-betting ranges.
+More specifically, by 3-betting our strong overpairs
+and ace-king hands preflop, weÅfre guaranteed to
+have several hands strong enough to value bet on
+nearly any board texture. Furthermore, we should
+not often bet our entire range on the flop. Many 3-
+bet bluffing hands with one high card, such as the
+Av5@ andthe KÅë9 Åë, can flop weak top hairs
+hands which make excellent check-calling hands.d:\work\kindle\holdem\354.png @@ Defending Against Flop
+
+Bets in 3-Bet Pots
+by Calling
+
+When facing a half pot-sized bet as the cold caller,
+we'll need to defend at least 66.7 percent of the
+time on each street to prevent our opponent from
+making an immediate profit with his bluffs. If we
+wish to do this, weÅfre required to call down with
+29.7 percent of our flopping range when facing a
+bet on all three streets.
+
+0.297 = (0.667)(0.667)(0.667)
+where
+the first 0.667 is the flop calling frequency,
+the second 0.667 is the turn calling frequency,
+and
+the third 0.667 is the river calling frequency.
+
+Whether or not our opponent should be able to
+profitably continuation bet any two cards on the
+flop will depend on each playerÅfs range and the flop
+texture. Remember, when analyzing preflop play,
+we saw that the out of position 3-bettor pays ond:\work\kindle\holdem\355.png @@ average 6 to 7 big blinds to see a flop with his bluffs,
+and since our opponent risked money preflop, itÅfs
+not necessarily a problem if he frequently gets the
+opportunity to make a slightly profitable bluff post-
+flop. For instance, our opponentÅfs bet with any two
+cards may have a minimum expected value of 2 big
+blinds on a certain flop. Yet if he risked on average
+
+8 big blinds to get that opportunity, then nothing
+suggests we are being exploited.
+
+While the above cannot be proven directly, this
+is likely the outcome which results from optimal
+preflop play. The 3-bet cold caller cannot defend
+enough on many flop textures to prevent the 3-
+bettor from profitably betting any two cards, but
+the 3-bettor risked enough money preflop that
+this is not a problem. Also, if a player 3-bets a hand
+which is too weak preflop, he'll flop poorly with a
+high probability and his expectation for the hand
+will be negative.
+
+In general, our 3-bet calling range does quite well
+on boards which are jack high or higher. ThatÅfs
+because our range usually includes many high card
+hands such as ace-queen, ace-jack, and king-queen.
+Flops which are king high are a bit tougher when
+ace-king isnÅft in our range, but weÅfll still usually
+have a good amount of top pair hands even if ourd:\work\kindle\holdem\356.png @@ kicker isnÅft amazing. In addition, our opponent
+probably shouldn't be able to profitably bet any two
+cards on many high board textures since our range
+is so strong and we have position.
+
+However, itÅfs usually tough to defend on low board
+textures. HereÅfs an example. We open on the button
+and call the big blindÅfs 3-bet to see a flop of the
+
+Åe0,4 | faal Fo |
+ana v
+vv vw oa:
+
+4
+
+This is a great flop for our opponentÅfs 3-betting
+range. It should produce a 57.3 percent equity for
+
+a typical player. ThatÅfs because his range should
+include many more strong overpairs than ours, and
+theyÅfll rarely be outdrawn and can almost always
+continue to be value bet on the turn and river.
+
+In addition, this flop strongly connects with
+our opponent's 3-bet bluffing range. Low suited
+connectors and gappers make excellent 3-bet
+bluffs, and nearly all these hands flopped either a
+pair, draw, or both. Furthermore, overcard hands
+such as ace-king and ace-queen can bluff on the
+flop and will usually improve to the best hand if
+they make top pair on the turn. As a result, nearlyd:\work\kindle\holdem\357.png @@ every bluff in our opponent's flop betting range
+will have considerable equity (much more than 15
+percent) and our opponent is thus able to bluff quite
+aggressively.
+
+Also note that this may be backwards from
+what you've read elsewhere and may even seem
+counterintuitive. New players often associate flops
+with a high card as better for the 3-betting range
+since this range often makes many top pair, top
+kicker hands. And while true, holdings such as
+kings, queens, and jacks are just mediocre when
+the board has a higher card on it, whereas they
+are usually strong value hands when the board
+comes all undercards. In addition, as previously
+mentioned, low boards hit hands in the 3-bet
+bluffing range. Yet hands which work well as 3-bet
+bluffs and improve on low board textures, such as
+the 8@6@ andthe 5 v4y, are often too weak to
+call a 3-bet. The result is low board textures tend to
+strongly favor the 3-bettor.d:\work\kindle\holdem\358.png @@ Defending Against Flop
+
+Bets in 3-Bet Pots
+by Raising
+
+Raising is also an option in 3-bet pots. If we call
+our opponentÅfs 12.5 big blind bet into a 25 big blind
+pot, the pot will be 50 big blinds. As previously
+explained, we can solve for how much the pot needs
+to grow on each street to get all the money in by the
+river, assuming we raise or bet an equal fraction of
+the pot on each street.
+
+50R* = 200=>
+R=159
+where
+50 is the starting pot size,
+200 is the final pot size, and
+Ris the growth rate.
+
+Therefore, by our estimate, the pot would increase
+to 1.59 times its size with each passing street.
+
+The same methodology shown previously in this
+section can be used to show we must raise or bet
+approximately 0.30 pot-sized bets on each streetd:\work\kindle\holdem\359.png @@ to get all-in on the river. This requires us to raise
+the flop to 27.3 big blinds, bet the turn for 23.4 big
+blinds, and bet the river for 36.8 big blinds.
+However, these bet sizings are not important
+to remember and will rarely if ever be used.
+The reason for this is it will be difficult, if not
+impossible, to bet the turn after raising the flop and
+then fold to a check-raise all-in. More specifically,
+once we bet the turn, we'll have only 36.8 big blinds
+remaining. As such, we'll almost always be getting
+odds to call our opponentÅfs all-in check raise. In
+fact, if our opponent check-raises all-in on the turn,
+we'll need only 18.4 percent equity for calling to be
+profitable.
+(163.2)(X)  (36.8)(1 X) =0 >
+X =0.184
+where
+36.8 is the price of the call,
+163.2 is the size of the pot, and
+X is the equity required for calling to be profitable.
+Furthermore, there are few situations where we'll
+be bluffing the turn in a 3-bet pot with a hand
+that has less than 18.4 percent equity against our
+opponentÅfs check-raise all-in. This is true because
+our opponent will often have some draws in his
+check-raising range, especially if he knows we'lld:\work\kindle\holdem\360.png @@ sometimes fold and let him take down a massive
+pot without a showdown. In addition, if weÅfre never
+or almost never folding to his turn check-raises,
+jamming the turn ourselves will be superior as this
+takes away his option to only call our bet. For these
+reasons, making a small turn bet in a 3-bet pot after
+raising the flop is ineffective.
+
+Another option is to raise the flop with the
+intention of only utilizing the flop and turn to get
+stacks all-in. This means there are effectively two
+streets left to act and once again the bet sizing
+formula can be used to estimate what our bet and
+raise sizing may look like.
+
+50R? =200>
+R=2.00
+
+As weÅfve already seen, if the pot must double on
+each street, weÅfre required to make a 0.5 pot sized
+raise on the flop and a 0.5 pot sized bet on the turn.
+This requires us to raise the flop to 37.5 big blinds
+and to bet 50 big blinds on the turn.
+
+Nevertheless, there are many problems with
+raising to 37.5 big blinds. Specifically, our flop raise
+size is now so big that our opponent will often be
+tempted to just go all-in and destroy our positional
+advantage. Moreover, when his flop jam succeeds,
+heÅfll win a large pot, and even when it does not,d:\work\kindle\holdem\361.png @@ heÅfs guaranteed to realize the equity of his hand
+since heÅfs all-in. Lastly, after raising to 37.5 big
+blinds, we'll need only 25 percent equity to call our
+opponentÅfs flop jam, which makes it awkward to
+even raise and fold a gutshot with an overcard.
+
+ItÅfs best to pick a flop raise sizing which is small
+enough so that our opponent canÅft easily go all-
+in and destroy our positional advantage. Yet since
+we donÅft need to raise in 3-bet pots to get all the
+money in by the river, it rarely, if ever, makes sense
+to raise unless we have a strong but vulnerable
+hand. This will usually only occur on wet flops, but
+many players are often afraid to make small raises
+on these board textures because they fear giving
+their opponent odds to call with a draw. However,
+allowing our opponent to make profitable calls with
+his draws is not necessarily a problem.
+
+HereÅfs an example. We open in the cutoff and call
+
+comes the
+
+our the opponent will likely have many gutshots
+in his range. If he continuation bets 12.5 big blinds
+into a 25 big blind pot, and if we raise to only 25 bigd:\work\kindle\holdem\362.png @@ blinds (the minimum) he may be able to profitably
+call with some or all of his gutshots. Therefore,
+some players often think this means our raise sizing
+must be bad since we didnÅft make our opponent fold
+many high equity hands which can outdraw us on
+the turn.
+
+Moving on, letÅfs simplify things a bit and assume
+that if we call our opponent's flop bet when he has
+a gutshot then his expected value is 9 big blinds.
+This seems reasonable since heÅfll make a straight on
+the turn 8.5 percent of the time, the pot is already
+large, and there are implied odds. Yet if we raise the
+minimum on the flop, even if he can profitably call
+with a gutshot, heÅfs likely only barely getting the
+price he needs to call. In other words, it would not
+be surprising if calling a raise with a gutshot here
+has an expected value as low as only 1 big blind.
+
+So in this example, despite the fact that our
+opponent can profitably call our raise with all of his
+gutshots, by raising instead of calling, we greatly
+decrease his expectation. By the way, this feeling
+of just barely getting odds to call and hating it
+should be familiar to even novice players. While
+oftentimes our bet or raise sizing will be designed to
+make the expected value of many of our opponentÅfs
+hands zero, such as is the case when we bet ond:\work\kindle\holdem\363.png @@ the river or bet with a perfectly polarized range,
+sometimes the best we can do is just decrease the
+expected value of many of our opponentÅfs hands.
+And in 3-bet pots, itÅfs likely best to usually make
+a small raise and allow our opponent to profitably
+call with some of his draws and force him to play
+the turn out of position. This results in his range
+being weak on the turn and allows many of our turn
+bluffs to be highly profitable.
+
+As such, making small raises to around 25 to 28
+big blinds on the flop is likely ideal. This forces
+our opponent to still defend aggressively against
+our flop raises since he must defend significantly
+more than half of his range, as well as forces
+him to constantly play the turn out of position.
+Furthermore, when he does call, we have the option
+to comfortably go all in on the turn for around
+a75 percent pot sized bet. And lastly, even if he
+can call on the flop with many of his draws, their
+expectation will likely be significantly lower when
+we raise and force him to either jam or call than if
+we simply called ourselves.d:\work\kindle\holdem\364.png @@ Facing a Flop Check
+
+as the Cold Caller
+in Position
+
+When we call a 3-bet in position, itÅfs reasonable
+to expect our opponent to frequently bet the flop
+since the preflop 3-betting range is polarized while
+the 3-bet calling range is condensed. However, our
+opponent will sometimes check to us in a 3-bet pot
+and when he does, weÅfll play similarly to how we
+would when facing a check in a raised pot. In other
+words, we'll bet primarily a polarized range of value
+bets and bluffs, and only bet marginally strong
+hands if many high equity hands will fold.
+
+Although itÅfs advantageous to be in position, weÅfll
+still want to have around 3 bluffs in our betting
+range for every 2 value bets. In addition, on board
+textures which are difficult for our opponent to
+check-call, we should consider using a smaller bet
+sizing on the flop. This makes our bluff cheaper
+and causes our opponent to defend a wider range
+by either check-calling or check-raising, as well asd:\work\kindle\holdem\365.png @@ results in his winning less money when his check-
+raise succeeds.
+
+HereÅfs an example. We open in middle position and
+call the big blindÅfs 3-bet. If the flop comes the
+
+Swe! ivy) ia w
+wy Åh
+
+a. YY +
+a a
+
+a*a; (avas  %:
+
+our opponent will probably have a difficult time
+
+check-calling with marginal strength hands since
+they will frequently be outdrawn on the turn.
+
+This encourages him to defend his flop checks by
+check-raising more aggressively, and by us betting
+smaller we'll have less money invested if our hand
+gets turned into a bluff-catcher. So small bets are
+often effective when our opponent will have trouble
+check-calling, and this is especially true on the flop
+in 3-bet pots.
+
+Just like in single raised pots, itÅfs common to be
+able to profitably bet any two cards on the flop once
+our opponent checks. More specifically, heÅfll need
+to defend at least 67 percent of the time to make
+our half pot-sized flop bets unprofitable, and this
+isnÅft something heÅfs usually able to do. However, as
+previously discussed, this is not a problem for himd:\work\kindle\holdem\366.png @@ since we risked up to an additional 8 to 9 big blinds
+by calling preflop to maybe get the chance to bluff
+post-flop. Calling 3-bets with weak hands will still
+be a losing play unless our opponent check-folds at
+
+an unreasonably high frequency.d:\work\kindle\holdem\367.png @@ Summary
+
+3-bet pots on the flop are not much different from
+single raised pots other than more money is at stake
+and no raise is required to get all-in by the river.
+Although losing a 3-bet pot is costly, optimal poker
+requires us to play aggressively and frequently put
+our stack at risk. In other words, we must defend
+aggressively against our opponentÅfs flop bets and
+not let the fear of him holding a monster hinder us
+from playing well.
+
+Since the pot is already large on the flop in 3-bet
+pots, bets will usually be smaller relative to the
+size of the pot when compared to raised pots. This
+requires a higher fraction of the flop betting range
+to be value bets since our opponent is getting a
+better price on his call. However, this is not usually
+a problem in 3-bet pots, especially since the preflop
+3-bettor will often have many premium hands in
+his range.
+
+Raises should occur less frequently on the flop in 3-
+bet pots since no raise is required to get all-in by the
+river. However, raising with a strong but vulnerable
+hand is often the correct play. The flop should
+usually be raised to around 25 to 28 big blinds,d:\work\kindle\holdem\368.png @@ and if the turn is bet itÅfs best to go all-in since bet-
+folding will not usually be an option.
+Here are a few final points.
+
+1. Playing in 3-bet pots is similar to playing in
+raised pots. We usually want to bet strong
+hands for value, check medium strength
+hands, and bluff hands with little showdown
+value and some equity.
+
+2. If a 3-bet is called preflop, the 3-bettor will
+frequently be out of position with a polarized
+range and the 3-bet-caller will frequently be in
+position with a condensed range. ItÅfs expected
+that the 3-bettor will often be betting on the
+flop and the 3-bet-caller will usually defend by
+calling.
+
+3. Since both players had to take a risk to see the
+flop, itÅfs reasonable for players to often be able
+to make profitable flop bets with any two cards.
+
+4. We usually want around 3 bluffs for every 2
+value bets on the flop in 3-bet pots.
+
+5. Raising is less effective in 3-bet pots since it
+allows our opponent to felt a strong range and
+we do not need to put in a raise to get all the
+
+money in by the river.d:\work\kindle\holdem\369.png @@ 6. When we do raise the flop for value, it will
+usually be with a strong but vulnerable hand
+which can be outdrawn by hands in our oppo-
+nentÅfs bet-folding range. Hands which do not
+fear giving additional cards to this range will
+usually be calling with the intention of often
+raising the turn.
+
+7. ItÅfs not necessarily a problem that our oppo-
+nent can make profitable calls with weak draws
+on the flop on some board textures.
+
+8. Small flop bets are effective in position on flop
+textures where our opponent will have diffi-
+culty check-calling.d:\work\kindle\holdem\370.png @@ Part Eight
+
+Playing the Turn
+
+in Positiond:\work\kindle\holdem\371.png @@ Playing the Turn
+
+in Position
+
+Introduction
+
+Before moving on to turn play, you should stop for
+amoment and congratulate yourself for making
+it over halfway through the theory section of
+this book and think about all that has alreaded
+been covered. Although weÅfve only discussed
+preflop and flop play in detail, solid flop play is
+not possible without having some knowledge of
+the frequencies and ratios necessary for turn play.
+Likewise, concepts such as equity, bet sizing, and
+when bluffing any two cards should be profitable,
+will apply on the turn in the same manner as they
+did on the flop. In fact, even though little effort has
+been put in specifically trying to improve our turn
+play, we should already have an idea of what to
+do in most spots simply by applying the concepts
+previously discussed.
+
+In other words, most of the theoretical concepts
+necessary for excellent turn play have alreadyd:\work\kindle\holdem\372.png @@ been introduced. And while some repetition will
+be useful, our primary focus when analyzing this
+street will be to learn new frequencies and ratios
+and focus on the aspects of turn strategy which
+differ from what was necessary for the flop. This is
+especially important because the pot won't always
+be the same size on the turn, and itÅfs common for
+ranges to now be more defined.
+
+Lastly, itÅfs important to note that despite what
+many people think, the turn is not an especially
+troublesome street. Many players often think this
+because their strategy is poor on the flop, and thus
+their turn range will include many hands which are
+difficult and awkward to play. So good flop strategy
+should ensure our turn range will be reasonably
+balanced on the majority of turn cards, and this
+makes taking the correct line much easier to
+determine and execute.d:\work\kindle\holdem\373.png @@ Raising a Turn Bet
+
+After Calling the Flop
+
+We'll start our discussion of turn play by
+estimating the correct bluffing to value raising ratio
+on the turn when facing a bet. However, unlike on
+the flop in single raised pots where no post-flop
+betting has yet occurred, when our opponent bets
+on the turn, the pot will not always be the same size.
+In addition, each player is likely to have a different
+range on the turn, with the flop caller having a
+mostly condensed range and the flop bettor having
+primarily a polarized range. Nevertheless, when we
+do face a turn bet in position, our bluffing to value
+raising ratio will change based on whether our
+opponent is betting 15 big blinds into a 20 big blind
+pot or 6 big blinds into an 8 big blind pot.
+
+That is, on the turn, the pot will be around 8 big
+blinds if the flop checked through and around 20
+big blinds if a flop bet was called. And as was shown
+when analyzing flop play, we'll need to call or raise
+at least 57.1 percent of the time to prevent ourd:\work\kindle\holdem\374.png @@ opponentÅfs 75 percent pot-sized bets from showing
+an immediate profit.
+
+On the turn, our opponent should not likely be
+able to profitably bet any two cards after we call his
+flop bet. This is especially true if we didnÅft defend
+the flop unreasonably aggressively and mostly
+defended by calling. In this case, his flop bluff
+sometimes succeeded, and even when it didnÅft, he
+usually got the opportunity to improve on the turn
+and continue bluffing. In other words, if we fold at
+a reasonable frequency to our opponent's flop bets,
+heÅfll effectively pay very little money on average
+to see the turn, and since he gets to see the turn so
+cheaply, we cannot allow him to profitably bluff
+with any two cards or heÅfll never check-fold the
+flop.
+
+We've already discussed how to defend against our
+opponentÅfs turn bets if he bets 15 big blinds intoa
+20 big blind pot and we want to defend by calling,
+so now letÅfs consider raising. Once again, we can
+begin by analyzing what sizing weÅfd need to use if
+we wanted to raise and bet equal fractions of the pot
+on the turn and river. Note the starting pot size is 50
+big blinds since thatÅfs the size the pot would be if we
+just called our opponentÅfs turn bet.d:\work\kindle\holdem\375.png @@ 55R? = 200>
+
+R=2.00
+That is, the pot needs to grow to double its previous
+size with each additional round of raising or
+betting, and if the pot doubles from 50 to 100 big
+blinds on the turn, we need to raise our opponentÅfs
+turn bet of 15 big blinds to 40 big blinds and follow
+through with around a 50 big blind river jam.
+
+However, the problem with raising our opponentÅfs
+turn bet to 40 big blinds is we leave, relative to the
+size of the pot, little money behind. In particular,
+if our opponent goes all-in on the turn after our
+raise, the pot will be 150 big blinds and we'll have
+only 50 big blinds remaining. This means we'll
+get 3-to-1 odds to call and need only 25 percent
+equity for calling to be profitable. Thus, it becomes
+very difficult for us to raise the turn and fold to
+our opponent's turn jam, especially since heÅfs
+guaranteed to realize the equity of his bluffs and
+will win a massive pot if we fold.
+
+Notice that this is no different than what occurs
+in 3-bet pots when we raise on the flop and bet the
+turn without going all-in. That is, itÅfs simply not
+effective to raise or bet on the turn in position and
+leave such little money behind as our opponent cand:\work\kindle\holdem\376.png @@ then go all-in to destroy our positional advantage
+and we'll almost always be priced into calling.
+
+As such, a small turn raise is usually more effective
+than a large one since this forces our opponent to
+defend a wider range and encourages him to call.
+This also allows us to more frequently play the river
+in position. However, there are times when large
+raises are appropriate and we must not get into the
+habit of thinking only one sizing works in this spot.
+
+So letÅfs instead suppose we raise our opponentÅfs 15
+big blind turn bet to 33 big blinds and plan to bet
+all-in for 57.5 big blinds if we do bet the river. This
+bet sizing makes it more difficult for our opponent
+to defend by only jamming or folding against our
+turn raise, as well as results in him winning less
+money when we do fold.
+
+Just as before, itÅfs easiest to visualize the situation
+by working backwards. If we raise our opponentÅfs
+turn bet to 33 big blinds and he calls, the pot will
+be 86 big blinds on the river. If we then bet 57.5 big
+blinds, 71.4 percent of our river bets must be value
+bets to make him indifferent to calling.
+
+(143.5)(1 X)  (57.5)(X) = 0 >
+X= 0.714
+where
+143.5 is the pot size,d:\work\kindle\holdem\377.png @@ 57.5 is our bet size, and
+
+X is the percentage of our river bets which must
+
+be value bets
+
+Yet, when we raise the turn to 33 big blinds,
+
+our opponent risks only 18 big blinds to call and
+potentially win a 68 big blind pot. If we use this
+raise sizing on the turn, he needs to effectively lose
+79.1 percent of the time on the river for his turn call
+
+to be break even.
+(68)(1 X)  (18)(X) = 0 >
+X=0.791
+where
+
+68 is the pot size after we raise the turn,
+
+18 is the price to call, and
+
+X is the frequency at which our opponent must
+effectively lose to be indifferent to calling.
+
+Also notice that our opponent can lose on the river
+in either of two ways. First, heÅfll effectively lose
+when facing a river bet against a balanced range
+since the expected value of calling and folding will
+both be zero. Second, heÅfll also lose whenever we
+check back the best hand. Remember, in reality, we
+won't always value bet the best hand on the river
+because sometimes the winning hand will be weak.
+For instance, we'll sometimes bluff raise a gutshot
+on the turn and river a pair, and this hand can wind:\work\kindle\holdem\378.png @@ at showdown after checking if our opponent holds a
+missed draw.
+
+However, we won't often check back the winning
+hand on the river. That is, if our strategy has us
+frequently checking the winning hand, we wonÅft
+be able to bet the river with a balanced range the
+nearly 79.1 percent of the time thatÅfs required to
+make our opponent indifferent to calling on the
+turn. Notice that this is likely a much higher river
+betting frequency than most players would expect
+ betting nearly 4 out of every 5 times  and thatÅfs
+because our opponent got an amazing price on his
+turn call.
+
+These frequencies can also be multiplied to
+determine what percentage of our turn raises need
+to be able to value bet the river if we never check
+back the winning hand. If we bet the river 79.1
+percent of the time after betting the turn and if 71.4
+percent of our river bets are value bets, then 56.5
+percent of our turn raises should be able to value bet
+the river.
+
+0.565 = (0.791)(0.714)
+where
+0.791 is the river betting frequency, and
+0.714 is the percentage of river bets which are
+value betsd:\work\kindle\holdem\379.png @@ In reality, we'll usually have at least a few bluffs
+in our turn raising range that can river a marginal
+pair and potentially win if checked back and this
+allows us to bluff a bit more aggressively. HereÅfs an
+
+example. The board is the
+
+If our opponent calls, we can comfortably check
+back if the river comes a jack or a ten and win if our
+opponent has a missed draw.
+
+This leads to our next rule:
+
+Since our turn bluffs will sometimes become
+marginal hands on the river which can be
+checked and win at showdown, we should have
+approximately 1 bluff for every value raise in our
+turn raising range when facing a double barrel.d:\work\kindle\holdem\380.png @@ Also notice that our turn raising range must
+include a higher percentage of value hands than our
+flop raising range since the pot to stack size ratio is
+greater and there is one less street to go. In addition,
+since raising makes our opponentÅfs range much
+stronger on the river than calling does, it usually
+only makes sense to value raise hands which are
+ahead of the majority of his turn value bets.d:\work\kindle\holdem\381.png @@ Raising a Turn
+Bet After the
+
+Flop was Checked
+Through
+
+When our opponent checks the flop and we check
+back, itÅfs often reasonable to think he should be
+able to profitably bet any two cards in his range on
+the turn. More specifically, our opponent may have
+checked a very strong hand planning to check-raise,
+but itÅfs unlikely we checked back the flop with a
+strong hand. This means his range on the turn will
+often be stronger than ours, but since he was not
+guaranteed the opportunity to bluff the turn when
+he checked the flop (as we will often bet the flop
+ourselves) this is not a problem.
+
+If our opponent bets 6 big blinds into an 8 big blind
+pot on the turn, we can solve for what bet sizing
+allows us to bet and raise equal fractions of the pot
+on the two remaining streets. Note the starting potd:\work\kindle\holdem\382.png @@ size is 20 big blinds, as this is the size the pot would
+be if we were to only call our opponentÅfs turn bet.
+
+20R* =200>
+R=3.16
+where
+20 is the starting pot size,
+
+200 is the final pot size, and
+Ris the growth rate of the pot.
+
+If the pot is to grow to be 3.16 times its previous
+size with each additional round of betting or
+raising, then we need to make approximately 1.08
+pot-sized raises or bets on each street. With this
+raise and bet sizing, the pot will grow to 63.2 big
+blinds on the turn and 200 big blinds on the river!5
+15 Note there is a slight difference due to rounding.
+
+3.2 = (20)(3.16)
+where
+20 is the turn starting pot size, and
+3.16 is the growth rate.
+200 = (63.2)(3.16)
+where
+63.2 is the river starting pot size, and
+3.16 is the growth rate.
+Put differently, we need to raise and bet slightly
+larger than the pot on the turn and the river to get
+all-in by showdown. This requires a huge raise ond:\work\kindle\holdem\383.png @@ the turn since growing the pot to 63.2 big blinds
+means we'll need to raise a 6 big blind bet to 27.6
+big blinds!
+
+However, raises this large are unlikely to occur in
+practice. ThatÅfs because our opponent will usually
+have many nut-type hands in his range which
+unsuccessfully attempted to value check-raise the
+flop in addition to any strong hands he made on the
+turn. As such, we'll want to raise a bit less. For this
+reason, a more reasonable raise size to around 18 to
+20 big blinds is usually preferred.
+
+Therefore, overbetting the river will often be the
+best option if our turn raise is called. The reason
+for this is weÅfre more likely to raise on coordinated
+board textures so our opponent doesnÅft get to
+cheaply see additional cards, and these are the same
+board textures where he'll often be afraid and will
+only call our raise with his strongest hands. In other
+words, if our opponent merely calls our turn raise
+and gives us the opportunity to outdraw him, itÅfs
+usually safe to assume he won't have a strong hand
+ona blank river.
+
+HereÅfs an example. Our opponent opens in the
+cutoff and we call with thed:\work\kindle\holdem\384.png @@ on the button. The flop comes the
+
+de de) lide be
+#4
+os] | eS 1 Me
+
+a
++
+
+and the flop checks through. If the turn comes the
+T @ and we raise our opponentÅfs bet, heÅfll likely be
+tempted to 3-bet if he has two-pair or better. ThatÅfs
+because there are many possible straight and flush
+draws on this board texture, and calling risks him
+being outdrawn by our bluffs or losing value if the
+river card scares us into checking back.
+
+In contrast, we should be less likely to raise on
+board textures where our opponent will feel
+comfortable calling with his strong hands. That
+is, the board textures where he feels comfortable
+letting our bluff raises see an additional card are
+usually the same board textures where we feel
+comfortable slowplaying until the river.
+
+For instance, if our opponent checked to us on the
+K#2@2Åë flop and we checked back, itÅfs unlikelyd:\work\kindle\holdem\385.png @@ the 8 v turn would make us want to raise. That is
+any hand strong enough to raise for value on the
+turn, such as a set of eights, does not fear giving
+free cards. As such, calling on the turn with the
+intention to raise the river will be the superior play.
+Consequently, our opponent will usually only face a
+raise on the board textures where he'll find the river
+difficult to play out of position.
+
+In addition, we should note that many players
+think it cannot be correct to overbet the river and
+leave only a little bit of money behind. Yet thereÅfs
+nothing theoretically wrong with this bet sizing.
+Players often get frustrated when they have to fold
+and are getting great odds to call, but itÅfs important
+to remember that itÅfs the price of our opponentÅfs
+bluff that determines our calling frequency. The
+fact our odds to call are so good simply means our
+opponent can only rarely be bluffing (or else he can
+be exploited since calling with bluff catchers will be
+profitable).
+
+LetÅfs suppose we decide to raise our opponentÅfs 6
+big blind turn bet to 20 big blinds (making the pot
+48 big blinds after he calls)and willsometimesbet55
+big blinds on the river. Again, we can work
+backwards to figure out what percentage of our
+turn raises should be able to value bet the river ind:\work\kindle\holdem\386.png @@ order to keep our opponent indifferent to calling on
+the turn.
+
+If he calls our turn raise to 20 big blinds, the pot
+size will be 48 big blinds on the river before any
+betting takes place. And when we bet 55 big blinds
+into a 48 big blind pot on the river, 65.2 percent of
+our bets should be value bets.
+
+(103)(1X) (55)(X) >
+X = 0.652
+where
+103 is the pot size,
+55 is our bet size, and
+X is the percentage of our river bets which must
+be value bets.
+
+And on the turn, when we raise a 6 big blind bet
+to 20 big blinds, our opponent can call and risk 14
+big blinds to win 34 big blinds. This requires him to
+effectively lose 70.8 percent of the time on the river
+to be indifferent to calling on the turn.
+
+(34)(1X) (14)(X) =0 >
+X =0.708
+where
+34 is the pot size,
+14 is the price of the call, and
+X is the frequency our opponent must lose to be
+indifferent to calling.d:\work\kindle\holdem\387.png @@ Again, our opponent effectively loses on the river
+when we bet a balanced range or check back the
+winning hand. If we never check back the best
+hand on the river, then the river should be bet 70.8
+percent of the time after betting the turn and 65.2
+percent of our river bets should be value bets. This
+requires 46.2 percent of our turn raises to be able to
+value bet the river.
+
+0.462 (0.708)(0.652)
+where
+0.708 is the river betting frequency, and
+0.652 is the percentage of river bets which are
+value bets
+
+Again, while this model does give us a good
+approximation for what percentage of our turn
+raises should be value raises, it doesnÅft take into
+account that we have position and will sometimes
+river a marginal strength hand which can check
+back. Because of this, itÅfs likely safe to bluff a bit
+more aggressively on the turn.
+
+ItÅfs hard to say what percentage of our turn raises
+should be able to value bet the river, especially since
+we won't always use the same river bet sizing. For
+instance, itÅfs not unusual to go all-in for around 1.5
+pot sized bets on some river cards, whereas in other
+spots, making smaller bets will be the best strategy.d:\work\kindle\holdem\388.png @@ Nevertheless, itÅfs probably reasonable to assume
+we'll usually want around 40 to 50 percent of our
+turn raises to be value raises after the flop checks
+through.
+
+Finally, itÅfs important to remember we'll greatly
+strengthen our opponent's felting range by raising
+the turn. In particular, since our turn raise and
+river bet are both usually large relative to the size
+of the pot, our opponent can fold much of his range
+without fear of being exploited. This results in
+him usually felting only around 25 to 35 percent
+of his turn betting range when facing a turn raise
+and river bet. As such, our turn value raises should
+usually be very strong hands. However, there are
+exceptions, and sometimes a weaker hand should
+be value raised if it will make him fold many high
+equity hands which could outdraw us on the river.d:\work\kindle\holdem\389.png @@ Putting Hands
+in the Right
+
+Ranges on the Turn
+in Position
+
+We now need to visualize each playerÅfs range on
+the turn based on the flop action. Doing this allows
+us to take the line with the greatest expected value
+and pick a bet sizing which makes sense.
+
+Facing a Turn
+
+Bet After Calling the Flop
+
+If our opponent bets both the flop and the turn,
+heÅfs representing a polarized range. Although
+he may have bet both streets for value with the
+intention of checking the river, (as is common
+practice on wet boards where giving free cards isa
+fear), the majority of our opponentÅfs value bets on
+the turn will usually be hands he plans to bet on the
+
+river.d:\work\kindle\holdem\390.png @@ So what are the types of hands our turn range
+consists of that will change drastically based on the
+flop texture? For instance, if the texture is dry, such
+
+as on the
+tea) Fo
+&
+ee | +:
+
+flop, we probably have many sets in our range since
+slowplaying the flop isnÅft risky. But if the turn
+
+puts many draws in each playerÅfs range, such as if
+the 7 & comes, we can now raise using around a 1-
+to-1 value raise to bluff raise ratio. This puts our
+opponent in a difficult spot with all of his pairs and
+draws and allows us to play the river effectively in
+position. And if we donÅft raise, our strategy will
+
+be to continue to call with our marginal strength
+hands and most of our draws.
+
+If we called our opponentÅfs flop bet on a wet
+board texture, the turn will sometimes improve
+many hands in our range and allow us to develop
+a raising range. HereÅfs an example. We flat on the
+button against a cutoff open and the flop comes the
+Ta@9@7 andtheturn comes the 4 @. We can raise
+some of our flushes as well as some bluffs. Since our
+
+opponent knows our strategy will be to sometimesd:\work\kindle\holdem\391.png @@ raise on this turn card, he won't likely overbet and
+will instead make medium sized bets of around 60
+percent of the pot.
+
+On other occasions, the turn card may come
+a blank after calling a flop bet on a wet board.
+When this happens, there will usually be few or
+no strong hands in our range. Since we'll never or
+almost never raise our opponentÅfs turn bet in this
+situation, he should consider overbetting. This
+maximizes the value he gets with his strong hands
+as well as prevents us from being able to cheaply see
+the river card and improve to the best hand.
+
+To illustrate this, imagine the same T@9 @7 flop
+except the turn card now comes the 4 Åë instead of
+the 4 @ (putting no flushes in our range). When this
+occurs, there will be no hands in our range which
+can effectively raise our opponentÅfs turn bet, and
+although he should use multiple bet sizes on the
+turn, he should also, at the very least, have some
+overbetting range. And as undesirable as it is for us
+to sometimes face very large bets on the turn, we
+simply must acknowledge the turn card was bad for
+our range and call with our best bluff catchers and
+draws.d:\work\kindle\holdem\392.png @@ Facing a Turn
+
+Check After Calling the Flop
+
+There are a few possible types of hands our
+opponent can have if he checks the turn after
+betting the flop. The most common is a bluff heÅfs
+planning to check-fold. Remember, our opponentÅfs
+value betting to bluffing ratio should increase on
+the turn, and the most obvious way to do this is to
+give up some bluffs that were bet on the flop which
+now have little chance of improving on the river.
+
+Our opponent may also have a medium strength
+hand which he plans on check-calling. This
+commonly occurs when his flop bluff improves to a
+medium strength hand on the turn, such as when
+he bluffed with the
+
+on thed:\work\kindle\holdem\393.png @@ flop, and the turn comes the T #. In addition, on
+the flop, he may have bet a marginal strength made
+hand to make high equity hands fold and is now
+check-calling on the turn.
+
+Lastly, our opponent can be planning to check-
+raise using around a 1-to-1 ratio of value check-
+raises to bluff check-raises. As we saw when
+analyzing out of position flop play, check-raising is
+extremely effective at punishing players who value
+bet too often or bet too big. ThatÅfs because every
+strong hand our opponent value check-raises allows
+him to check-raise bluff additional hands in a
+balanced range. Also, heÅfs more likely to check-raise
+on turn board textures where he has a difficult time
+check-calling and giving free cards is risky.
+
+A substantial leak most players have is that they
+do not adjust their turn bet sizing based on the
+strength of their opponentÅfs checking range. More
+specifically, bigger bets are more effective on board
+textures where our opponent has many medium
+strength hands which want to check-call, and
+
+smaller bets are more effective on board texturesd:\work\kindle\holdem\394.png @@ where he'll not likely check-call but often check-
+raises.
+
+HereÅfs an example. Middle position opens and we
+flat on the button. If the flop comes the K73@
+and our opponent bets, what hands in his range
+will want to check-call on the 2 @ turn? While
+there are some medium strength hands, such as
+tens or nines, that he may want to bet on the flop
+and check-call on the turn, this is not a flop texture
+where heÅfs likely to bet with the intention of only
+betting a single street for value. As a result, betting
+smaller on the turn makes his turn check-raises less
+effective and forces him to widen his turn check-
+calling range, and this further allows us to utilize
+the value of position on the river.
+
+In other situations, we'll want to bet a bit larger.
+Suppose the same action and the same Kv73
+flop as before, only now assume the turn comes the
+Q instead of the 2 @. This turn card puts many
+marginal strength hands into our opponentÅfs range,
+as pairs of queens are not strong enough to bet but
+can easily be check-called. Therefore, itÅfs reasonable
+to bet larger here with some strong hands and
+bluffs since this bet sizing is more effective against
+marginal strength hands.d:\work\kindle\holdem\395.png @@ In general, most players are currently betting the
+turn too large when their opponent checks to them
+after betting the flop. ThatÅfs because their opponent
+can still have strong hands in his range heÅfs
+planning to check-raise, and if he has few marginal
+strength hands in his range, heÅfll often not want to
+check-call to begin with.
+
+In fact, small bets are particularly effective against
+players who have few medium strength hands in
+their checking range for three main reasons:
+
+1. Betting the turn requires our opponent to pay
+to see an additional card so he does not get
+a free chance to outdraw us. Also, many of
+the hands he'll check-fold have some equity
+against our bet, and making him constantly
+fold hands with 10 or 15 percent equity is
+significant.
+
+2. Betting both the turn and the river allows us to
+bluff more hands while remaining balanced. In
+other words, we can bluff more if two rounds of
+betting are utilized rather than just one.
+
+3. Small bets force our opponent to defend his
+checks wider on the turn by check-calling. This
+allows us to more frequently play the river in
+
+position.d:\work\kindle\holdem\396.png @@ We know we are at a Nash Equilibrium when
+neither player has an incentive to change their
+strategy. Specifically, we must figure out if either
+player has an incentive to change if we make small
+bets at a high frequency on the turn when our
+opponent cannot have many medium strength
+hands.
+
+First notice that our opponentÅfs attempted check-
+raises will succeed at a high frequency if the turn is
+often bet. But if our bet is small relative to the size
+of the pot, he wonÅft win much more money than if
+he had just bet the turn himself. Yet itÅfs quite bad
+for him when his check-raise fails since a round of
+betting is removed from the game and weak hands
+which would have folded to a bet (such as gutshots)
+get a chance improve. Asa result, our opponent
+will not have an incentive to check-raise recklessly.
+When his check-raise succeeds, he receives only a
+small reward, but when it fails, heÅfs much worse off
+than he would be if his strategy was to lead witha
+bet.
+
+Since most hands our opponent plans to check-
+fold will be quite weak, a small bet is all that is
+needed in order to force him to fold or make a close
+to break even call. And if he rarely check-raises (the
+turn) and we bet small at a high frequency once hed:\work\kindle\holdem\397.png @@ checks, it appears neither player has an incentive to
+change. This makes much more sense than for us to
+bet big since if we bet big at a high frequency, our
+opponent can exploit us by always check-raising
+his strong hands. So betting small allows us to deny
+him free cards without getting exploited by his
+check-raises.
+
+Players often get in the habit of betting 65 to 75
+percent of the pot (or checking) in most situations
+without stopping to ask themselves ÅgDoes this
+bet sizing make the most sense with the hand I
+have against my opponentÅfs range?Åh We must not
+make this mistake, and need to be willing to bet all
+sorts of different sizings based on our range, our
+opponentÅfs range, and the board texture. There is
+nothing wrong with betting 25 percent of the pot
+on the turn if the situation calls for it.
+
+Facing a Turn
+
+Check as the Flop Bettor
+
+If our opponent checks to us on the turn after we
+bet the flop, our range should be polarized while his
+will be condensed. Although we'll sometimes check
+back a marginal strength hand on the turn, we'lld:\work\kindle\holdem\398.png @@ usually be checking back weak hands which will
+fold to our opponentÅfs river bet.
+
+As shown previously, weÅfll want to use around a
+1-to-1 bluffing to value betting ratio on the turn if
+our value bets are strong. Since we intentionally bet
+hands on the flop for value that would be able to bet
+two or three streets and bluffed with hands which
+retain their equity well, itÅfs usually quite clear
+which hands should be bluffed or value bet on the
+turn.
+
+Nevertheless, there are some board textures where
+itÅfs easy to get carried away and bluff too often.
+HereÅfs an example. If the board is the
+
+wei wy
+vy v
+rs as) a a
+
+itÅfs easy to recklessly bet since our range has so
+many flush draws, open ended straight draws, and
+gutshots(many of which also have overcards). So
+
+if we bet all of our gutshots, our betting range will
+likely include too many bluffs and our opponent can
+exploit us by calling or check-raising aggressively.
+This is acommon mistake players make when they
+follow a rule such as Ågbluff gutshots, pairs with five
+outs, and strong draws on the turn.Åhd:\work\kindle\holdem\399.png @@ In contrast, on a board like the
+
+Kapy)| fae) ivw) f+
+oe v
+s |e ee a ae +:
+
+there arenÅft many hands which make excellent
+
+bluffs. In other words, there are few or no hands in
+our range which have little showdown equity yet
+retain their equity well when bet. Yet, if we plan
+
+to value bet many top pair hands on the turn, itÅfs
+crucial that bluffs are included in our betting range
+as well. Here, which hand we bluff with matters
+little since the majority of our potential bluffing
+hands are likely drawing dead to our opponentÅfs
+pair of kings.
+
+ItÅfs important to always be aware of the board
+texture and not let ourselves bluff too few or too
+many hands. In general, new players will often bluff
+recklessly on wet boards since there are so many
+hands in their range which have little showdown
+value but can, on the river, improve to the best
+hand.
+
+Likewise, they won't bluff enough on board
+textures where there are few gutshots and flush
+draws since they arenÅft used to having to bluff with
+hands which have so little equity when called.d:\work\kindle\holdem\400.png @@ We shouldnÅft make this mistake against strong
+opponents and must analyze each board texture to
+ensure our betting range is balanced.
+
+Facing a Turn Check
+
+After Checking Back the Flop
+
+If our opponent has checked both the flop and the
+turn, heÅfs twice shown weakness. As a result, it will
+usually be profitable to bet any two cards. However,
+just because itÅfs profitable to bet does not mean we
+should bet our entire range, and betting a polarized
+range consisting of our strongest made hands and
+bluffs will be best.
+
+ItÅfs also important to note that itÅfs often
+more profitable to pass up a profitable bluffing
+opportunity on the flop with the intention to
+bet the turn if our opponent checks again. This
+is an important concept thatÅfs often overlooked.
+Players who refuse to pass up profitable bluffing
+opportunities with weak hands often have a
+transparent range on the turn and can easily be
+exploited.
+
+HereÅfs a great example. We call on the button
+against a middle position open and our opponent
+checks to us on the

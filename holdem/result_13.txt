@@ -1,0 +1,1758 @@
+d:\work\kindle\holdem\651.png @@ him to check back more often and give us a free
+card. But unfortunately, there arenÅft many hands
+which work well as check-raise bluffs, but even
+pocket pairs can occasionally turn a set or hit a
+running straight. And if we feel that defending
+with 47.3 percent of our hands after checking
+isnÅft enough, we could check-raise some pair of
+aces combos as well, but check-raising all of them
+
+should result in check-raising too aggressively.
+
+OOP range after betting flop: 85
+
+Turn: 8&42@2Åë
+
+Total combos: 85
+
+Value betting range: AA(3), KK-QQ(12), TT(6) = 21
+Draw betting range: O
+
+Bluffing range: AQ(10), 76s(4), 65s(4), AJ(3) = 21
+Total combos bet: 42
+
+Turn Cbet percent: 49.4%
+
+Total combos checked: 43
+
+Check-raising range: 0
+
+Check-calling range: AA(3), AQ(3), 99(6) = 12
+Percent of checks defended: 27.9%
+
+Analysis: We get a tough turn card which makes it
+difficult to keep barreling aggressively since we
+donÅft pick up any good bluff randomizers, but
+luckily, our opponentÅfs range also isnÅft very strong.d:\work\kindle\holdem\652.png @@ Although at showdown our opponent won't likely
+let us win with ace-queen unimproved, he may give
+us a free card if we check it on the turn. Since ace-
+queen makes up so much of our range, it makes
+sense to bet some and check others. In addition, we
+should likely check-call and/or check-raise some
+strong hands on the turn to protect our checking
+range since our opponent will be able to recklessly
+bet if our range is capped at nines, and aces works
+well in this regard.
+
+Notice that check-calling with ace-queen isnÅft as
+unreasonable on the turn as it would first seem. Our
+opponent will likely check back his ace-king hands,
+and bet with his hands which have little showdown
+value such as KQs, KJs, KTs, etc. So itÅfs possible ace-
+queen is the best hand after check-calling, and if it
+isnÅft, it may improve to the best hand on the river.
+Furthermore, if our opponent makes a small bet on
+the turn, we'll get a great price on our call.
+
+OOP range after betting flop + turn: 42
+River:842@2ÅëTS&
+
+Total combos: 39 (-3 TT)
+
+Value betting range: AA(3), KK-QQ(12) = 15
+Bluffing range: AQ(6) = 6
+
+Total combos bet: 21d:\work\kindle\holdem\653.png @@ River Cbet percent: 53.8%
+
+Total combos checked: 18
+
+Check-raising range: TT(3), AQ(2) = 5
+
+Check-calling range: O
+
+Percent of checks defended: 27.8%
+
+Analysis: Another river which doesnÅft improve our
+hand, but since we had no good draws on the turn,
+this is expected. Furthermore, since the river
+removed 3 combinations of tens from our range,
+it actually reduced are value combos. This makes
+it hard to barrel aggressively, but weÅfre still able to
+comfortably bet over half the time.
+
+It might feel weird to bet the river with a range
+capped at overpairs, but keep in mind even if we
+bet the river with our sets of tens, it wouldn't stop
+our opponent from being able to profitably raise his
+full houses. In fact, itÅfs difficult to imagine any river
+betting range which doesnÅft allow him to profitably
+raise these hands. So even though itÅfs unfortunate
+to always have a buff catcher once our opponent
+raises, this doesnÅft mean there is a problem with our
+range and we must keep in mind our opponent can
+only raise so often and remain balanced.d:\work\kindle\holdem\654.png @@ Hand No. 3: Middle Position
+
+versus the Cutoff
+
+First, letÅfs examine the caller in the cutoff.
+
+Cutoff cold calling range: JJ-44, AKo-AQo, AQs-ATs, KQs-
+KTs, QJs-QTs, JTs, T9s, 98s, 87s, 76s
+
+Flop:8&7@2@
+
+Total combos: 114
+
+Desired combos defended: 114 x 0.6 = 68
+
+Value raises: 875(2), 77(3), T@9@,A@l@,AaT@ =8
+
+Bluff raises: 768(3), 6 @ 6x(3),Q&T#,K&#T#,QeaJe,
+KaJa,AaTa=11
+
+calls: 88(3), JJ-99(18), T9s(3), 98s(2), AKo(12),
+A4@Qx(3), AxQ@ (3), A&Qs,KaQs, Aaa,
+AaQa, KaQa, Kala, KaTa, Qala, QaTa,
+JaTa, JTs(3) = 57
+
+Total combos defended: 76 (66.7%)
+
+Analysis: Position is very valuable here, and I think
+
+itÅfs best to try to defend significantly more than 60
+
+percent of the time on this type of board texture
+
+when possible. And since we have so many hands
+
+with a significant amount of equity, this isnÅft
+
+difficult to do and our defending range looks pretty
+
+normal.d:\work\kindle\holdem\655.png @@ Positional range after flatting flop: 88(3), JJ-99(18), T9s(3),
+98s(2), AKo(12), A @ Qx(3), AXQ@(3), A&Q&,
+KaQe, Aas, AaQea, KaQa, Kala, KaTa,
+Qala, QeTe, JaTe, JTs(3) = 57
+
+Tun: 8&74@24aJ&
+
+Total combos: 52 (-3 JJ,-A&J&,-J&T4,)
+
+Desired combos defended: 52 X 0.6 = 31
+
+value raises: T98(3), JJ(3), 88(3) = 9
+
+Bluff raises: K@Q @, 988(3), 99(6) = 10
+
+Calls: QQ(6), TT(6), JTs(3), A@Qa, KaJa,KaTa,
+Qala, QaTea, JaTea,9a8@ = 22
+
+Total combos defended: 38 (73%)
+
+Analysis: This is an amazing turn for our range. It
+gives us six additional nut type hands (3 jacks and
+
+3 ten-nine suited), and a set of eights is still strong
+enough to value raise. Here, our opponent shouldnÅft
+be betting very aggressively or making large bets
+since our range is so strong. ItÅfs simply too easy for
+us to aggressively raise and make his hand a bluff
+catcher.
+
+As was the case on the flop, we should try to defend
+more than 31 hand combinations here. This is
+especially true because all of our opponent's bluffs
+will have a significant amount of equity when
+called. Furthermore, we could try slowplaying
+some straights on the turn if our opponent is likelyd:\work\kindle\holdem\656.png @@ to overbet on a blank river, but with so many draws
+on the flop, IÅfd be reluctant to do this in practice
+without a strong read.
+
+Positional range after flatting flop + turn: QQ(6), TT(6),
+JTs(3), A@Qa, Kala, KaTa, Qala, QaTa,
+JaTa,9a8e =22
+
+River: 8&7@2@)&2Åë
+
+Total combos: 22
+
+Desired combos defended: 22 x 0.6 = 13
+
+Value raises: O
+
+Bluff raises: O
+
+Calls: QQ(6), KaJ@, Qala, JaTa@, TT(4) = 13
+
+Total Combos Defended: 11
+
+Analysis: So the river came a complete blank, which
+
+strongly favors the bettorÅfs range. WeÅfre vulnerable
+
+to overbets on this river, but that doesnÅft suggest
+we misplayed the turn. Furthermore, by defending
+aggressively on the turn, our opponentÅfs (turn)
+bluffs were effectively quite expensive, so even if he
+can profitably bluff any two cards on this river, it
+may not bea problem.
+
+Always remember to adjust your river calling
+frequency based on your opponentÅfs bet size. If he
+bets 75 percent of the pot, then calling 13 combos
+will make his bluffs around break even and thisd:\work\kindle\holdem\657.png @@ requires us to call with 4 combinations of tens. If
+he bets bigger, we'll call less often2* and may end
+up folding all of our tens and even some top pair
+hands.
+
+26 Assuming of course he plays rationally. If you think your
+opponent is more likely to be bluffing when he bets big, you would
+
+use the reverse of GTO strategy.
+
+Now letÅfs take a look at the middle position opener.
+
+MP opening range: AA-22, AKo-ATo, KQo, AKs-A7s,
+A5s, KQs-KTs, QJs-QTs, JTs-J9s, T9s-T8s, 98s-97s,
+87s-86s, 76s-75s, 65s, 54s
+
+Flop:8&7@2@
+
+Total combos: 219
+
+Value betting range: KK-TT(24), 87s(2), AA no spade(3)
+=29
+
+Draw betting range: A@9@,A@5@,KaJa,KaTa,
+QaTa,Ja%a,Ta94, 64 @,T9s(3),
+65s(3) = 15
+
+Bluffing range: JTs(3), J9s(3), 54s(3), A@ Qx(3),
+AxXQ4@(3), A@Jx(3), Ka Qx(3), KxQ a (3), ASQe,
+As], ATS, 4498, A454, KaQe, Kala,
+KaTs,QaJe,QaTa, 64 6x(3), 5 @5x(3),
+4@4x(3) = 43
+
+Total combos bet: 87
+
+Flop Cbet percent: 39.7%d:\work\kindle\holdem\658.png @@ Total combos checked: 132
+
+Check-raising range: 77(3), 88(3), 22(3),Ja9@,JaTa@,
+AaTa, 76s(3), 758(3), 978(3), A7S(3), A@ TX(3) =
+27
+
+Check-calling range: A @ Ax(3), 99(6), A8s(3), T8s(3),
+98s(3), 86s(3), AK(16), A@Qe@, Aaja, KaQe =
+40
+
+Percent of checks defended: 50.7%
+
+EV of the opponent's air on flop: (0.603) [(8) (0.493) - (6)
+
+(0.507) = 0.54 big blinds
+Analysis: This is the typical gross out of position
+spot since the board texture is low and draw heavy
+which greatly increases the value of our opponentÅfs
+positional advantage. Nevertheless, although once
+we check he has a profitable flop bet, he does not
+likely have an incentive to bet any two cards since
+we are check-raising so aggressively.
+
+Facing flop raises will also be difficult since
+3-betting isnÅft particularly effective against
+a polarized range. Yet calling and letting our
+opponent see additional cards with his bluffs and
+draws is also far from ideal. We may even need to
+occasionally 3-bet this flop with our two pair and
+overpairs since if we donÅft, heÅfll get to see the turn
+with his bluff raises too frequently. ItÅfs tough to say.d:\work\kindle\holdem\659.png @@ As you'll notice, when analyzing board textures on
+your own, itÅfs simply more difficult to design out
+of position ranges than in position ranges, and itÅfs
+easy to get caught up trying to make everything
+balance perfectly. This is an impossible task and
+not worth the time. Instead, do the best you can
+and get a better overall understanding for how your
+range fits in with the specific board texture. Here,
+it should be apparent that you must check-raise
+aggressively as well as check-call some overcards
+(such as ace-king), otherwise, you won't defend
+enough checks.
+
+OOP range after betting flop: 87
+
+Tun: 8&74@24aJ&
+
+Total combos: 78 (-3 JJ,-J&T&,-J&94,-AaJ&,-
+KaJ&,-QaJ4,-Aaja)
+
+Value betting range: KK-QQ(12), JJ(3), 87s(2), AA no
+spade(3), T@9@=21
+
+Bluffing range: A#Q&,AST&,A894,Aa5e&,
+KaQa,K QaTa,Aadea,Aasa,KaTa,
+QaTe,6054,5446, 65s(3) = 16
+
+Total combos bet: 37
+
+Turn Cbet percent: 47.4%
+Total combos checked: 41
+Check-raising range: T9s(3), TT(3) = 6d:\work\kindle\holdem\660.png @@ Check-calling range: A @ Jx(3), JTs(3), J9s(3), TT(3),
+Aeje,Kajea=14
+
+Percent of checks defended: 48.7%
+
+Analysis: We turn many top pair hands, but as
+
+previously shown, our opponentÅfs range is quite
+
+strong. So recklessly betting top pair hands will
+
+result in us getting very little value when called
+
+as well as make us vulnerable to raises. Therefore,
+
+check-calling with our top pair hands is likely best.
+
+One useful rule to remember when out of position
+is, ÅgIf you think itÅfs close between betting and
+checking, consider betting smaller.Åh ThatÅfs because
+asmall bet does not re-open up the betting like a bet
+in position does. So, for instance, making a large bet
+on a pair of queens may make our opponentÅfs range
+too strong as well as punish us more severely when
+facing a raise, yet checking allows him to freely
+realize the equity of his ace-king hands. Hence, in
+this case, it may be best to make a small bet with
+queens, and if we do bet them on the turn, weÅfll
+likely need to check-call rather than value bet on
+the river.
+
+Note that we are check-raise bluffing some
+combinations of tens, which also happens to have a
+nice removal effect. This hand is also strong enoughd:\work\kindle\holdem\661.png @@ to value bet on some turn cards, but this isnÅft one of
+them.
+
+OOP range after betting flop + turn: 37
+
+River: 8&7@2@)&2Åë
+
+Total combos: 37
+
+value betting range: JJ(3), KK-QQ(12), 87s(2), AA no
+spade(3) = 20
+
+Bluffing range: A&T#&,A&9&,KaT&,QaTa,
+KeTa, 65s(3) = 8
+
+Total combos bet: 28
+
+River Cbet percent: 75.7%
+
+Total combos checked: 9
+
+Check-raising range: T @9 @, Bluff(1) = 2
+
+Check-calling range: O
+
+Percent of checks defended: 22.2%
+
+Analysis: Since the river is a complete blank, I
+
+would in practice almost always bet the queens.
+
+However, if we donÅft think our opponent should
+
+be able to profitably bet all of his flush draws after
+
+we check, then we have to defend our checks very
+
+aggressively. This is quite possible, as he may
+
+have many missed flush draws in his range and he
+
+shouldn't be able to profitably bet them all. This
+
+would encourage us to check-call or check-raise
+
+more aggressively then we currently are. Also, noted:\work\kindle\holdem\662.png @@ that overbetting this river is an option, and by
+doing such, we'll need to check fewer hands.
+
+Again, this is a spot where itÅfs easy to spend a ton of
+time trying to get everything to balance perfectly,
+but itÅfs not really worth it. But itÅfs most important
+to notice the river is a blank and this favors our
+polarized range and encourages us to bet at a high
+frequency, and then in practice consider check-
+raising aggressively against an opponent who bets
+too many missed draws on the river.
+
+Hand No. 4: Middle Position
+
+versus Button
+
+First, letÅfs examine the caller on the button.
+
+Button cold calling range vs MP: JJ-33, AKo-AQo, AQs-ATs,
+KQs-KTs, QJs-QTs, JTs-J9s, T9s, 98s, 87s, 76s, 65s,
+54s
+
+Flop:J&64Åë
+
+Total combos: 131
+
+Desired combos defended: 131 x 0.6 = 79
+
+Value raises: O
+
+Bluff raises: O
+
+calls: JJ(3), 66(3), 44(3), AJs(3), KJs(3), QJs(3), JTs(3),
+J9s(3), TT-77(24), 76s(3), 65s(3), 54s(3), 87s(4),d:\work\kindle\holdem\663.png @@ KQs(3), T9s(3), 98s(3), AQs(3), ATs(3), AKo(12) =
+88
+Total combos defended: 88 (67.2%)
+Analysis: This is a very standard positional defending
+range which is both easy to design and play. As
+always, itÅfs impossible to tell whether 77 or 9484
+are profitable calls, but I think they likely are.
+
+Positional range after flatting flop: JJ(3), 66(3), 44(3),
+AJs(3), KJs(3), QJs(3), JTs(3), J9s(3), TT-77(24),
+76s(3), 658(3), 54s(3), 875(4), KQs(3), T9s(3),
+98s(3), AQs(3), ATs(3), AKo(12) = 88
+
+Turn:J&6040Ka
+
+Total combos: 85 (-3AKo,-K#Q#,-KaJa&)
+
+Desired combos defended: 85 X 0.6 = 51
+
+Value raises: KJs(3), 66(3), 44(3) = 9
+
+Bluff raises: ATS(3), T9s(2), 87s(3) = 8
+
+calls: JJ(3), AK(9), KQs(2), AJs(3), QJs(3), JTs(3),
+J9s(3), TT(6), A&Q&,TH9%,9484, 8478,
+7&6%,6858,5848 = 39
+
+Total combos defended: 56 (65.9%)
+
+Analysis: Another pretty easy spot to defend. I chose
+
+not to raise jacks since many hands are already
+
+being raised, but raising is fine as well.
+
+Positional range after flatting flop + turn: JJ(3), AK(9),
+
+KQs(2), AJs(3), QJs(3), JTs(3), J9s(3), TT(6),d:\work\kindle\holdem\664.png @@ ASQ4, T8948, 9888, 84874, 7868,6858,
+5 a4a =39
+River:]$604ÅëKa3Åë
+Total combos: 39
+Desired combos defended: 39 x 0.6 = 23
+Value raises: JJ(3)
+Bluff raises: J9s(2)
+calls: AK(9), KQs(2), AJs(3), KJs(3) = 17
+Total combos defended: 22
+Analysis: This hand is a great example of how itÅfs
+quite easy to defend aggressively in position on
+most board textures. Since our in position calling
+range is designed to do well against our opponentÅfs
+range, itÅfs usually not difficult to know what to do
+
+when facing many bets.
+
+Now letÅfs take a look at the middle position opener.
+
+MP opening range: AA-22, AKo-ATo, KQo, AKs-A7s,
+A5s, KQs-KTs, QJs-QTs, JTs-J9s, T9s-T8s, 98s-97s,
+87s-86s, 76s-75s, 65s, 54s
+
+Flop:J&64Åë
+
+Total combos: 217
+
+Value betting range: AA-QQ(18), TT(6), 44(3) = 27
+
+Draw betting range: 75s(4) = 4d:\work\kindle\holdem\665.png @@ Bluffing range: 878(4), KQ(16), ATs(3), A9s(3), A8s(3),
+A7s(3), A5s(3), KTs(3), QTs(3), T9s(3), T8s(3),
+55(6) = 53
+
+Total combos bet: 84
+
+Flop Cbet percent: 38.7%
+
+Total combos checked: 133
+
+Check-raising range: 66(3), 98s(3), 97s(3) = 9
+
+Check-calling range: JJ(3), AJ(12), KJs(3), QJs(3), JTs(3),
+J9s(3), 99(6), AK(16), AQs(3), 86s(3), 76s(3),
+65s(3), 54s(3) = 64
+
+Total checks defended: 73
+
+Percent of checks defended: 54.9%
+
+EV of opponent's air on flop: (0.613) [(8) (0.451)-(6)
+
+(0.549)] = 0.19 big linds
+Analysis: I chose to bet tens since betting makes some
+ace-queen and king-queen hands fold, and because
+I want some hands which can comfortably check-
+callon certain turn and river cards. Betting with
+ace-jack would likely be fine as well, but since ace-
+jack isnÅft vulnerable to an ace on the turn, I decided
+to check-call instead. Check-calling and betting
+some ace-jacks is also an option.
+
+Hands such as AK, AQ, and KQ can all probably be
+bet or checked on the flop. I chose to check-call ace-
+king, check-fold ace-queen offsuit, and bluff king-d:\work\kindle\holdem\666.png @@ queen. When analyzing hands in this manner, itÅfs
+
+important to keep hands simple when possible,
+
+so itÅfs often worthwhile not to split hands among
+
+many ranges if it can be avoided. But when playing
+
+against a particular opponent, you should consider
+
+betting or checking with all these hands and pick
+
+the line you think best exploits him.
+
+OOP range after betting flop: 84
+
+Turn:J&6040Ka
+
+Total combos: 76 (- 3KK, -4 KQ,-K#T#)
+
+Value betting range: 44(3), AA(6), KK(3) = 12
+
+Bluffing range: A&T&,A49&,A884,A874,A45&,
+Ta9&, 84874, QTs(3), 75s(3) = 13
+
+Total combos bet: 25
+
+Turn Cbet percent: 32.9%
+
+Total combos checked: 51
+
+Check-raising range: = O
+
+Check-calling range: KQ(12), KTs(3), TT(6) = 21
+
+Percent of checks defended: 41.2%
+
+Analysis: This turn card puts many medium strength
+hands in our range, but it also puts many stronger
+hands in our opponentÅfs range. This encourages us
+to bet less often and defend more of our checks.
+
+We also could easily use two bet sizings on
+the turn, especially if we wanted to bet smaller
+
+with a range consisting of mostly king-queen.d:\work\kindle\holdem\667.png @@ Nevertheless, since I put ace-king and king-jack in
+
+my opponentÅfs range but not in our range, I decided
+
+to check-call all our king-queen hands. However,
+
+we technically shouldnÅft have our checking capped
+
+at king-queen, though this will rarely, in practice,
+
+be a problem against most opponents. But against
+
+players who will exploit us for checking a range
+
+capped at king-queen, check-calling some sets and
+
+overpairs as well will be best.
+
+OOP range after betting flop + turn: 25
+
+River:] #604 ÅëKa3Åë
+
+Total combos: 25
+
+Value betting range: 44(3), AA(6), KK(3), 75s(3) = 15
+
+Bluffing range: A&T&,A49&,A884,A874,A45&,
+Ta9&, 8474, QTs(3) = 10
+
+Total combos bet: 25
+
+River Cbet percent: 100%
+
+Total combos checked: O
+
+Check-raising range: 0
+
+Check-calling range: O
+
+Percent of checks defended: O
+
+Analysis: This is a pretty interesting spot where weÅfre
+
+quite polarized on the river, and if our opponentÅfs
+
+range is capped at queens, overbetting will be best.
+
+We must not be afraid to overbet if our opponent
+
+only rarely has us beat because even if we betd:\work\kindle\holdem\668.png @@ smaller, we're going to get stacked with many of our
+value hands if he raises the best hand (as would be
+the case if our opponent has jacks in his range on
+the river).
+
+Furthermore, note the river improved our seven-
+five suited. In fact, our range is now so strong we
+can bet all of it if we overbet for 1.5 pot sized bets.
+This isnÅft a common occurrence, but it can happen
+when we get a fantastic river card for our range and
+our opponent's range is capped.
+
+Hand No. 5: Middle Position
+
+versus Button
+
+First, letÅfs examine the caller on the button.
+
+Button cold calling range vs MP: JJ-33, AKo-AQo, AQs-ATs,
+KQs-KTs, QJs-QTs, JTs-J9s, T9s, 98s, 87s, 76s, 65s,
+54s
+
+Flop:88Åë6&
+
+Total combos: 128
+
+Desired combos defended: 128 x 0.6 = 77
+
+Value raises: = 0
+
+Bluff raises: = O
+
+calls: 88(1), 66(3), 98s(2), 87s(2), JJ-99(18), 77(6),
+T9s(4), 54s(3), AKo(12), AQ(16), AJs(3), ATs(3),
+KQs(3), KJs(3), KTs(3), QJs(3) = 85d:\work\kindle\holdem\669.png @@ Total combos defended: 85 (66.4%)
+
+Analysis: This is a pretty standard defending range. I
+chose to call with all trips since our kicker is weak
+and if we raise the flop and bet the turn and river,
+itÅfs probably unlikely to get our opponent to call
+down with an over pair.
+
+Range after flatting flop: 88(1), 66(3), 98s(2), 87s(2),
+JJ-99(18), 77(6), T9s(4), 54s(3), AKo(12), AQ(16),
+AJs(3), ATs(3), KQs(3), KJs(3), KTs(3), QJs(3) = 85
+
+Turn: 88Åë6&34&
+
+Total combos: 85
+
+Desired combos defended: 85 X 0.6 = 51
+
+Value raises: 98s(2) = 2
+
+Bluff raises: T9s(2) = 2
+
+calls: 88(1), 66(3), 875(2), JJ-99(18), 77(6), A&Qa,
+Aaja, ATs, KaQa, Kala, KaTe, Qala,
+Ta94, 54s(3), AK(9) = 50
+
+Total combos defended: = 54 (63.5%)
+
+Analysis: This is another normal defending range,
+
+but notice IÅfm now raising with some trips because
+
+we're vulnerable to being outdrawn by turned
+
+flush draws. Even though nine-eight suited isnÅft
+
+incredibly strong, I do not want to give free cards to
+straight and flush draws, so raising (at least some of
+the time) seems best.d:\work\kindle\holdem\670.png @@ BU range after flatting flop + turn: 88(1), 66(3), 87s(2),
+JJ-99(18), 77(6), AS Qa, Able, AaTa, KaQae,
+KeJa,KaTea J@,T&9#, 54s(3), AK(9) = 50
+
+River: 898 Åë6 #3 a
+
+Total combos: 46 (- 8&7 &, - 377)
+
+Desired combos defended: 46 X 0.6 = 28
+
+Value raises: 88(1), 66(3), 77(3), 8@7@,A&Q&,
+Aaja, AaTa, 5444 = 12
+
+Bluff raises: A @ Kx(3), AXK &(1) = 4
+
+calls: K&Q&, Kalo, KSTs,Qals,Ta9%, 545(2),
+JJ(6) = 13
+
+Total combos defended: 29 (63%)
+
+Analysis: Our range is quite strong and weÅfre able
+
+to raise bets aggressively, which means if our
+
+opponent bets, he should probably bet relatively
+
+small. Nut flushes are still likely strong enough
+
+to raise since our opponent probably should have
+
+checked many of his full houses at some point to
+
+protect his checking range. If heÅfs not likely to do
+
+this, then calling with them may be best.
+
+Now letÅfs take a look at the middle position opener.
+MP opening range: AA-22, AKo-ATo, KQo, AKs-A7s,
+A5s, KQs-KTs, QJs-QTs, JTs-J9s, T9s-T8s, 98s-97s,
+87s-86s, 76s-75s, 65s, 54s
+Flop:88Åë6&
+Total combos: 217d:\work\kindle\holdem\671.png @@ Value betting range: KK-QQ(12), 99(6), 77(6), 98s(2),
+87s(2) =28
+
+Draw betting range: 97s(4), 75s(4) = 8
+
+Bluffing range: T9s(4), 54s(4), KQs(3), ATs(3), A9s(3),
+A7s(3), A5s(3), KJs(3), KTs(3), QJs(3), QTs(3),
+76s8(3) = 38
+
+Total combos bet: 74
+
+Flop Cbet percent: 34.1%
+
+Total combos checked: 143
+
+Check-raising range: A8s(2), T8s(2), 66(3), 55(6), JTs(3),
+J9s(3) = 19
+
+Check-calling range: AA(6), 86s(1), 88(1), JJ-TT(12),
+AK(16), AQ(16), AJs(3) = 55
+
+Total checks defended: 74
+
+Percent of checks defended: 51.7%
+
+EV of opponent's air on flop: (0.659) [(8) (0.483) -(6)
+
+(0.517)] = 0.50 big blinds
+
+Analysis: This is an extremely difficult board to
+balance out of position ranges since many hands
+which cannot get three streets of value (such as tens
+and nines) are also the hands most vulnerable to
+being outdrawn by the overcards in our opponentÅfs
+range that will often fold to a flop bet. ItÅfs the
+perfect example of a board players consider ÅgdryÅh
+
+yet being in position is massively advantageous.d:\work\kindle\holdem\672.png @@ Since I previously assumed the player in position
+will call flop bets with ace-king and ace-queen, I
+chose to check-call with jacks since betting didnÅft
+make many high equity hands fold. But IÅfm not
+sure this is correct, as both betting and check-
+calling jacks is clearly profitable. I also chose to
+check-call aces since this hand isnÅft vulnerable
+to being outdrawn on the turn and check-calling
+keeps dominated hands in our opponentÅfs range.
+Furthermore, note that I included sevens in the
+value betting range, but my plan is to check-call
+with it on almost all turn cards.
+
+The fact that our opponent may bet the flop with
+the intention of checking the turn and river with
+a marginal made hand makes check-raising a
+reasonable option on such a dry board texture. I
+chose to check-raise A8s, T8s, and 66 for this reason
+despite them being strong enough to delay the
+check-raise until the following street.
+
+We won't be able to bluff on later streets with all
+our overcard hands which check-called the flop,
+but thatÅfs fine. Ace-king especially can regularly
+win at showdown and bluffing won't consistently
+make better hands fold, and other hands with less
+showdown value can be bluffed on later streets if
+
+they donÅft improve.d:\work\kindle\holdem\673.png @@ Lastly, since giving free cards to our checking
+range is risky, note if we are not aggressively
+defending our checks, our opponent will bet at a
+high frequency. So while itÅfs easier to recklessly bet
+on this flop texture and defend few of our checks,
+this is almost certainly far from theoretically
+correct.
+
+OOP range after betting flop: 74
+
+Turn: 88Åë6&34&
+
+Total combos: 74
+
+value betting range: KK-QQ(12), 99(6), 87s(2) = 20
+
+Bluffing range: 97S(4), 75s(4), 545(4), A&T&, Aad,
+A&7s&,Aasa, Kala, KaTa, Qass,QaTa =
+20
+
+Total combos bet: 40
+
+Turn Cbet percent: 54.1%
+
+Total combos checked: 34
+
+Check-raising range: 0
+
+Check-calling range: 77(6), 98s(2) = 8
+
+Percent of checks defended: 23.5%
+
+Analysis: This turn card really misses our range and
+
+makes it difficult to keep barreling aggressively.
+
+Most turn cards either put some top pair hands or
+
+straights into our range, but this one completely
+
+misses us. Furthermore, our opponent won't wantd:\work\kindle\holdem\674.png @@ to give our check-folding range free cards, so despite
+our range being polarized, itÅfs important to check-
+call and/or check-raise at least a few hands on the
+turn.
+
+However, since nearly all our bluffs are either flush
+draws or straight draws, weÅfll frequently improve
+on the river. This gives our opponent an incentive to
+raise with many or all of his trips on the turn since
+we'll frequently improve to beat them on the river.
+
+OOP range after betting flop + turn: 40
+
+River: 848 Åë643&7&
+
+Total combos: 36 (-A&7&,-8&7&,-745&.-9&7&)
+
+Value betting range: KK-QQ(12), 548(4), A@T#,Aa9@,
+AS5&,KaJe,KaTs,QaJe,QaTe = 23
+
+Bluffing range: 75S(3), 97s(3) = 6
+
+Total combos bet: 29
+
+River Cbet percent: 80.5%
+
+Total combos checked: 7
+
+Check-raising range: 87S(1), 99(1) = 2
+
+Check-calling range: 99(2)
+
+Percent of checks defended: 57.1%
+
+Analysis: On the river, we should usually be betting
+
+small since our range is capped relatively low and
+
+our opponent can still have many full houses and
+
+nut flushes. Hands like kings and queens especiallyd:\work\kindle\holdem\675.png @@ need to either bet small or check-call on the river,
+as there simply isnÅft much value in a large bet and
+being raised turns our hand into a bluff catcher.
+
+However, since the river improved so many hands
+in our bluffing range, it may be possible to nearly
+always bet this river. (It depends on our bet sizing,
+as this determines how aggressively we can bluff.)
+But when we do bet, we should bet small, as we'll
+rarely beat hands in our opponentÅfs value raising
+
+range.
+
+Hand No. 6: Cutoff
+
+versus the Button
+First, letÅfs examine the caller on the button.
+
+Button vs CO cold calling range: TT-22, AQo-AJo, KQo, AQs-
+A8s, KQs-KTs, QJs-QTs, JTs-J9s, T9s-T8s, 98s-97s,
+87s-86s, 76s-75s, 65s, 54s, 1 AA combo, 3 AK
+combo = 182 combos
+
+Flop:J&44Åë
+
+Total combos: 167
+
+Desired combos defended: 167 X 0.6 = 100
+
+Value raises: O
+
+Bluff raises: O
+
+calls: AA(1), 548(2), 44(1), TT-66 (30), AJ(12),
+KQ(16), KJs(3), QJs(3), JTs(3), J9s(3), AK(3),d:\work\kindle\holdem\676.png @@ AQ(16), ATs(3), KTs(3), QTs(3), T9s(3), T8s(3),
+98s(3) = 111
+Total combos defended: 111 (66.5%)
+Analysis: I donÅft like raising since we're in position
+and there are no possible draws, so my strategy is to
+only defend by calling. IÅfm on the fence for whether
+or not to call with hands like king-queen offsuit
+and ten-eight suited, but decided to call with them
+figuring they can bluff later streets as needed.
+
+Positional range after flatting flop: AA(1), 54s(2), 44(1),
+TT-66(30), AJ(12), KQ(16), KJs(3), QJs(3), JTs(3),
+J9s(3), AK(3), AQ(16), ATs(3), KTs(3), QTs(3),
+T9s(3), T8s(3), 98s(3) =111
+
+Tun:J&40405Åë
+
+Total combos: 111
+
+Desired combos defended: 111 x 0.6 = 67
+
+Value raises: AA(1)
+
+Bluff raises: AQ(1)
+
+calls: 548(2), 44(1), AJ(12), KJs(3), QJs(3), JTs(3),
+J9s(3), TT-77(24), AQÅë,AOTÅë,KOQe,
+KOTÅë,QÅëTÅë,T694,T486,9Åë8Åë6, AK(3) =
+62
+
+Total combos defended: 64 (57.8%)
+
+Analysis: WeÅfre defending a bit less than 60 percent
+
+of the time on the turn, but this shouldnÅft be a
+
+problem since we called a bit extra on the flop. Thed:\work\kindle\holdem\677.png @@ turn card improved very few hands in our range
+and with such few nut type hands, itÅfs hard to
+defend aggressively against our opponentÅfs bets. He
+also may bet bigger than 75 percent of the pot.
+
+Positional range after flatting flop + turn: 54s(2),
+44(1),AJ(12), KJs(3), QJs(3), JTs(3), J9s(3),
+TT-77(24), AÅëQÅë,A4TÅë,KeQÅë,KeTe,
+Q4T4,T494,T484,9484, AK(3) =62
+
+River:J$404Åë5ÅëQa&
+
+Total combos: 61 (- Q&J #)
+
+Desired combos defended: 61 x 0.6 = 37
+
+Value raises: 44(1), 54s(2), QJs(2) = 5
+
+Bluff raises: AK(2) = 2
+
+Calls: AJ(12), KJs(3), JTs(3), J9s(3), TT(6), A#QÅë,
+KeQÅë,QÅëeT =30
+
+Total combos defended: 37 (60.7%)
+
+Analysis: This is probably the worst card in the deck
+
+for us since we flatted no ace-queen off suit hands
+
+on the turn. As such, we'll have to call with some
+pairs of tens if we want to prevent our opponent
+from being able to profitably bet any two cards
+when he bets 75 percent of the pot.
+
+Now letÅfs take a look at the cutoff opener.d:\work\kindle\holdem\678.png @@ CO opening range: AA-22, AKo-ATo, KQo-KJo, QJo, AKs-
+A2s, KQs-K6s, QJs-Q7s, JTs-J8s, T9s-T8s, 98s-97s,
+87s-86s,76s-75s, 658-645, 54s = 314
+
+Flop:J&44Åë
+
+Total combos: 285
+
+Value betting range: 545(2), AA-QQ(18), AJ(12), KJ(12),
+99(6)= 50
+
+Draw betting range: O
+
+Bluffing range: AKo(13), KQ(16), ATs-A5s(18), A3s-
+A2s(6),KTs-K6s(15), QTs-Q8s(9), T9s(3), T8s(3),
+98s(3), 65s(3),878(3) = 92
+
+Total combos bet: = 142
+
+Flop Cbet percent: 49.8%
+
+Total combos checked: = 143
+
+Check-raising range: A4s(2), 648(2), 76s(3), 75s(3) = 10
+
+Check-calling range: 44(1), JJ(3), AKs(3), QJ(12),
+JTs(3),J9s(3), J8s(3), TT(6), 88-77(12), AQ(16) = 62
+
+Percent of checks defended: 50.3%
+
+EV of opponent's air on flop: (0.502) [(8) (0.497)-(6)
+
+(0.503) = 0.48 big blinds
+Analysis: On this flop texture, I think that king-
+jack can be both bet and checked. Worse jacks will
+regularly call down, but we'll also occasionally lose
+at showdown and our opponent will sometimes
+bluff raise us on the turn or river. In addition, givingd:\work\kindle\holdem\679.png @@ a free card with king-jack is not very risky, and
+we'll be able to pick off bluffs from our opponent by
+checking.
+
+This is a relatively easy board to play out of
+position since many of our check-calling hands,
+such as queen-jack, are not likely to be outdrawn.
+ItÅfs also a board texture where high flop, turn, and
+river betting frequencies seem very reasonable
+since we're not likely to have many marginal hands
+on later streets which want to check-call.
+
+Furthermore, the only very strong hands in our
+opponentÅfs range are 1 combo of fours, two of five-
+four suited, and 1 of aces for 4 combos total. This
+means we're unlikely to be raised on the flop or
+turn and should consider betting larger and closer
+to equal fractions of the pot on all three streets.
+Granted, weÅfll sometimes end up value betting the
+worse hand, but if our opponent has trips and we
+have an over pair, weÅfll likely lose a huge pot no
+matter what size we bet on the flop.
+
+Additionally, note my bet on the flop with nines.
+ThatÅfs because, on the turn, itÅfs good to have some
+hands in my range which can check-call, andI can
+get value from overcards and some weaker pairs.
+Furthermore, this may make my opponent foldd:\work\kindle\holdem\680.png @@ some high equity hands if he doesnÅft defend all his
+KQ, KTs, and QTs type hands.
+Lastly, notice this is not a flop texture where our
+
+opponent will likely recklessly bet just because
+
+he can profitably bet any two cards. He has many
+
+marginal strength hands which can comfortably
+
+check back, and if he does bet, we aren't folding our
+
+ace-queen hands to a bet anyway. Check-calling
+
+ace-king would also be an option, but I chose to bet
+
+it since it can be comfortably value bet on ace and
+
+king turns.
+
+OOP range after betting flop: 142
+
+Turn:J&40405Åë6
+
+Total combos: 140 (-A#54,-6 454)
+
+value betting range: AA-QQ(18), AJ(12), KJ(12) = 42
+
+Bluffing range: A #T #-A #5 Åë(6),A3-A2 (2),
+KeTÅë-K 46 4(5),KÅëQÅë,QÅëT$-Q48 (3),
+AOKG,TO94,T484,9684,8974,645Åë6,
+AK(8), KQ(11) = 42
+
+Total combos bet: 84
+
+Turn Cbet percent: 60%
+
+Total combos checked: 56
+
+Check-raising range: O
+
+Check-calling range: 54s(2), AK(7), 99(6) = 15
+
+Percent of checks defended: 26.7%d:\work\kindle\holdem\681.png @@ Analysis: Notice despite ÅgbluffingÅh with ace-king on
+the flop  most players would call it a bluff since
+it can make pocket pairs which beat it fold  the
+hand now can be check-called on the turn. Many
+of the hands our opponent bluffs with will lose to
+ace-king at showdown, and it still has a reasonable
+chance to improve on the river. Because of this, I
+chose to both bet some ace-king hands and check-
+call others.
+
+Betting large on the turn is again a reasonable
+option since our opponent did not likely improve.
+Therefore, this allows us to more easily get all-in
+by the river, which we'll probably want to do with
+many of our overpairs.
+
+Also, since our range is quite polarized on the turn,
+it should not be overly surprising that weÅfre not
+defending our turn checks aggressively. Instead,
+we're betting at a high frequency and defending our
+turn checks once in a while. That said, check-raising
+some hands on the turn would also be fine to
+prevent our opponent from being able to easily bet
+his marginal strength hands for one street of value.
+This requires us to sometimes bet and sometimes
+check-raise our overpairs and bluffs.
+
+OOP range after betting flop + turn: 84d:\work\kindle\holdem\682.png @@ River:J$404Åë5ÅëQa&
+
+Total combos: 78 (- 3 QQ, - 3 KQ)
+
+value betting range: AA-KK(12), QQ(3), KQ(8), QT #-
+Q484(3), AJ(12) = 38
+
+Bluffing range: AK(8), A@T #-A 5 (6) = 14
+
+Total combos bet: 52
+
+River Cbet percent: 66.7%
+
+Total combos checked: 26
+
+Check-raising range: 0
+
+Check-calling range: KJ(9) = 9
+
+Percent of checks defended: 34.6%
+
+Analysis: We're able to continue betting the river
+
+pretty aggressively as well as defend some of our
+
+checks by check-calling king-jack. Although we
+
+could defend a few more of our checks by check-
+
+raising some strong hands and some bluffs, it
+
+doesnÅft seem overly concerning if our opponent is
+
+able to profitably bet any two cards once we check.
+
+After all, he only gets the opportunity to bluff about
+
+one-third of the time, and itÅfs not usually worth the
+
+effort to try to get everything to balance perfectly.
+
+Hand No. 7: Cutoff
+
+versus the Button
+
+First, letÅfs examine the caller on the button.d:\work\kindle\holdem\683.png @@ Button cold calling range vs. middle position: TT-22, AQo-AJo,
+KQo, AQs-A8s, KQs-KTs, QJs-QTs, JTs-J9s, T9s-T8s,
+98s-97s, 87s-86s, 768-758, 65s, 54s, 1 AAcombo,
+3 AK combo = 182 combos
+
+Flop: A@#87Åë
+
+Total combos: 155
+
+Desired combos defended: 93
+
+value raises: A8s(2), 878(3), 88(3), 77(3), T#9 @,
+6454,Jo9Åë =14
+
+Bluff raises: 97s(3), 76s(3), 75s(3), JTs(3), 548(3),
+86s(3), 6 @ 6x(3) = 21
+
+calls: AK(2), AQ(12), AJ(12), ATs(3), A9s(3), Ke Qe,
+KeJÅë,KeTÅë,QeJo,QeoTo,JoTo, 5446,
+TT(6), 99(6), T8s(3), 98s(3), T9s(3), 65s(3),
+KaQe,KaJa =65
+
+Total combos defended: 100 (64.5%)
+
+Analysis: This is a pretty standard defending range.
+
+Whether itÅfs best to call or raise with ace-king
+
+is probably close, but I feel weÅfre already raising
+
+aggressively enough as it is and itÅfs nice to have
+
+some strong hands in our flatting range.
+
+Positional range after flatting flop: AK(2), AQ(12), AJ(12),
+ATs(3), A9s(3), K9QÅë,KoJÅë,KoTÅë,QeJo,
+QeTÅë,JoTÅë, 5444, TT(6), 99(6), T8s(3),
+98s(3), T9s(3), 65s(3), KaQa, KaJa =65
+
+Turn: A@87Åë84&d:\work\kindle\holdem\684.png @@ Total combos: 63 (-T@8@,-9&86)
+
+Desired combos defended: 63 X 0.6 = 38
+
+Value raises: T8s(2), 98s(2) = 4
+
+Bluff raises:] ÅëT #, 5444, 658(2) = 4
+
+calls: AK(2), AQ(12), AJ(12), ATs(3), A@T#,K#QÅë,
+KeJÅë,KoTÅë,QÅëJÅë,QeT@ =35
+
+Total combos defended: 43 (68.3%)
+
+Analysis: This is another normal defending range, as
+
+we're calling with all of our top pair hands and bluff
+
+raising with hands which retain their equity well.
+
+Our range is strong so weÅfre able to defend over two-
+
+thirds of it with little difficulty.
+
+Note I decided to raise the 5 Åë4 @ to encourage
+our opponent to fold a better flush draw. This is a
+play IÅfm quite fond of and feel is easy to overlook,
+especially since itÅfs unfortunate when our opponent
+3-bets and makes us fold our flush draw and
+gutshot. However, I donÅft think he will often 3-bet
+on the turn, especially since the board is paired, so
+itÅfs probably worth the risk.
+
+Positional range after flatting flop + turn: AK(2), AQ(12),
+AJ(12), ATs(3), A@T@,K@QÅë,KeJo,KeoTo,
+QeJe,QeTe =35
+
+River: A@8Åë7Åë8&56@
+
+Total combos: 35
+
+Desired combos defended: 35 X 0.6 = 21d:\work\kindle\holdem\685.png @@ Value raises: O
+
+Bluff raises: O
+
+calls: AK(2), AQ(12), AJ(7) = 21
+
+Total combos defended: 21
+
+Analysis: Since we're only calling with some ace-
+
+jack hands, calling and folding must both have an
+expectation of zero. And this seems reasonable
+since itÅfs unlikely our opponent would ever be value
+betting ace-jack or worse and our hand is a bluff
+catcher.
+
+Now letÅfs take a look at the cutoff opener.
+
+Cutoff opening range: AA-22, AKo-ATo, KQo-KJo,
+QJo, AKs-A2s, KQs-K6s, QJs-Q7s, JTs-J8s, T9s-T8s,
+98s-97s, 87s-86s, 768-755, 658-645, 54s = 314
+
+Flop: A@8Åë7Åë
+
+Total combos: 267
+
+Value betting range: A8s(2), A7s(2), 87s(3), AK(12),
+AQ(11), TT(6) = 36
+
+Draw betting range: K#64,QÅëJÅë,QÅëTÅë,
+Q494,JOT4,64654,6044,5444,T9s(3),
+65s(3) = 14
+
+Bluffing range: 99(6), 66(6), J8s(3), K8s(3), Q8s(3),
+98s(3), 97s(3), 76s(3), 758(3), J9s(3), JTs(3),
+64s(3), 54s(3), KQ(7), K # Jx(3), Q ÅëJx(3), KaJa,
+Qala, KaTa,Ke9a, Kaba Qala, QeTa,
+Qaeda = 66d:\work\kindle\holdem\686.png @@ Total combos bet: 116
+
+Flop Cbet percent: 43.4%
+
+Total combos checked: 151
+
+Check-raising range: 77(3), 88(3), T8s(3), 86s(3),
+K7s(3), Q7s(3), T#9@ =19
+
+Check-calling range: AA(3),AÅëQÅë,A49Åë,
+AÅë6Åë-AÅë2 (5), AJ(12), AT(12), KK(6), QQ(6),
+JN(6), K9QÅë, Kolo, KoTo,Ko96 = 56
+
+Percent of checks defended: 49.7%
+
+Minimum EV of our opponentÅfs air on flop: (0.566)
+
+[(8) (0.503)-(6)(0.497)] = 0.59 big blinds
+Analysis: Since many flush draws and straight draws
+are possible, position is more valuable than it would
+be on a dryer ace high flop texture such as the
+A@7Åë34. Nevertheless, this isnÅft an unreasonably
+difficult board to play out of position, and check-
+raising sets and bluffs should prevent our opponent
+from being able to recklessly bet once we check.
+
+Notice IÅfm betting tens and nines, and neither is
+really a value bet or a bluff, and this is being done
+to make king-queen and king-jack type hands
+fold, and if he does call, he may check back on
+the turn with a worse hand and allow us to win
+at showdown. This is a great example of why the
+terms Ågvalue betÅh and ÅgbluffÅh donÅft always workd:\work\kindle\holdem\687.png @@ well, but IÅfve got to put these hands somewhere
+when organizing my ranges. The same concept
+applies to hands such as king-eight and queen-eight
+suited.
+
+Also notice if we never check-call any flush draws,
+all the hands in our check-calling range will have
+showdown value and this makes it difficult to
+effectively bluff on later streets (since the same
+hands weÅfre bluffing with will likely win by
+checking anyway). ItÅfs tempting to only check-call
+with marginal strength made hands on the flop
+since they work so well in this fashion, but this
+results in our range being unbalanced.
+
+OOP range after betting flop: 116
+
+Turn: A@87Åë84&
+
+Total combos: 110 (-A&8,-8474,-J&84,-Ka8&,
+-9&84,-Qa8s)
+
+Value betting range: AK(12), 98s(2), K8s(2), A8s(1) = 17
+
+Bluffing range: JTS(1), K#74,K#6Åë,QÅëJÅë,QÅëeTÅë#,
+Q494,J4T4, 6454, 65s(3), T98(3), J9s(3) = 17
+
+Total combos bet: 34
+
+Turn Cbet percent: 31.0%
+
+Total combos checked: 76
+
+Check-raising range: J8S(2), Q8s(2), T9s(3),544Åë,
+6444 =9d:\work\kindle\holdem\688.png @@ Check-calling range: AQ(12), 878(2), A7s(2), TT(6), 99(6)
+= 28
+Percent of checks defended: 48.6%
+
+Analysis: This turn card didnÅft improve many
+
+hands in our range and ace-seven suited is now
+weaker. Because of this, itÅfs difficult to bet the turn
+aggressively. Although weÅfd much prefer the turn
+card to come a blank which allows us to keep value
+betting aggressively as well as bet large, sometimes
+
+we get a less favorable card.
+
+also think ace-queen isnÅft strong enough to value
+bet, as our opponent won't call down with many
+worse hands and giving free cards isnÅft particularly
+risky. Additionally, betting makes our checking
+range very weak. Therefore, I think we should just
+check-call with ace-queen since this punishes our
+opponent for betting the turn too aggressively.
+
+Another thought that crossed my mind is I should
+have bet the flop with our A ÅëX # hands. These
+hands are able to comfortably check-call on any
+turn card and this keeps our opponentÅfs dominated
+flush draws in his range. Furthermore, they also do
+well when facing a flop raise since they beat bluffs
+and have outs to the nuts when behind. When
+making ranges, itÅfs important to think back to thed:\work\kindle\holdem\689.png @@ previous street and see if thereÅfs a way your range
+can be improved.
+
+Lastly, IÅfm not sure if check-calling tens and
+nines will have a positive expectation, especially
+in practice. Notice we're check-raising the turn
+reasonably often, which encourages our opponent
+to bet smaller and gives us a better price on our call,
+but in reality, most players will bet too much once
+we check. This makes calling worse than it would
+otherwise be and further reinforces the fact that
+betting A@XÅë hands on the flop and check-calling
+on the turn may be best.
+
+OOP range after betting flop and turn: 34
+
+River: A@8Åë7Åë8&56@
+
+Total combos: 33 (-6@5@)
+
+value betting range: AK(12), K8s(2), 98s(2), A8s(1) = 17
+Bluffing range: 65s(3), T9s(3), 65s(2) = 8
+
+Total combos bet: 25
+
+River Cbet pecent: 75.8%
+
+Total combos checked: O
+
+Check-raising range: 0
+
+Check-calling range: O
+
+Percent of checks defended: O
+
+Analysis: This river misses our range and our
+opponentÅfs, so we can continue to value bet all our
+strong hands. We're also able to bet the river quited:\work\kindle\holdem\690.png @@ aggressively and can likely bet large since there
+arenÅft many hands in our opponentÅfs range which
+are better than bluff catchers.
+
+ItÅfs possible we should check-call some hands
+on the river, but there arenÅft many (if any) hands
+which want to bet the flop and turn then check-call
+the river. ThatÅfs because our turn bet will be raised
+reasonably often, so marginal strength hands such
+as ace-queen are probably more profitable to check-
+call.
+
+Remember, itÅfs impossible to get everything
+to balance perfectly, so donÅft waste your time
+worrying about small details. Once you feel you
+have a good sense for how this board texture should
+be approached, itÅfs likely time to move on as hands
+which are close can often be played multiple ways in
+theory, and in practice you should always try to take
+the line which best exploits your opponent.
+
+Hand No. 8: Cutoff
+
+versus the Button
+
+First, letÅfs examine the caller on the button.
+Button cold calling range vs. middle position:
+TT-22, AQo-AJo, KQo, AQs-A8s, KQs-KTs, QJs-QTs,d:\work\kindle\holdem\691.png @@ JTs-J9s, T9s-T8s, 98s-97s, 87s-86s, 76s-75s, 65s,
+54s, 1 AAcombo, 3 AK combo = 182 combos
+
+Flop:QÅëJÅë4@
+
+Total combos: 161
+
+Desired combos defended: 161 x 0.6 = 97
+
+Value raises: QJs(3), 44(3),T49Åë,KeTÅë,A09Åë,
+Ae@8Åë@=10
+
+Bluff raises: T8s(3), 98s(3), 54s(3), Aa9@,Aa8ae,
+7a5 6, 6056 =13
+
+Calls: AA(1), AQ(12), KQ(12), QTs(3), AJ(12), KJs(3),
+JTs(3), J9s(3), KTs(3), T9s(3), ATs(3), TT(6), AK(3),
+AOTO,T484,94684,99674,8074,8064,
+7464,7654,6054,5046 =77
+
+Total combos defended: 100 (62.1%)
+
+Analysis: Since most turn cards will improve some
+
+hands in our range (preventing our range from
+
+being capped) and giving free cards is relatively
+
+risky, itÅfs probably fine to raise all our strong
+
+hands. Additionally, even if a set combo or two is
+
+slowplayed, it doesnÅft prevent our opponent from
+
+being able to overbet effectively on blank turn cards
+
+since we won't have many very strong hands in our
+
+range.
+
+Positional range after flatting flop: AA(1), AQ(12), KQ(12),
+QTs(3), AJ(12), KJs(3), JTs(3), J9s(3), KTs(3),
+T9s(3), ATs(3), TT(6), AK(3), A@T,T48Åë,d:\work\kindle\holdem\692.png @@ 94846,9074,8674,8664,7464,7454,
+64654,5044=77
+Turn:QÅëJo4a64a
+Total combos: 77
+Desired combos defended: 77 X 0.6 = 46
+Value raises: O
+Bluff raises: O
+calls: AA(1), AQ(12), KQ(12), QTs(3), AJ(12), KJs(3),
+AOTO,T484,94684,99674,8074,8064,
+7464 =50
+Total combos defended: 50 (64.9%)
+Analysis: The turn card is unfortunately a blank and
+thus puts no strong hands in our range. While itÅfs
+easy to think we must have done something wrong
+on the previous street, itÅfs important to remember
+our opponent cannot bet the turn (much less
+overbet) too often or heÅfll be unbalanced. So while
+facing a large bet from a balanced opponent is
+undesirable, it can only happen occasionally or we
+can exploit him by frequently calling.
+
+ItÅfs still quite easy to call a balanced range against a
+normal sized bet, and we donÅft need to call with any
+made hand worse than king-jack suited (though
+calling with a few weaker jacks as well may be fine).
+Furthermore, notice the turn card improved mostd:\work\kindle\holdem\693.png @@ of our flush draws by giving us either a pair or a
+straight draw.
+
+Positional range after flatting flop + turn: AA(1), AQ(12),
+KQ(12), QTs(3), AJ(12), KJs(3), A@T@,T 486,
+9484,94674,84674,84664,7464 =50
+
+River:QÅëJÅë4a6a2@
+
+Total combos: 50
+
+Desired combos defended: 50 x 0.6 = 30
+
+Value raises: O
+
+Bluff raises: O
+
+calls: AA(1), AQ(12), KQ(12), QTs(3), AJ(2) = 30
+
+Total combos defended: 30
+
+Analysis: Since our range is condensed on the river
+
+and our opponentÅfs range is polarized, it makes no
+
+sense to raise and we should defend only by calling.
+
+Despite the turn and river coming blanks, our river
+
+calling range includes few hands weaker than king-
+
+queen. In fact, we're only calling with two out of the
+twelve ace-jack hands in our range.
+
+This hand showcases why itÅfs hard to get three
+streets of value when out of position with
+marginally strong hands. If our opponent decides
+to bet 75 percent of the pot on the flop, turn, and
+river with king-queen, heÅfs not going to get much
+value on his river bet. More specifically, the river betd:\work\kindle\holdem\694.png @@ sizing formula would almost certainly suggest a 75
+
+percent pot sized bet is too big.
+
+Now letÅfs take a look at the cutoff opener.
+
+Cutoff opening range: AA-22, AKo-ATo, KQo-KJo,
+QJo, AKs-A2s, KQs-K6s, QJs-Q7s, JTs-J8s, T9s-T8s,
+98s-97s, 87s-86s, 768-755, 658-645, 54s = 314
+combos
+
+Flop:QÅëJÅë4@
+
+Total combos: 272
+
+Value betting range: AA(6), KK(6), AQ(12), QJ(9) =
+33
+
+Draw betting range: KTs(3), T9s(3), KeTÅë,Ke9Åë,
+KO8Åë,KO7Åë,KO64,T694,T484,9Åë8Åë4,
+9474,8674,8664,7464,74654,6056 =
+20
+
+Bluffing range: TT(6), 99(6), AK(15), AT(15),
+K9s(3), T8s(3), 98s(3), A4s(3), 64s(3), 54s(3),
+Aa9@-Aa54(5),AG3 6,426 =67
+
+Total combos bet: 120
+
+Flop Cbet percent: 44.1%
+
+Total combos checked: 152
+
+Check-raising range: JJ(3), 44(3),A47Åë,AÅë6Åë,
+A54,A43Åë,A42Åë,JTS(3), J9s(3), J8s(3),
+6a5@=21
+
+Check-calling range: QQ(3), KQ(12), QTs(3),
+Q9s(3), Q8s(3), Q78(3), AJ(12), KJ(12), AeKe,d:\work\kindle\holdem\695.png @@ AOT4,4994,A484,4644,6644,544Åë6 =
+58
+Percent of checks defended: 52.0%
+
+EV of opponentÅfs air on flop: (0.559) [(8) (0.480) -
+
+(6)(0.520)] = 0.40 big bets
+Analysis: Although many players bet king-queen
+on this flop with little thought, itÅfs unlikely our
+opponent will call down with worse if we bet all
+three streets. ThatÅfs because, on this flop, typical
+button calling ranges have king-queen or better
+19 percent of the time, so itÅfs unlikely heÅfll have to
+call down with many worse hands. Additionally,
+itÅfs important we adequately defend our checks
+against strong opponents, and check-calling helps
+accomplish this.
+
+Since there are two high cards on the flop, itÅfs not
+overly difficult to check-call aggressively. Hands
+such as queen-ten, ace-jack, and king-jack make
+excellent check-calls, and by check-calling with
+some flush draws as well, we'll be able to effectively
+bluff the river if our opponent checks back the turn.
+
+One of the hardest aspects of this hand is
+determining how to divide our flush draws among
+our betting, check-calling, and check-raising range.
+I tried to check-call flush draws with showdownd:\work\kindle\holdem\696.png @@ value that could be check-called twice, as well as
+bet weak flush draws with no showdown value to
+encourage our opponent to fold a better hand.
+
+OOP range after betting flop: 120
+
+Turn:QÅëJo4a64a
+
+Total combos: 119 (-6 444)
+
+value betting range: AA(6), KK(6), QJ(6), AQ(10) = 28
+
+Bluffing range: KTs(3), T9s(3), KT #,K094,Ke8Åë,
+KO74,KO64,T494,T484,94684,9474,
+8474,8464,7664,7654,605Åë,AK(15) =
+35
+
+Total combos bet: 63
+
+Turn Cbet percent: 52.9%
+
+Total combos checked: 56
+
+Check-raising range: 64s(2), QJ(3), AT(5) = 10
+
+Check-calling range: TT(6), AQ(2) = 8
+
+Percent of checks defended: 32.1%
+
+Analysis: In this spot, there are many important
+
+concepts at play. The first, and perhaps the
+
+most important, is we should strongly consider
+
+overbetting. Many straight and flush draws were
+
+possible on the flop, so itÅfs unlikely our opponent
+
+would slowplay his strong hands. Because of
+
+this, he likely has no raising range on the turn.
+
+Furthermore, our flop betting range was quited:\work\kindle\holdem\697.png @@ polarized, so there are few hands (in our range)
+which prefer to bet small.
+
+Also note most of our bluffs have a considerable
+amount of equity and will often improve on the
+river. Since several of them will likely become value
+hands, weÅfre able to bluff a bit more aggressively on
+the turn.
+
+Additionally, notice our range includes no medium
+strength hands which work particularly well as
+check-calls. This encourages our opponent to bet
+smaller since we won't frequently be check-calling
+and will instead usually either check-fold or check-
+raise. Thus, when our opponent bets small, check-
+calling tens or nines may be profitable since weÅfre
+getting such a good price and he won't usually
+be value betting middle pair hands anyway. And
+since I donÅft want my check-calling range to be too
+transparent, my strategy is to check-call a couple of
+ace-queen hands to protect my check-calling range.
+
+Finally, understand we could have bet a few ace-
+jack or queen-nine suited type hands on the flop so
+we'd have some holdings in our range which work
+well as check-calls on blank turns. In retrospect, it
+may have been correct to bet a few of these hands
+(on the flop) for this very reason. However, on the
+flop, these hands do poorly when facing a raise andd:\work\kindle\holdem\698.png @@ donÅft particularly fear giving free cards, so while
+betting a few of them is probably best, I wouldnÅft
+bet too many.
+
+OOP range after betting flop + turn: 63
+River:QÅëJÅë4a642a@
+
+Total combos: 63
+
+Value betting range: AA(6), KK(6), QJ(6), AQ(10) = 28
+Bluffing range: AK(15), KTs(1) = 16
+
+Total combos bet: 44
+
+River Cbet percent: 69.8%
+
+Total combos checked: 19
+
+Check-raising range: 0
+
+Check-calling range: O
+
+Percent of checks defended: O
+
+Analysis: Since our range is very polarized after
+marking a large turn bet, I wouldnÅft worry about
+defending our checks on a blank river. ItÅfs not
+usually a problem if our opponent can profitably
+bluff the river with his missed draws since his turn
+call was so expensive, and itÅfs again not worth our
+time trying to get everything to balance perfectly.
+Instead, IÅfd rather bet big with all our value hands
+and bluff aggressively.
+
+ItÅfs also tough to say whether itÅfs best to bluff with
+ace-king since it has better removal effects or with
+a missed flush draw since it has no showdownd:\work\kindle\holdem\699.png @@ value. In practice, it may be better to bluff with
+hands which have less showdown value since our
+opponent may call our turn bet with a draw and
+not bluff the river. But in theory, I think itÅfs better
+to bluff ace-king since it blocks some ace-queen and
+king-queen hands, especially since these holdings
+make up most of our opponentÅfs calling range.
+
+Hand No. 9: Cutoff
+
+versus the Button
+
+First, letÅfs examine the caller on the button.
+
+Button cold calling range vs. middle position: TT-22, AQo-AJo,
+KQo, AQs-A8s, KQs-KTs, QJs-QTs, JTs-J9s, T9s-T8s,
+98s-97s, 87s-86s, 768-758, 65s, 54s, 1 AAcombo,
+3 AK combo
+
+Flop:8 Åë4@3@
+
+Total combos: 167 = 100
+
+Desired combos defended: 167 X 0.6 = 100
+
+value raises: AA(1), 44(3), 33(3), A@9s, AaTa,
+7064,7656,6456@=12
+
+Bluff raises: 768(3), 75s(3), 548(3), 5 @5x(3),T#9Åë,
+9474,JÅë9@=15
+
+calls: 88(3), TT-99(12), 77(6), A@Qa, Aaja,
+KaQa, Kala, KaTa, Qala, QaTa,JaTa,
+Ja9a,TA96,947 6, A8s(3), T8s(3), 988(3),d:\work\kindle\holdem\700.png @@ 87s(3), 86s(3), 658(3), AK(3), AQ(15), KQ(7),
+A@)Jx(3), AÅëJo,AT@ =80
+Analysis: ItÅfs really amazing how much easier it is to
+defend in position than out of position. This is a flop
+texture thatÅfs extremely difficult to play well out of
+position, but in position, itÅfs quite easy to tell which
+hands make reasonable calls, raises, and folds.
+ThatÅfs also why when analyzing hand examples,
+itÅfs best to start with the positional range first,
+especially for newer players.
+
+Notice IÅfm emphasizing calling with hands that
+will keep dominated hands in our opponentÅfs range
+and raising with hands which make hands that
+dominate us fold. For example, A @Jx has some good
+bluff raising properties as it can turn top pair or
+the nut flush draw, but raising makes our opponent
+fold weaker ace-x and jack-x hands. For this reason,
+calling is probably best even if raising is also
+profitable.
+
+Likewise, IÅfm raising hands like the J Åë9 # and
+T #94 to encourage him to fold hands like ace-jack
+and ace-ten. This reduces how often we'll turn top
+pair and be out kicked. Additionally, these hands
+can effectively double barrel when a straight or
+flush draw is turned.

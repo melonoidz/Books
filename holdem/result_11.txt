@@ -1,0 +1,1132 @@
+d:\work\kindle\holdem\551.png @@ Bluff Catchers
+
+in Multiway Pots
+
+Since players are required to defend less frequently
+in multiway pots, itÅfs important to emphasize
+calling with hands which have the potential to
+make nut type hands by the river. Marginal hands
+still need to sometimes be called, but they should
+usually either have some chance to improve on
+the turn and river (such as a top or medium pair
+hand with 3 toa flush and 3 toa straight) or be
+quite strong and not particularly vulnerable to our
+opponentÅfs bluffs.
+
+Calling with a marginal made hand is less desirable
+in a multiway pot for a few reasons. First, if there
+are still players left to act, one of these can put ina
+raise after we call. This happens both preflop and
+post-flop, and when it does occur, we'll usually have
+to fold or make close to a break even call. Putting
+more money into the pot only to later be faced with
+a close to break-even call is an undesirable outcome
+which should be avoided when possible.d:\work\kindle\holdem\552.png @@ Additionally, made hands usually have a
+significant amount of equity against a single
+draw, but do poorly against multiple draws. For
+instance, if we have an overpair and are facing only
+a straight draw on the flop, then our opponent will
+usually have 8 outs. But if weÅfre up against two
+opponents and one has a straight draw while the
+other has a flush draw with an overcard, then our
+opponents can have as many as 18 outs combined,
+and itÅfs much easier to dodge 8 outs than 18 outs.
+Furthermore, since we'll likely have to fold to
+additional bets on the turn and river even when the
+draws miss, itÅfs unlikely we'll win a large pot. This
+encourages us to try to avoid calling with medium
+strength hands when multiple players may have
+draws.
+
+Lastly, notice that since we'll need to defend fewer
+hands multiway, our strong draws will usually
+make up a larger fraction of our defending range.
+ItÅfs thus not necessary to call with as many bluff
+catchers to prevent our opponent from being able
+to show an immediate profit on his bluffs. We'll of
+course still need to call with some medium strength
+hands since only calling with draws will result in us
+having too many bluffs on later streets, but itÅfs less
+crucial to defend many bluff catchers on the flop tod:\work\kindle\holdem\553.png @@ prevent our opponent from recklessly betting. In
+addition, our opponent will know our defending
+range is stronger and adjust his betting range
+accordingly.
+
+Holdings which usually flop only marginal
+strength hands should often be avoided in
+multiway pots. For instance, if the cutoff opens and
+the button calls, calling with the
+
+in the small blind may be a losing play. This hand
+plays poorly out of position, and it will almost
+never beat a non-bluff when facing bets on multiple
+streets unless it makes at least two pair. Remember,
+applying theory to preflop play requires more
+guesswork than river play since there are so many
+cards left to come, so itÅfs impossible to solve for
+what line is best. However, while calling with a
+hand which will mostly flop only mediocre made
+hands may still be profitable, we should at least
+consider folding or squeezing even if calling is our
+standard line.
+
+Conversely, if the under-the-gun player opens and
+the cutoff calls, squeezing with thed:\work\kindle\holdem\554.png @@ =
+
+=e
+
+on the button rather than calling is a reasonable
+option. ThatÅfs because ace-queen will almost always
+be a bluff catcher (with the potential to split)
+
+when facing a bet on the flop, and by 3-betting
+
+we may make one of our opponents fold either
+preflop or post-flop. In addition, our hand still has
+a significant amount of equity when called even if
+
+we'll rarely make an exceptional hand.d:\work\kindle\holdem\555.png @@ Speculative
+Preflop Hands
+
+Most players intuitively understand that the ability
+to make nut type hands becomes more important
+in multiway pots. However, this causes them to
+overrate speculative hands, especially preflop.
+Suited connectors and gappers are regularly called
+when they should be 3-bet bluffed or folded preflop
+and itÅfs important to understand why.
+
+1. Suited connectors often make three to a flush
+and three to a straight type hands as well as
+gutshots. These holdings can bluff raise and
+float profitably when facing a bet in heads up
+pots, but they usually must be folded in multi-
+way pots.
+
+2. Since ranges get strong quickly in multiway
+pots, itÅfs often difficult to get value with weak
+flushes. ItÅfs obvious when the flush is possible
+and ranges are now so strong that sometimes
+players won't even need to felt all of their set
+combos (much less two pairs or overpairs)
+
+when facing bets or raises. This often makes itd:\work\kindle\holdem\556.png @@ difficult to get action with a weak flush unless
+the opponent has us beat.
+
+3. The pot-size and our opponent's bet size on the
+flop will be large relative to the remaining stack
+sizes. This decreases the implied odds of our
+draw relative to the pot size and makes it diffi-
+cult to profitably call with weak draws.
+
+HereÅfs an example. ItÅfs usually quite profitable
+to call with a draw when our opponent bets 4 big
+blinds into a 6 big blind pot since there is so much
+stack depth remaining. This is especially true if
+we're drawing to the nuts since a small investment
+can potentially win our opponentÅfs stack. But if
+he bets 10 big blinds into a 15 big blind pot, we'll
+have to risk a much larger fraction of our stack in
+an attempt to get all-in with the nuts by the river.
+This makes it more difficult to call on the flop witha
+good but not amazing draw.
+
+This is not meant to deter you from ever playing
+suited connectors in single raised multiway pots.
+TheyÅfre often profitable hands, especially against
+weak opponents who will call down with marginal
+holdings if we make a big hand or who are easily
+bluffed. But itÅfs important to realize they should
+not be played recklessly and to recognize justd:\work\kindle\holdem\557.png @@ how strong hands need to be for us to be able to
+confidently go to showdown in multiway pots.
+Additionally, position is of course especially
+important when multiway since itÅfs so undesirable
+to get raised behind us after calling with a mediocre
+made hand or draw.
+
+And finally, the best speculative hands in multiway
+pots are usually pocket pairs. They will almost
+always make profitable calls preflop. Unlike suited
+connectors and gappers, pocket pairs immediately
+tell us on the flop whether weÅfre likely to have the
+best hand by the river. When a set is flopped, we can
+confidently raise and build the pot, and if the set is
+missed, we can simply fold to any aggression from
+our opponents. In other words, calling or raising on
+the flop will usually either be highly profitable or
+a clearly losing play. This isnÅft the case with suited
+connectors since we'll usually only improve to the
+best hand on the turn or river.d:\work\kindle\holdem\558.png @@ Deciding Who is
+
+Responsible for
+Defending
+
+In reality, all players won't defend an equal fraction
+of their range against a bet. However, thereÅfs no
+way to calculate exactly how much each player
+should defend. It all comes down to positions and
+how strong each playerÅfs range is. If a player is out
+of position, has checked, and has shown weakness,
+then itÅfs unlikely this person will defend much
+against a bet. Conversely, if a player on the flop is
+last to act in position and has a strong range, then
+he should be expected to defend more aggressively
+than everyone else.
+
+To illustrate, suppose the cutoff opens and the
+button and big blind both call. Since the big blind
+received a 1 big blind discount on his preflop call
+due to having posted the big blind, he will call as
+long as he expects to lose less than 1 big bind overall
+for the hand. This results in his range being weaker
+
+than it would otherwise be. Furthermore, sinced:\work\kindle\holdem\559.png @@ heÅfs also out of position, heÅfll defend less on boards
+where position is particularly valuable.
+
+In contrast, the button will likely defend
+aggressively if the cutoff bets. After all, he called
+preflop with a range that does well against
+the cutoffÅfs opening range and always has the
+advantage of position. So even though we canÅft
+calculate exactly how much each player should
+defend against a bet, itÅfs safe to assume the button
+will be defending more aggressively than the big
+blind on most flops.
+
+Additionally, itÅfs important to note whether each
+player will likely defend by check-calling or check-
+raising. ThatÅfs because how frequently the bettor
+is check-raised will determine how often he gets to
+see a turn card with his bet-folding hands, as well
+as what bet sizing is best. Recall that small bets are
+better when players are unlikely to defend by check-
+calling and will usually defend by check-raising.
+
+HereÅfs an example. The cutoff opens and the
+button and big blind call. ItÅfs now likely the big
+blind will defend by mostly check-raising on the
+
+By of Se
+we 48 | +
+ves leu oe:d:\work\kindle\holdem\560.png @@ flop. His range has few or no hands which
+
+can comfortably check-call, so heÅfll defend by
+aggressively check-raising his sets and some bluffs,
+while the button will most likely defend by calling
+since heÅfs in position. And if both ranges combined
+are not defending enough to prevent the cutoff
+from being able to profitably bet any two cards, then
+theyÅfre not likely defending aggressively enough.d:\work\kindle\holdem\561.png @@ Summary
+
+The same theory which applies to single raised
+pots will also apply to multiway pots. However, itÅfs
+important to stop and think about how strong each
+playerÅfs range needs to be to continue when playing
+against multiple opponents. Weak players regularly
+end up betting or calling with hands which are too
+weak for this situation.
+
+ItÅfs important to emphasize playing hands which
+have the potential to make near nut type hands
+when the pot is multiway. In particular, some hands
+which make slightly profitable calls preflop if the
+pot will likely be heads-up will be slightly losing
+calls in multiway pots. On the flop, we'll usually
+need to defend fewer bluff catchers as theyÅfll be
+more strong made hands and draws in our range.
+We'll still need to call with enough bluff catchers
+so our opponent canÅft recklessly bet and our calling
+range is balanced, but when possible, itÅfs best to call
+with hands which can more easily improve.
+
+Weak draws are commonly overrated in multiway
+pots. Strong players won't always commit their
+stack with two-pair or a set if many possible draws
+improved. Moreover, itÅfs more common for a lowd:\work\kindle\holdem\562.png @@ flush to lose to a better flush when many players
+are involved. While weak draws will often make
+profitable calls post-flop, itÅfs often not worth
+calling with a suited connector or gapper preflop
+hoping to flop a draw which will be only marginally
+profitable.
+
+ItÅfs impossible to determine exactly how much
+each remaining player should defend when facing
+a bet. So we must pay extra careful attention to
+each playerÅfs range and how valuable position is
+for a given board texture. Usually the big blind will
+defend less frequently than other positions post-
+flop since he got a discount on his call preflop and
+thus called with a weaker range.
+
+HereÅfs a few of the more crucial points:
+
+1. Players need to defend against bets much less
+often in multiway pots than in heads up pots.
+Most players underestimate how strong this
+effect is.
+
+2.1
+(0)
+
+(0)
+
+Hands often need to be very strong to win at
+
+showdown in multiway pots. So starting handsd:\work\kindle\holdem\563.png @@ which consistently make marginally strong
+hands such as ace-jack offsuit are often less
+useful. Likewise, hands which have the poten-
+tial to become very strong, such as pocket pairs
+preflop and draws to the nuts on the flop, be-
+come more valuable.
+
+1
+(0)
+1
+
+In multiway pots, since bets on the flop are big-
+ger relative to remaining stack sizes and felting
+ranges are stronger, players often end up over-
+rating suited connectors since they canÅft call
+or bluff raise as effectively as they often can in
+heads up pots.
+
+1
+(0)
+2
+
+How frequently each player must defend
+against a bet depends on each player's range
+
+and their position.d:\work\kindle\holdem\564.png @@ Part Thirteen
+
+Shallow
+
+and Deep Stack Playd:\work\kindle\holdem\565.png @@ Shallow
+and Deep Stack Play
+
+Introduction
+
+So far, throughout the book, weÅfve always assumed
+starting stack sizes are 100 big blinds. ThatÅfs both
+because itÅfs the most common stack size used in
+cash games and it provides enough stack depth to
+allow us to explore and discuss the most important
+theoretical concepts. However, starting stack
+sizes will not always be 100 big blinds deep, and
+itÅfs important to understand how ranges should
+change for shallow and deep stack play.
+
+Tournament players need to know how to apply
+different theory concepts based on stack depth
+since players often start out quite deep before
+effective stack sizes become shallow. As we'll see,
+failing to adjust your range to take into account
+stack depth becomes especially problematic when
+stack sizes are shallow. Additionally, this is an
+important skill to master for cash game players asd:\work\kindle\holdem\566.png @@ well since itÅfs quite common for at least one player
+at the table to be short stacked.
+
+Ultimately, all of the theoretical concepts weÅfve
+previously discussed for 100 big blind stack play
+will apply to deeper stack play as well. Once again,
+the biggest advantage of understanding theory is
+we can figure out what to do in a situation without
+using a trial and error approach. Maybe one day
+we'll be 400 big blinds deep against another strong
+player. And it shouldn't be overly difficult for us to
+figure out what to do if we understand the math
+and theory behind our decisions.d:\work\kindle\holdem\567.png @@ Flop Value
+
+Betting Frequencies
+with
+
+a Perfectly Polarized
+Range
+
+As stacks get deeper, itÅfs possible to bluff more
+aggressively with a perfectly polarized range
+and remain balanced. The reason for this is deep
+stacks let us bet bigger and give our opponent a
+worse price to call. This was already shown when
+comparing raised pots to 3-bet pots since our flop
+betting and raising range in 3-bet pots needed to
+contain a higher fraction of value hands.
+
+Recall that when analyzing flop play, we saw the
+following street must be bet two-thirds of the time
+after betting the pot with a perfectly polarized
+range. ThatÅfs because our opponent was getting 2-
+to-1 odds on his call and effectively won wheneverd:\work\kindle\holdem\568.png @@ we checked but lost whenever we bet. The same
+methodology can be used to determine what
+fraction of our flop bets should be value bets if we
+make larger or smaller bets on each street.
+
+HereÅfs an example where stack sizes are shallow.
+Suppose starting stacks are 40 big blinds, itÅfs heads
+up, and the pot is 7 big blinds on the flop. This
+information can be used to determine how much
+the pot must grow on each street to get all-in on the
+
+river.
+
+So, if the pot must grow to be 2.25 times its
+previous size after each round of betting to get
+stacks all-in by the river, then approximately 0.62
+pot sized bets should be made on each street. This
+requires us to us to bet the turn 72 percent of the
+time after betting the flop, the river 72 percent of
+the time after betting the turn, and 72 percent of
+our river bets to be value bets.
+
+(1.62)(1.X)  (0.62)(X) =0 >
+X =0.72
+
+Since we plan to bet the turn 72 percent of the time
+after betting the flop, the river 72 percent of the
+time after betting the turn, and 72 percent of ourd:\work\kindle\holdem\569.png @@ river bets will be value bets, then 37.3 percent of
+our flop bets should be value bets.
+0.373 = (0.72)(0.72)(0.72)
+
+Achart can be created to show what percentage
+of our flop bets need to be value bets based on our
+stack depth in terms of pot sized bets using the
+same methodology just shown. To do this, we'll
+once again need to assume our range is perfectly
+polarized on the flop and composed of hands which
+have either 100 or 0 percent equity. Furthermore,
+assume the pot is heads up and the turn and
+river are always bet at the perfect frequency with
+balanced ranges to make our opponent indifferent
+
+to calling.
+StackDepth | Bet Sizeon Turmand Percentage | Percentage
+(espremaining | EachStreet | River Betting ofriver | of Flopnets
+foreach player | (PSB) Frequency (%) | Betswhich | which Should
+onthe flop) arevalue | be value
+
+2 0.35 84.4 84.4 60.1
+
+3 0.46 76.3 76.3 44.3
+
+5 0.61 72.5 72.5 38.1
+
+10 0.88 68.1 68.1 31.6
+
+17 1.14 65.3 65.3 27.8
+
+25 1.35 63.5 63.5 25.6
+
+100 2.43 58.6 58.6 20.1
+
+None of the above chart needs to be memorized,
+but itÅfs worth noting a few important trends. Ifd:\work\kindle\holdem\570.png @@ remaining stack sizes are small, then even a small
+change in stack depth can greatly change what
+fraction of our flop bets should be for value. For
+instance, if there are 2 pot sized bets remaining,
+then 60.1 percent of our flop bets need to be for
+value. But if there are 3 pot sized bets remaining,
+only 44.3 percent of our flop bets need to be for
+value. This is a substantial change for stacks getting
+only slightly deeper.
+
+However, once stacks are already adequately deep,
+increasing stack depth won't greatly change what
+frequency of our flop bets should be for value.
+Notice when we have 10 pot sized bets remaining
+on the flop, 31.6 percent of our flop bets must be for
+value. Yet when 25 bets remain, only 25.6 percent
+of our flop bets must be for value. This is a relatively
+small change for stacks being substantially deeper.
+
+This helps showcase an important point. In
+general, if stacks are very shallow, optimal ranges
+and frequencies should change drastically with
+asmall change in stack depth. Furthermore,
+when stacks are very shallow, itÅfs often possible
+to model situations quite accurately and find
+close to the optimal solution. Expert sit-and-go
+and tournament players are comfortable with
+how frequencies and ranges change based ond:\work\kindle\holdem\571.png @@ only a slight difference in stack depth for this
+precise reason. So in general, itÅfs safe to assume
+most players who haven't studied the math
+underestimate just how significantly ranges should
+change as stacks get very shallow.
+
+Yet as stacks get deeper, a substantial change in
+stack depth is much less significant. For instance,
+suppose we open in the cutoff and only the button
+calls. If the pot is 7 big blinds on the flop, neither
+playerÅfs strategy will likely change much based on
+whether we're 300 big blinds or 1,000 big blinds
+deep. Granted, there will be some change, but the
+change is likely much less significant than most
+players would expect. This is especially true since
+itÅfs rare for theoretically strong players to get all-in
+with 300 big blind stacks much less 1,000 big blind
+stacks, so the extra stack depth rarely comes into
+play.
+
+So for these reasons, players who wish to improve
+their game with different effective stack sizes
+should likely focus on shallow stack play rather
+than deep stack play, and a player who has studied
+shallow stack play should have a substantial
+advantage over someone who has not. Anda since
+ranges will not change too much as stacks get
+deeper, studying deep stack play for stack sizesd:\work\kindle\holdem\572.png @@ over 200 big blinds is likely only worthwhile for an
+expert player who frequently plays very deep.d:\work\kindle\holdem\573.png @@ Shallow
+
+Stack Play at a Glance
+
+As previously discussed, there is no way to
+calculate the expected value of a hand simply based
+on its equity when there are additional cards to
+come. This is an extremely important point, as
+hands with less equity are often more profitable
+than hands with greater equity. Thus itÅfs crucial to
+be able to realize our equity and ideally our hand
+should have the potential to beat hands in our
+opponentÅfs value betting range and win a very large
+pot. As such, holdings which have the potential to
+make the nuts and continue to get value after being
+raised have a higher expected value than their
+equity alone would indicate.
+
+Nevertheless, as stacks get shallow, the ability
+to make nut type hands becomes less important
+and the overall equity of the hand becomes more
+important. This leads us to the general rule of
+shallow stack play.
+
+As stack sizes get smaller relative to the size of
+the pot, more emphasis should be placed on hig!d:\work\kindle\holdem\574.png @@ equity hands and less emphasis should be place:
+on hands which have the potential to make nut
+type hands.
+
+This is due to several reasons:
+
+1. When we make a nut type hand, we do not
+have enough stack depth remaining to raise
+and win a very large pot. In other words, when
+we make the nuts and our opponent makes the
+second nuts, itÅfs still impossible for us to gather
+alot of chips.
+
+2.1
+(0)
+
+3
+
+Our opponent cannot make large bets to
+prevent us from being able to profitably call
+with marginal strength hands. Put differently,
+having a capped range is much less significant
+since our opponent cannot make large bets to
+begin with.
+
+3.1
+(0)
+4d:\work\kindle\holdem\575.png @@ Since bets are small relative to the size of the
+
+pot, weaker holdings can be bet for value. Ad-
+
+ditionally, more marginal strength hands will
+
+need to be called down. This allows medium
+
+strength hands to be played more effectively.
+4.1
+
+(0)
+
+5
+
+Position is usually less valuable, largely be-
+cause draws are less prevalent and weÅfre more
+
+likely get all-in on the flop or turn.
+
+The above reasons encourage us to change our
+preflop strategy significantly. Hands which have
+little equity but have the ability to make nut type
+hands, such as suited connectors and gappers,
+become much less profitable (and often unplayable)
+as stacks get shallow. ThatÅfs because making a hand
+which beats most of the hands in our opponentÅfs
+value betting range, such as a straight or flush,
+still canÅft win a very large pot. However, holdings
+which have more equity preflop but can rarely make
+strong hands, such as the A&T wv or the KaT vy, are
+now more profitable. The reason for this is we no
+
+longer have to worry about facing multiple larged:\work\kindle\holdem\576.png @@ bets, and if we bet, our opponent won't be able to
+make a large raise.
+
+Our post-flop strategy should change as well when
+stacks are shallow. Again, weÅfll emphasize playing
+hands with more equity rather than hands which
+have the potential to make nut type hands. For
+instance, hands with three to a flush and three toa
+
+straight, such as the
+
+on the
+
+flop will no longer have the potential to win a very
+large pot. This decreases the expected value of this
+hand. In contrast, a holding like the
+
++
+
+<+d:\work\kindle\holdem\577.png @@ on the same board texture may make a profitable
+call since we can comfortably call down or bet if we
+turn an ace ora ten.
+
+In addition, since having a capped range is not
+problematic when stacks are shallow, ranges where
+our strongest value betting hand is still quite weak
+will work best in spots. This can easily be seen
+preflop since players can often 3-bet all-in with a
+capped range and their opponent will be unable to
+raise.
+
+HereÅfs an example. ItÅfs often quite effective to 3-
+bet all-in with a range consisting primarily of
+many pocket pairs and high card hands such as
+AK, AQ, and AJ. ThatÅfs because these hands have a
+reasonable amount of equity when called, yet since
+they are vulnerable to being outdrawn on the flop,
+we still want to encourage our opponent to fold
+preflop. In other words, hands in our opponentÅfs
+folding range almost always have a significant
+amount of equity, and making these holdings fold
+to a 3-bet is very useful. And having no premium
+pairs in this range isnÅft problematic since our
+opponent cannot raise anyway.
+
+While itÅfs trickier to visualize, this same concept
+of betting with a capped range when stacks are
+shallow can apply post-flop as well. For instance,d:\work\kindle\holdem\578.png @@ it may be best to donk bet on the flop or turn with
+a capped range in some spots since our opponent
+will not be able to make a large raise (or any raise
+at all if we're all-in). This allows us to consider flop
+and turn donk betting ranges in some spots which
+would clearly be bad with more stack depth. While
+detailed short stack play is beyond the scope of this
+book, hopefully, youÅfll now understand why donk
+betting can make sense with a capped range when
+shallow.
+
+Ultimately, itÅfs hard to give general rules for how
+to play shallow stacks since thereÅfs such a huge
+difference between being 10, 20, or 35 big blinds
+deep. The same calculations as those previously
+shown would have to be applied to get new
+frequencies and ratios for a specific stack depth.
+In addition, bet-folding the flop or the turn often
+becomes impractical as stacks get very shallow,
+(any hand which bets will have enough equity to
+bet-call), so calculations often need to be made
+planning on only utilizing one or two rounds of
+betting. ThereÅfs really no substitute for putting in
+the time and studying ranges, and whether or not
+this justifies your time will depend on your skill
+
+level and the types of games you're playing.d:\work\kindle\holdem\579.png @@ Deep
+
+Stack Play at a Glance
+
+Unsurprisingly, deep stack play requires us to
+make the opposite of the adjustments made for
+shallow stack play. This brings us to our general
+
+rule for deep stack play.
+
+As stack sizes get larger relative to the size of the
+pot, more emphasis should be placed on hands that}
+have ability to make the nuts and less emphasis
+should be placed on the absolute equity of the
+hand.
+
+In other words, we want to play hands that have
+the ability to beat hands in our opponentÅfs value
+betting and calling ranges. This is due to several
+
+Teasons:
+
+1. Since very large bets are possible, a balanced
+flop betting range can include many bluffs for
+each value bet. This makes strong hands and
+
+good bluffing hands more important.d:\work\kindle\holdem\580.png @@ ItÅfs important we have some very strong hands
+in our range or our opponent can recklessly
+raise or overbet. In other words, he can punish
+us severely for having a capped range.
+
+3.1
+(0)
+7
+
+When our opponent makes large bets, itÅfs not
+necessary to defend as much of our range as
+we would have to if he bet smaller. This allows
+us to stress defending strong made hands and
+draws and requires us to put less emphasis on
+calling with many bluff catchers.
+
+4.1
+(0)
+8
+
+Our opponent will frequently raise on many
+board textures, and when he does, weÅfll usually
+
+have the option to re-raise him. This allows usd:\work\kindle\holdem\581.png @@ to win a massive pot when we have the nuts
+and he has the second nuts.
+5.1
+(0)
+9
+
+Position is usually more valuable, largely
+because draws will be prevalent in both playerÅfs
+ranges and we'll rarely be all-in before the river.
+This is also true for 3-bet and even 4-bet pots.
+
+Our preflop strategy when deep should be
+designed to increase our chances of making nut
+type hands. In particular, holdings which can
+make sets, straights, and flushes are more valuable
+because these hands can win very large pots. The
+nut flush is particularly valuable since itÅfs possible
+to win a massive pot when our opponent holds a
+king or queen high flush.
+
+Position also is more valuable when deep because
+3-bet and 4-bet pots are played with significant
+stack depth remaining. However, one leak many
+players have is they think 3-betting when deep and
+out of position is a poor play. ThatÅfs because they
+dislike the idea of having to play a large pot whend:\work\kindle\holdem\582.png @@ out of position. This, however, is a not correct for
+several reasons.
+
+To illustrate, suppose the button opens and both
+the small blind and big blind decide to defend
+mostly by calling rather than 3-betting. When this
+occurs, the button is nearly guaranteed to see a flop
+or win preflop. Because the button will rarely face
+a 3-bet, the blinds must defend with extremely
+wide ranges to prevent the button from being able
+to profitably open on any two cards. (In fact, it may
+be possible for the button to profitably open with
+any two cards if the blinds almost never 3-bet). This
+results in the button being able to profitably open
+with nearly any two cards and constantly getting to
+play the flop in position.
+
+So if the button is rarely 3-bet, heÅfll open nearly
+any two cards in his range. This now gives the
+blinds an incentive to 3-bet aggressively since
+in order to prevent the blinds from being able to
+profitably 3-bet any two cards the button must
+call with a wide range. This results in the buttonÅfs
+calling range, despite the advantage of position,
+consisting of hands too weak to effectively play
+in 3-bet pots. There simply arenÅft enough strong
+hands and worthwhile speculative hands in thed:\work\kindle\holdem\583.png @@ buttonÅfs opening range to defend at a reasonable
+frequency when heÅfs opening wide.
+
+Consequently, itÅfs quite easy to show that if the
+blinds are not aggressively 3-betting a button open,
+then the button will have an incentive to open very
+wide, which then gives the blinds an incentive to
+start aggressively 3-betting (since the buttonÅfs
+calling range is so weak).22 Although, as was already
+shown in the preflop section, itÅfs impossible to
+figure out exactly how wide the button should open
+based on stack depth. For instance, if the button
+opens over 50 percent of the time, heÅfll have to call
+3-bets with some relatively weak hands. In other
+words, while the button will open a bit wider since
+position is more valuable in 3-bet pots when stacks
+are deep, he won't open too wide or else heÅfll have to
+defend too weak of range to a 3-bet.
+
+23 As stakes get deep, positional advantage goes up. Thus, when
+stacks are large, 3-betting out of position probably should not be
+done as often as indicated here.
+
+While itÅfs impossible to solve preflop play for 100
+big blind stack depth, much less when stacks are
+deeper, as a general rule of thumb, preflop ranges
+will not change drastically when playing with large
+stacks. The player likely to be in position, such as
+the cutoff or the button, should call a bit wider ord:\work\kindle\holdem\584.png @@ open a bit more aggressively. Likewise, the blinds
+will likely try to emphasize calling a bit more and 3-
+betting a bit less since they are out of position. Yet
+itÅfs still critical that the blinds donÅft over adjust and
+continue to 3-bet aggressively since if they do not,
+the button especially can open with an extremely
+wide range (and will thus be vulnerable to
+aggressive 3-betting, which encourages the blinds
+to change their strategy).
+
+Additionally, be sure to keep in mind that just
+because our opponent can profitably call our 3-
+bet with a speculative hand does not imply our bet
+sizing was bad. HereÅfs an example. If weÅfre deep and
+
+the button opens with the
+wei ivy
+vy
+aa 4
+
+he may be able to profitably call if we 3-bet from the
+big blind (using our standard 3-bet sizing). But the
+expected value of his hand should be significantly
+lower than if we were to have just called his open.
+In other words, when our opponent calls our 3-
+
+bet, it may be only slightly profitable, so he'll still
+expect to lose money overall for the hand. (Just less
+than he would have if he folded.) Also, itÅfs cruciald:\work\kindle\holdem\585.png @@ not to make massive 3-bets when out of position
+just because our opponent will be able to profitably
+call smaller 3-bets with speculative hands which
+play particularly well when deep and in position.
+After all, he only has so many of these hands in his
+
+preflop opening range.
+
+Lastly, as we'll see when discussing bet sizing in
+more detail in the following section, itÅfs important
+to adjust our bet sizing when deep and out of
+position in a 3-bet pot. Once this is understood,
+playing a 3-bet pot out of position becomes much
+
+less intimidating.d:\work\kindle\holdem\586.png @@ Summary
+
+In general, when stack sizes are shallow, even a
+small change in stack depth will cause ranges and
+frequencies to change drastically. Therefore, a
+player who has studied the math behind shallow
+stack play should have a significant advantage over
+someone who has not. But when stacks are deep,
+the changes will be much less severe.
+
+In general, the absolute equity of a hand becomes
+more important as stacks are shallow whereas the
+ability to make nut type hands is more important
+for deep stack play. When betting large, many bluffs
+can be in our flop betting range for each very strong
+value bet. Yet when stacks are shallow and bets are
+smaller, our opponent gets a better price to his call
+so more of our bets need to be value bets to keep
+him indifferent to calling with a bluff catcher.
+
+Preflop play will change significantly when stacks
+are shallow but less drastically for deep stacks.
+
+One leak many players have is they fear playing 3-
+bet pots out of position when deep, and this causes
+them to play a weak preflop strategy and only rarely
+3-bet. If the button opens a wider range than usual,
+he'll have to call 3-bets with weaker hands, and 3-d:\work\kindle\holdem\587.png @@ betting aggressively prevents him from being able
+to open too wide.
+
+HereÅfs a few of the more important points:
+
+1. The absolute equity of a hand matters more
+when stacks are shallow since our opponent is
+unable to overbet.
+
+2.1
+1
+(0)
+
+As stacks get deeper, the ability to make nut
+type hands becomes more important since
+these holdings have the potential to win a mas-
+sive pot.
+
+3.1
+1
+1
+
+Capped ranges are less disadvantageous when
+
+stacks are shallow. This allows players to con-
+
+sider using capped betting and raising ranges.
+4.1
+
+1
+
+2d:\work\kindle\holdem\588.png @@ Although position is especially valuable when
+stacks are deep in 3-bet pots, players must still
+3-bet aggressively when out of position since
+the button should be opening a wider range
+which forces him to call 3-bets with a weaker
+
+range.d:\work\kindle\holdem\589.png @@ Part Fourteen
+
+Advanced Bet Sizingd:\work\kindle\holdem\590.png @@ Advanced Bet Sizing
+
+Introduction
+
+As already discussed, since betting multiple sizes
+in the same spot is best, optimal play requires us
+to balance countless ranges at once. Furthermore,
+while itÅfs sometimes possible to figure out close to
+the perfect bet sizing for our specific hand on the
+river, this is not possible on the flop or turn. ThatÅfs
+because there are still cards left to come and our
+betting range will never be perfectly polarized.
+
+Nevertheless, we can employ the theory weÅfve
+already discussed to greatly improve our bet
+sizing. As is often the case when applying theory
+to complex spots, while it may be impossible to tell
+if our sizing is correct, itÅfs often possible to tell if
+our sizing is wrong. Perhaps most importantly, we
+can make sure our bet sizing is consistent with our
+theoretical knowledge and there is no contradiction
+in our thought process.
+
+Furthermore, although our bet sizing will never be
+perfect, there are many common spots where nearly
+all players currently size their bets incorrectly andd:\work\kindle\holdem\591.png @@ fixing this leak will give us a significant edge. These
+spots occur surprisingly frequently, and using the
+right bet size both increases our expectation and
+constantly puts our opponent in a tough spot.d:\work\kindle\holdem\592.png @@ Using Bet Sizing
+to Check
+
+for Contradicting
+Thoughts
+
+Perhaps the most useful aspect of exploring
+multiple bet sizes is that it allows us to check for
+contradictions in our thought process. This can be
+accomplished by making assumptions regarding
+our opponent's calling range and then making
+sure our bet size makes sense in context of those
+assumptions.
+
+Note that one assumption weÅfll commonly make
+on the river is our opponent should defend at a
+frequency that makes us indifferent to bluffing.
+ThatÅfs because if he defends too often, our bluffs
+will have a negative expected value and we'll stop
+bluffing. And if he doesnÅft defend enough, we'll
+never check-fold or check back in position with a
+hand which has no showdown value. While there
+
+are spots where bluffing any two cards on the riverd:\work\kindle\holdem\593.png @@ should be profitable, this usually is not the case.
+Thus, this assumption is very useful for allowing us
+to determine what bet sizes and frequencies make
+sense.
+
+HereÅfs an example. On the river, the pot is 50 big
+blinds, we have 75 big blinds remaining, and believe
+our opponent will call at a frequency which keeps
+us indifferent to bluffing. If we're in position and go
+all-in, our opponent should call 40 percent of the
+time.
+
+(50)(1X) (75)(X) =0>
+X =04
+
+Since he will call our jam 40 percent of the time,
+going all-in on the river with the nuts has an
+expected value of 30 big blinds greater than the
+current pot size (ignore removal effects).
+
+(30) = (0.4)(75) + (0.6)(0)
+where
+0.4 is the calling frequency,
+75 is the bet size,
+0.6 is the folding frequency, and
+O is the amount won relative to checking when
+our opponent folds.
+
+This tells us that in order for betting any bet size
+other than all-in to be correct with the nuts, our
+opponent must call and raise enough so that ourd:\work\kindle\holdem\594.png @@ expected value is at least 30 big blinds greater than
+the pot size. Remember, while itÅfs always correct
+to take the line with the greatest expected value,
+players often get confused and think it acceptable
+to take a line with a lower expected value Ågfor
+balancing purposes.Åh But this is never theoretically
+correct. So in this case, if a smaller bet doesnÅft have
+an expected value of at least 30 big blinds, always
+jam.
+
+LetÅfs continue to develop this example. Suppose we
+open in the cutoff and the button is the only caller
+who calls our 75 percent pot sized bet on the
+
+Woy im & |
+vy
+aa (FH
+
+flop and the 6 @ turn. When the river comes the 2 Åë,
+no hands should have improved in our opponentÅfs
+range, and because the turn board texture was risky
+to slowplay since his betting range included so
+many draws, heÅfs unlikely to have a hand stronger
+than ace-jack.
+
+When first beginning to explore different bet sizes,
+itÅfs easy to begin recklessly overbetting in spots
+like this with bluffs since our opponentÅfs range is
+capped. While itÅfs true he should hate facing and:\work\kindle\holdem\595.png @@ overbet from us if we bet the river with a balanced
+range (since heÅfll always have at best a bluff catcher
+and will be indifferent to calling), there arenÅft
+enough strong hands in our range to allow us to bet
+all our bluffs and remain balanced. In other words,
+bluffing too aggressively on the river allows our
+opponent to profitably call with his bluff catchers.
+
+Stated another way, our opponent should not often
+let us profitably bluff on the river with any two
+cards even if overbets are effective. ThatÅfs because
+our turn betting range was designed to check-fold
+some missed bluffs on the river, and because of this,
+itÅfs usually safe to assume our opponent should call
+at a frequency that keeps us indifferent to bluffing.
+
+ItÅfs tempting to use the river bet sizing formula
+and calculate our bet sizing based on how often
+we're beat on the river, which results in us
+overbetting all our hands better than king-jack
+and betting smaller with hands our opponent
+sometimes has beat. However, doing this causes
+our range to be transparent and allows him to
+aggressively raise since our range is capped.
+
+For instance, suppose we use the river bet sizing
+equation and believe itÅfs best to bet 40 percent
+of the pot with king-jack and balance it with the
+proper amount of bluffs. Yet if the only value handd:\work\kindle\holdem\596.png @@ in our range is king-jack, our opponent will check-
+raise all-in with all of his ace-jack and king-jack
+hands since these holdings cannot be beat. (He'll
+also raise bluffs of course.) Put differently, if we ever
+bet the river with a range where our strongest value
+bet is king-jack or weaker, then he'll be able to raise
+aggressively since our range is capped.
+
+So we can clearly see it is problematic to bet with
+a range where the strongest value hand is weaker
+than king-jack since our opponent can raise us
+knowing he canÅft be beat. Furthermore, if he were
+to always raise our small bets when he has ace-jack
+or king-jack, then betting small with our nut type
+hands would be more profitable than going all-in.
+And in order for this to make sense theoretically, on
+the river we must sometimes make small bets with
+our nut type hands so our opponent is indifferent to
+calling or raising our bet with his strongest hands.
+This results in him sometimes raising and other
+times calling.
+
+Consequently, if we should occasionally value bet
+small with the nuts and go all-in other times, then
+the expected value of both lines must be equal.
+
+And since we already know the expected value of
+jamming the nuts for 75 big blinds into a 50 big
+blind pot is 30 big blinds greater than the size of thed:\work\kindle\holdem\597.png @@ pot, thatÅfs what our expected value must also be if
+both sizes should be used. Again, if our opponent
+doesnÅft defend aggressively enough against our
+small bets, then we should never bet small with the
+nuts. In contrast, if he defends too aggressively, we
+should always bet small since betting this size is
+more profitable than overbetting.
+
+Continuing on, letÅfs stick with assuming, on the
+river with the nuts, we sometimes want to bet 40
+percent of the pot since this will balance a betting
+range which consists primarily of king-jack and
+bluffs. And if the pot is 50 big blinds, a 40 percent
+pot size bet will be 20 big blinds which means our
+opponent should defend 71.4 percent of the time
+against this bet to keep us indifferent to bluffing.
+
+(50)(1 X) (20)(X) =0>
+X =0.714
+
+But if using two bet sizes with the nuts makes
+sense, he should also raise at a frequency which
+keeps us indifferent to making a small bet or large
+bet. And if our opponent always raises all-in for
+75 big blinds when he raises, the correct jamming
+frequency to keep us indifferent to betting 20 or 75
+big blinds is 26 percent.
+
+(20)(0.714X) +(75)(X)
+X =0.260
+
+30>d:\work\kindle\holdem\598.png @@ where
+20 is the bet sizing,
+0.714 is his minimum defending frequency,
+75 is the raise sizing,
+30 is the expected value of jamming, and X is the
+raising frequency.
+
+We can thus conclude that our opponent needs to
+raise our small bet 26.0 percent of the time to keep
+us indifferent to overbetting and betting 40 percent
+of the pot with the nuts. In other words, if he wants
+to give us an incentive to bet small with the nuts,
+that is how aggressively heÅfll need to raise.
+
+All of this information may seem overwhelming
+at first and we've only scratched the surface of bet
+sizing. But itÅfs crucial not to make river bet sizing
+out to be simpler than it is. This is especially true
+when in position since betting small reopens the
+betting and gives our opponent the opportunity to
+check-raise. However, we believe itÅfs also important
+to understand the mathematical significance of the
+statements in order to check for a contradiction in
+our thought process. In reality, most players are not
+raising small bets nearly aggressively enough to
+justify betting small in many spots and overbetting
+(either for value, as a bluff, or both based on the
+opponentÅfs leak) will be the better play.d:\work\kindle\holdem\599.png @@ Agraph can be made to show how often our
+opponent needs to jam against our river bet to give
+us an incentive to bet that sizing with the nuts.
+Once again, this assumes there are only 1.5 pot
+sized bets remaining, we cannot profitably bluff any
+two cards, and card removal effects can be ignored.
+
+Jamming Frequency Based on Opponent's Bet Size
+
+i]
+
+Åã ye wn aye a 14 11a
+Bet site in Pot Sree Betsd:\work\kindle\holdem\600.png @@ Bet Sizing Examples
+
+Since bet sizing can become as complicated as we
+want it to be, itÅfs best to showcase how to apply
+difficult concepts using examples. After all, itÅfs
+usually easiest to implement proper bet sizes in a
+new situation if itÅfs similar to a familiar one.
+
+Before moving on to specific examples, I would
+recommend one trick which has greatly helped me
+with understanding bet sizing. When checking out
+of position, visualize this as betting nothing rather
+than it being entirely different from betting. ItÅfs
+easy to think something significant happens when
+checking out of position rather than betting small,
+but thereÅfs little difference between betting 1 big
+blind and checking. This isnÅft true when in position
+since even a tiny bet allows our opponent to check-
+raise, but when out of position, betting small and
+checking are close to the same thing.
+
+Once you realize that betting small and checking
+when out of position are similar, itÅfs much easier
+to accept you'll often be raised after betting small
+and will now have a bluff catcher. After all, thatÅfs
+exactly what happens when we check. ThereÅfs often
+simply no way to avoid facing a tough decision

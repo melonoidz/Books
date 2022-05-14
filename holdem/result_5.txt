@@ -1,0 +1,1150 @@
+d:\work\kindle\holdem\251.png @@ Åg6 ,Åë cm & |
++,Åë ane
+os ees
+
+the big blind calls, and the flop comes the
+
+fy vy] tee) fe 6
+vy
+Aas (FH Oo 4
+
+This is a great spot to bet the flop since many
+high equity hands, such as the Tw 9 w and the
+QÅëJ@ in our opponentÅfs check-folding range,
+should fold to our flop bet. In addition, since the
+only strong hands in our opponentÅfs range are
+pocket sixes and pocket fours, itÅfs unlikely we'll
+ever face a check-raise on this flop and have our
+hand turned into a bluff catcher. And since he
+will not likely check-raise on this flop texture,
+itÅfs best to bet the earlier streets so our opponent
+is unable to realize the equity of his weaker
+
+holdings.
+
+Now letÅfs try an example where checking
+on the flop with a marginal strength hand is
+the best strategy. Suppose we open in middle
+position with kings, and once again the bigd:\work\kindle\holdem\252.png @@ blind is the only caller. If the flop comes the
+AÅë9 464, thereÅfs little reason to bet after our
+opponent checks. While itÅfs true we can bet to
+get value from our opponentÅfs jacks, tens, and
+flush draws, these holdings will likely produce
+value for us on later streets when he check-calls
+or bets. Furthermore, the hands most likely to
+draw out on the turn are the flush draws, but he
+won't fold his flush draws to a flop bet anyway.
+Lastly, by betting, we also allow our opponent
+to successfully check-raise us with his sets and
+bluffs.
+
+One of the more interesting aspects of these
+general guidelines is they showcase how
+sometimes a weaker hand will be bet for value
+on the flop while a stronger hand is checked.
+For our final example, suppose we open on the
+button, the big blind calls, and the flop comes
+the K@7 #34. Here, it makes little sense to bet
+queens since queens donÅft fear giving free cards
+to most hands in our opponentÅfs check-folding
+range. Yet eights can make sense to bet since
+we can likely get two streets of value from our
+opponentÅfs pairs of sevens, as well as make hands
+which can improve to beat us on the turn, such
+as the QÅëJa, fold. And making the QÅëJ@ foldd:\work\kindle\holdem\253.png @@ when we hold eights is useful as this hand has
+over 26 percent equity against us, but when we
+hold queens, itÅfs ideal to let our opponent see
+the turn and hope he improves since heÅfs nearly
+drawing dead.12
+
+12 Ofcourse, these concepts are already well known to anyone
+who has read Two Plus Two books on limit hold'em.
+
+Again, the previous example is especially
+significant because it showcases how stronger
+hands will sometimes be checked and weaker
+hands value bet. Furthermore, a hand can be bet
+for more than one reason, and often weÅfll bet a
+hand not just to get value from weaker hands,
+but also to make high equity hands fold.d:\work\kindle\holdem\254.png @@ Bluffing with the
+
+Right Hands on the Flop
+
+One of the trickier aspects of playing the flop in
+position is it can be tempting to recklessly bluff
+in situations where betting with any two cards is
+profitable. This, however, is problematic, as we need
+to check back some weak hands on the flop that
+can be used as bluffs on later streets. In addition,
+if we never check back a weak hand, our range
+will be quite transparent on the turn since our
+flop checking range will consist of almost entirely
+marginal made hands.
+
+LetÅfs start with analyzing which hands usually
+make for good bluffing hands on the flop. First,
+when we bet the flop, our opponent will fold his
+worst hands in his checking range, and this results
+in his range being stronger on the turn. In addition,
+we'll often have the opportunity to continue
+betting the turn and river, which will result in the
+final pot being large and our opponentÅfs felting
+range being strong.d:\work\kindle\holdem\255.png @@ Since betting the flop makes our opponentÅfs range
+on the turn stronger, we want to bluff with hands
+which retain their equity well against a strong
+range. For instance, it matters little if a gutshot
+is facing a strong or weak range, as it will have
+around the same amount of equity either way. More
+specifically, the gutshot usually needs to improve to
+a straight to make the best hand, and once it does,
+it will usually be the nuts and win at showdown no
+matter how strong our opponent's range is.
+
+HereÅfs an example of a great flop bluffing spot. We
+open on the button with the
+
+a
+sty| (vs
+[aas @ At
+the big blind calls, and the flop comes the
+: wel fe
+& vy
+
+| (a a | oe
+
+Although itÅfs unlikely our holding will improve to
+the best hand on the next card, we'll bet again if we
+turn a flush or straight draw and can potentially
+make a very strong hand on the river. In addition,
+our hand has no showdown value if it does notd:\work\kindle\holdem\256.png @@ improve, so whenever our opponent folds, heÅfll
+almost always be folding the best hand.
+
+As mentioned before, a flop bet in position will
+usually make our opponent fold the weakest 40
+to 50 percent of his flop checking range. Since
+these hands fold to a bet, we should be less likely
+to bluff with hands that do well against this part
+of our opponentÅfs range. In other words, if our
+holding does particularly well against hands in our
+opponentÅfs check-folding range, we should be more
+likely to check back the flop and keep these hands in
+his range. In addition, since betting the flop makes
+our opponentÅfs range stronger on the turn, we do
+not want to bluff with hands which donÅft have the
+potential to make strong hands by the river.
+LetÅfs return to the example where we opened on the
+button, the big blind called, and the flop was the
+A&62Åë, only now letÅfs imagine our hand is the
+Ke #P. While betting king-queen is likely profitable
+since our opponent may not defend enough to
+prevent us from profitably betting any two cards,
+it does not retain equity well as his range gets
+stronger. In addition, the hands our opponent will
+fold to a flop bet, such as king-ten or queen-jack, are
+hands we currently beat which will also improve
+
+on many of the same turn cards that improve ourd:\work\kindle\holdem\257.png @@ holding. So in particular, if we check the KÅëQ@ on
+this flop and the turn comes a queen, we'll likely get
+value when our opponent holds a queen-jack or a
+queen-ten. Therefore, in this spot, checking is likely
+superior to betting even if our hand will sometimes
+need to be bluffed on a later street.d:\work\kindle\holdem\258.png @@ Checking Back
+
+with a Strong Hand
+
+Since checking back in position effectively removes
+a street from the game, itÅfs rarely desirable to do
+this with a strong hand. Nevertheless, checking
+back with a strong hand is ideal when there is not
+much value in betting and giving free cards to the
+opponentÅfs checking range isnÅft risky.
+
+HereÅfs an example. We open in middle position
+with the
+
+and the big blind calls. It would make sense to check
+if the flop is the
+
+ThatÅfs because our opponent will not call a bet on
+all three streets unless he has top pair or better, yetd:\work\kindle\holdem\259.png @@ when we hold top set we block two thirds of his
+possible top pair combinations. In addition, he will
+also not likely have a check-raising range on this
+flop, so we donÅft need to worry about losing value
+from his check-raise bluffs. So in this situation, the
+likely most profitable play is to check the flop and
+hope he starts bluffing on the turn.
+
+Checking back strong hands also may make
+sense if there are many turn and river cards which
+put almost no strong hands in our range. ThatÅfs
+because our opponent should sometimes overbet
+on the turn and river when we cannot be strong.
+While checking back is risky on board textures
+where many turn and river cards can improve
+our opponent's hand, it may be worth it if we are
+sufficiently rewarded when he overbets weaker
+hands on later streets.
+
+For instance, suppose we open on the button and
+the big blind calls. If the flop comes the Ta9@5@
+and we never check back any strong hands, our
+opponent should make large bets with hands like
+ace-ten and king-ten if the turn card comes the
+2Åë. That is, our opponent should not be afraid to
+overbet these holdings when there are almost no
+stronger hands in our range.d:\work\kindle\holdem\260.png @@ In reality, checking back strong hands on wet
+boards such as the one above will only be justifiable
+against excellent opponents who are capable of
+frequently overbetting. Against more typical
+players who are not capable of this tactic on blank
+turn cards, weÅfre better off value betting the flop
+and hoping he check-calls or check-raises. In
+other words, itÅfs important to understand why in
+theory it likely makes sense to occasionally check
+back strong hands on wet board textures, but
+exploitatively itÅfs going to be a bad play against
+most opponents.d:\work\kindle\holdem\261.png @@ Facing a Flop
+Check-Raise
+
+We also need to make sure we're defending
+aggressively enough against our opponent's flop
+check-raises, turn bets, and river bets so he cannot
+profitably raise or bet with any two cards. The math
+for this is nearly exactly the same as described
+in the chapter ÅgRequired Hand Strength to Value
+Raise a Made Hand,Åh starting on page 120, in ÅgPart
+Four: Facing a Flop Bet in Position.Åh In this chapter,
+we saw how often our opponent needed to defend
+against our flop raises, turn bets, and river bets to
+prevent us from profitably raising or betting with
+any two cards. The exact same concept is present
+here, only now we're the player defending against a
+raise or bet.
+
+As we saw previously, if our opponent check-
+raises a 6 big blind bet into an 8 big blind pot to 18
+big blinds, weÅfll probably want to defend around
+half of our flop betting range. ThatÅfs because even
+though his flop check-raise is expensive, his bluffs
+will also sometimes improve on the turn or river
+after we call. Likewise, since our opponentÅfs turnd:\work\kindle\holdem\262.png @@ and river bets will be around 64 percent of the
+pot, we'll probably want to call approximately 67
+and 63 percent of the time on the turn and river,
+respectively.
+
+If we call our opponent's flop bet 50 percent of the
+time, his turn bet 67 percent of the time, and his
+river bet 63 percent of the time, then 21 percent of
+our flop betting range must call all three streets.
+
+0.21 = (0.50)(0.67)(0.63)
+
+Although there are no new concepts here, we
+should notice a few of the important aspects of
+calling down against a flop check-raise. First, we
+will not need to call down with every hand in our
+flop value betting range although it depends on
+how strong our value bets on the flop are  itÅfs
+likely that 30 to 40 percent of our flop bets were
+value hands. Furthermore, in this example, we'll
+only call down to the river with 21 percent of our
+flop betting range, so many of our flop value bets
+will be folded on the turn or river.
+
+Nevertheless, despite the fact that calling on all
+three streets with many of our flop value hands
+is not necessary, we'll usually have to call our
+opponentÅfs flop check-raise with some bluffs in
+addition to all our value hands. ThatÅfs because we
+need to defend 50 percent of our flop betting ranged:\work\kindle\holdem\263.png @@ against a check-raise, but itÅfs unlikely half of our
+betting range consists of value hands or draws.
+Therefore, some of the hands that should be used
+for defending will be unusually weak. Players often
+refer to defending with these hands by calling,
+
+a Ågfloat.Åh And if we never float on the flop, our
+opponent will be able to check-raise bluff any two
+cards profitably.
+
+Floating with some hands on the flop against our
+opponentÅfs check-raise is not usually problematic
+for two main reasons. The first is there are still
+two streets left, so we'll have the opportunity to
+bluff our hand again on the turn and/or river if our
+opponent checks and we do not improve. Second,
+many bluffs on the flop also have some showdown
+value, especially against the opponentÅfs check-raise
+bluffs.
+
+HereÅfs an example. The
+
+is ahead of most of our opponentÅfs bluffs on a flop of
+thed:\work\kindle\holdem\264.png @@ Therefore, if we call the check-raise on the flop and
+the turn and river are both blanks, checking ace-
+queen to try to win at showdown is a reasonable
+
+option.
+
+We should also accept that some bluff catchers
+will need to be called on all three streets against
+an optimal opponent. Although itÅfs admittedly
+undesirable to be placed in a break even spot-on the
+river after having already invested so much money
+into the pot, this is unfortunately unavoidable.
+However, itÅfs important to remember that even if
+the majority of our range are bluff catchers after our
+opponent check-raises and bets multiple streets, he
+cannot take this line often and remain balanced.
+In other words, our opponent will not have many
+hands strong enough to check-raise for value on the
+flop, and if he check-raises too frequently, his range
+will include too many bluffs.
+13 In good games you can get away with avoiding these situations
+for the sake of reducing volatility. Just remember that you are costing
+
+yourself some EV.d:\work\kindle\holdem\265.png @@ Furthermore, itÅfs best to emphasize calling with
+draws which can improve against our opponentÅfs
+value betting range even if they have less equity
+against our opponentÅfs entire check-raising range.
+Remember, simply having more equity does not
+make a hand better, and hands which are able to
+make the nuts on the turn and river are particularly
+useful to have in our calling range.
+
+However, some mediocre strength hands must
+still be called so we can check back and win at
+showdown if our opponent checks. If too many
+draws and not enough made hands are called, it
+often won't be possible to bluff all missed draws
+on the turn and/or river if our opponent checks.
+Therefore, calling with too many speculative hands
+and not enough marginal made hands will cause
+problems for our entire range.
+
+Another strategy to occasionally consider is 3-
+betting the flop. Flat calling the check-raise requires
+us to risk 12 additional big blinds to win the 32
+big blinds already in the pot, which is a great
+price and requires our opponent to keep betting
+at a high frequency. Plus, we are in position and
+our opponent's flop check-raising range is very
+polarized. So we should defend the majority of ourd:\work\kindle\holdem\266.png @@ flop betting range by simply calling when facing a
+check-raise.
+
+Nevertheless, we should usually 3-bet the flop
+with very strong hands which are vulnerable
+to being outdrawn by our opponent's bluffs.
+For instance, it makes sense to 3-bet a hand like
+the TvT# ona flop of the] @T #6 since our
+opponentÅfs check-raise bluffing range includes
+many gutshots and hands which can runner-
+runner a flush. Additionally, if we do have a 3-
+betting range, it of course needs to be balanced with
+both value raises and bluffs.d:\work\kindle\holdem\267.png @@ Thought Process
+for Deciding Whether
+
+to Bet or Check
+in Position
+
+LetÅfs now consider a solid thought process for
+deciding whether to bet or check after our opponent
+has checked. While this unfortunately involves
+a longer and more difficult thought process than
+when facing a bet, it will quickly improve with
+practice.
+
+Question No. 1: What will our opponentÅfs calling range
+look like when we bet all three streets?
+
+Answer: Our opponent will typically call down
+with at least 16 percent of his flop checking
+range if he faces three bets and usually defends
+by calling rather than raising (though the exact
+percentage will change based on the board
+texture). This can be used to determine howd:\work\kindle\holdem\268.png @@ strong a hand needs to be to value bet on all three
+streets.
+
+On dry flops with at least one high card, such as
+the
+
+this question will usually be quite easy to answer
+since itÅfs not likely many hands will change in
+strength on the turn and river. But on wet flop
+textures where hands will change in strength on
+many turn and river cards, such as the
+
+yy) vv) be
+
+wy ivyy) og
+
+444 ava
+aa: ja a | we
+
+this question will frequently be more difficult
+to answer. Nevertheless, we'll usually start with
+betting our strong hands and continue betting
+on favorable turn and river cards.
+
+Question No. 2: Which streets should we bet with hands
+
+which want to bet only one or two streets for value?
+
+Answer: As previously discussed, we should
+follow the general rule that a marginal strength
+made hand should be bet on the flop if itÅfsd:\work\kindle\holdem\269.png @@ vulnerable to being outdrawn by hands in the
+opponentÅfs check-folding range. But if the hand
+is not likely to be outdrawn by our opponentÅfs
+check-folding range, the best strategy is to check
+the flop and then to value bet on the turn and/or
+river if checked to again.
+
+In general, on boards with at least one high
+card, itÅfs usually easy to check back the flop with
+marginal strength hands since giving a free
+card isnÅft especially risky. For instance, when
+we have a marginal strength made hand on the
+K 83+ flop, such as a weak pair of kings,
+queens, or jacks, itÅfs likely best to check.
+
+In contrast, on lower and more coordinated
+board textures, such as on the 973 flop,
+the hands which are usually able to bet only one
+or two streets for value should likely start with
+betting the flop. ThatÅfs because many hands in
+our opponentÅfs check-folding range usually have
+a significant amount of equity against marginal
+strength made hands. However, we must be
+aware that betting too many marginal strength
+hands on the flop will make us vulnerable to
+check-raises, so even wet boards should not be
+recklessly bet in position.d:\work\kindle\holdem\270.png @@ Question No. 3: Around how many hands do we need to
+bluff so our betting range is balanced? Which hands
+work best as bluffs?
+
+Answer: In general, we should bet between 2.5
+and 3 bluffs for every very strong hand value bet
+on the flop, and bet 1 bluff for every marginally
+strong hand value bet. ThatÅfs because marginally
+strong hands will not likely be able to value bet
+all three streets, so our bluffing to value betting
+ratio on the flop must decrease. These estimates
+are useful for trying to add the right amount
+of bluffs to our betting range so our opponent
+is close to indifferent to calling with many
+marginal strength made hands.
+
+While wide ranges, such as the button opening
+range, can be difficult to balance quickly when
+playing, by practicing away from the tables
+we can get a feel for how aggressively to bet
+indifferent situations. After all, even if our
+ranges arenÅft perfect (and they won't be), if our
+game is closer to game theoretically optimal than
+our opponent's, we'll still make money in the
+long run.
+
+ItÅfs also usually quite easy to identify which
+hands work best as bluffs, as these are the hands
+which have little showdown value but retaind:\work\kindle\holdem\271.png @@ their equity well as the opponentÅfs range gets
+stronger. In addition, since our flop betting
+range usually has many strong hands and bluffs
+which can improve on a variety of turn cards,
+itÅfs frequently not difficult to continue betting
+
+aggressively after our opponent calls our flop bet.d:\work\kindle\holdem\272.png @@ Example of Balancing
+
+a Flop Bet in Position
+
+We are now ready to balance a betting range on
+the flop after our opponent checks to us in position.
+LetÅfs assume middle position opens and we flat on
+the button with a range of JJ-33, AKo-AQo, AQs-ATs,
+KQs-KTs, QJs-QTs, JTs-J9s,T9s,98s, 87s, 76s, 65s,
+54s, and letÅfs also assume our bet sizing will always
+be 75 percent of the pot.
+
+Flop: Qv8Hh6@
+
+Total Combos: 125
+value Bet: AQ(12), 88(3), 66(3) = 18
+
+Bluff Bet: 77(6), 55-44(12), 76s(3),65s(3), JTs(4),
+J9s(4), T9s(4), KJs(4), AJs(4), ATs(4), KTs(4) = 52
+
+Total Hands Bet: 70
+
+Betting Frequency: 56%
+
+Notice that we are checking several hands on the
+flop, such as king-queen and queen-jack suited,
+which would make highly profitable bets. ThatÅfsd:\work\kindle\holdem\273.png @@ because these hands are likely more profitable as
+checks than bets, and we want some hands in our
+checking range which can call turn bets from our
+opponent or value bet if he checks. In addition,
+getting check-raised with a top pair, good kicker
+hand is terrible, and checking avoids that.
+
+Also notice the flop is not being recklessly bet
+as it often is by players who bet all hands other
+than medium strength pairs. More specifically,
+betting all hands except QJs, QTs, and JJ-99 results
+ina flop betting frequency of around 80 percent.
+Consequently, this makes it easy for our opponent
+to exploit us by check-raising at a high frequency.
+Moreover, if we bet all our weak hands on the flop,
+there will be no hands for us to bluff with on the
+turn when we would start value betting king-queen
+and queen-jack suited. So instead, we value bet
+the flop with hands strong enough to bet multiple
+streets for value and emphasize bluffing with hands
+which retain their equity against our opponentÅfs
+calling range.
+
+With the above ranges, we're betting, on the flop,
+56 percent of the time once our middle position
+opponent checks. In this spot, this is likely a
+reasonable betting frequency since our button
+flatting range hits this board texture well and wed:\work\kindle\holdem\274.png @@ have the advantage of position. So betting just
+
+over half the time prevents our opponentÅfs check-
+raises from being too effective, plus betting at this
+frequency does not allow him to constantly see free
+cards with his checking range.
+
+Since our flop value bets are so strong and we're in
+position, we should probably use just under a 3-to-1
+bluffing to value betting ratio. This is true despite
+having many bluffs in our flop betting range. If our
+opponent decides to call down, our betting range
+will be balanced on the river since many of our
+bluffs will either improve or check-fold on the turn
+or river. Additionally, if our opponent check-raises
+the flop and bets the turn and river, the worst hand
+we'll need to call down is ace-queen which is quite
+strong.
+
+Lastly, we should acknowledge that although this
+betting range looks quite good and balanced, this
+is not a theoretically optimal range. After all, in
+theory we would not use just one bet sizing on the
+flop, and betting smaller with a range that includes
+many weaker value hands, such as king-queen, may
+be better than checking all of them. Nevertheless,
+the ratios and frequencies weÅfve previously
+discussed still prove quite useful.d:\work\kindle\holdem\275.png @@ Summary
+
+Facing a flop check in position can be difficult
+since there is no clear starting point. Therefore, itÅfs
+crucial to understand what a value betting hand
+is designed to accomplish, whether it makes high
+equity hands fold, gets value from worse hands, or
+both. Moreover, recklessly betting hands simply
+because they can be called by worse hands will
+result in our opponentÅfs check-raises being too
+effective and our checking range being too weak.
+
+Consequently, itÅfs important to not always bluff
+on the flop just because betting any two cards is
+profitable. In other words, some weak hands must
+be checked and used as bluffs on later streets. More
+specifically, bluffs which retain their equity well
+should be bluffed on earlier streets, while checks
+should be considered with hands which have some
+showdown value.
+
+And to finish this chapter, here are a few points
+summarizing the important ideas in ÅgPart FiveÅh
+Whether to Bet or Check in Position.Åh
+
+1. In position, our flop value bets should usually
+
+be able to bet two or three streets for value.d:\work\kindle\holdem\276.png @@ This prevents our opponent from getting the
+opportunity to bet knowing we're unlikely to
+be strong.
+
+. We usually want to bluff with hands which
+have little showdown value but retain their eq-
+uity against our opponentÅfs calling range.
+
+.In position, itÅfs often profitable to bet with any
+two cards on the flop. However, recklessly bet-
+ting a hand simply because it has a positive ex-
+pectation is not necessarily the most profitable
+way to play.
+
+. Betting between 2.5 to 3 bluffs on the flop for
+every strong value bet in position is likely a
+good rule of thumb.
+
+. Betting only the flop for value in position is
+often an undesirable line since it allows our op-
+ponent to bet a balanced range on the river and
+turns most of our hands into bluff catchers.
+
+. Betting the flop with the intention of betting
+the turn and checking the river is a strong po-
+sitional play. This is especially true if our hand
+is vulnerable to being outdrawn by hands in
+our opponentÅfs check-folding range. But if our
+
+hand is not vulnerable to being outdrawn, itÅfsd:\work\kindle\holdem\277.png @@ frequently best to check the flop and bet later
+streets.
+
+. A reasonable opponent will usually call down
+at least 16 percent of his flop checking range
+if he faces a 75 percent pot sized bet on each
+street and only defends by calling. And if we
+only bet two streets for value, heÅfll usually
+defend at least 29 percent of his flop checking
+range.
+
+. We are able to fold around 50 percent of the
+time to our opponentÅfs flop check-raise. De-
+fending by calling is usually most effective
+since this keeps his range wide and requires
+
+him to frequently bet the turn.d:\work\kindle\holdem\278.png @@ Part Six
+
+Out of Position Flop Playd:\work\kindle\holdem\279.png @@ Out of Position Flop Play
+
+Introduction
+
+Out of position flop play is an intimidating topic
+for players of nearly all skill levels. Since ranges are
+wide on the flop, beginners especially struggle to
+quickly take into account all the different hands in
+each playerÅfs range and to determine whose range is
+stronger. This makes even scratching the surface of
+out of position flop play feel overwhelming.
+
+Conversely, expert players know how difficult
+it is to analyze and model flop situations since
+there are still additional cards to come. This is
+true for preflop play as well, but since there are no
+community cards, generic preflop strategies can be
+memorized and applied with little thought. But on
+the flop, since there is no excellent starting point
+for determining whether to bet or check when out
+of position, itÅfs easy to bet or check an unbalanced
+range without realizing it, and this is especially
+problematic when out of position. ThatÅfs because
+
+an astute opponent will frequently bet or raise tod:\work\kindle\holdem\280.png @@ make it difficult to realize the equity of a hand in an
+unbalanced range.
+
+Therefore, itÅfs important to understand the
+underlying theoretical concepts behind out
+of position flop play even though simply
+understanding them wonÅft automatically make you
+a great player. Like most competitive games, poker
+requires decisions to be made within a limited
+amount of time and the underlying factors which
+determine the best decision can be quite complex.
+So while itÅfs important to understand the theory
+behind out of position flop play, much practice is
+necessary to become an excellent player.d:\work\kindle\holdem\281.png @@ The Mental Block of
+
+Betting as the
+Preflop Raiser
+
+When discussing positional flop play, I
+intentionally refrained from stating whether we
+were the preflop raiser or the cold caller. Perhaps
+one of the biggest and most common leaks even
+successful players have is they nearly always bet as
+the preflop raiser, and when out of position check
+as the cold caller. This is often done with little
+regard to which player actually has the stronger
+range or how valuable position is. In fact, taking
+the initiative by betting out of position after cold
+calling preflop is even called a Ågdonk bet,Åh which in
+itself implies itÅfs a line not often taken by strong
+players.
+
+As we'll see, a strong player should not bet at a high
+frequency simply because heÅfs the preflop raiser
+and has the initiative. Likewise, the out of position
+cold caller should not be afraid to donk bet on flop
+textures which favor his range. Nevertheless, sinced:\work\kindle\holdem\282.png @@ these leaks are so prevalent, letÅfs briefly discuss why
+this is the case before we attempt to fix them.
+
+One reason why these leaks exist is that many
+players realizing it was frequently correct to bet the
+flop if they were the preflop raiser overdid it. And
+since the preflop raiser would usually bet the flop,
+it made little sense for the preflop caller to donk bet
+a strong hand out of position because a check-raise
+would likely be successful.
+
+So why did always betting seem to work? Imagine
+playing in a ten handed game and there are three
+other tight players, three loose players, and three
+average players. After raising first in from under the
+gun, we're more likely to be called by a loose player
+with a weak range than a tight player with a strong
+range. Therefore, it makes sense for us to usually
+bet the flop since our range is likely stronger than
+our opponentÅfs.
+
+While this is far from theoretically correct poker,
+itÅfs likely a reasonable representation of how the
+game was played several years ago (and still largely
+is played in a live poker setting). The strategy to
+constantly continuation bet the flop in heads up
+pots probably showed a profit, especially against
+weak players. In other words, this advice most
+likely did beat the games of the past.Åg But rules liked:\work\kindle\holdem\283.png @@ this are bad from a theoretical perspective and will
+cause us to lose against strong opponents and not
+win as much as we should against weak ones.
+
+14 Keep in mind that when I say games of the past that no-limit
+was hardly ever played as a cash game before 2004. But no-limit
+tournaments, which began to be shown on television with the
+original World Poker Tour shows in 2003, rekindled interest in an
+otherwise dead game.
+
+Another reason players often won't lead as the
+preflop cold caller is that itÅfs hard to balance both
+a flop betting and checking range when out of
+position. In fact, balancing multiple ranges when
+out of position is probably the second hardest
+aspect of no limit holdÅfem to master (with bet
+sizing being the most difficult), and many players
+arenÅft willing to put in the time necessary to
+develop this skill.
+
+Lastly, it should also come as no surprise that
+the players who are able to donk bet as well as
+effectively defend their checks as the preflop raiser
+are often unwilling to discuss it. ThatÅfs because
+mastering this skill is such a valuable weapon that
+it makes little sense to encourage other players
+to develop it as well. And by the time a player has
+mastered this skill, heÅfs probably already at the
+stage in his poker career where most of his learningd:\work\kindle\holdem\284.png @@ comes from analyzing his own game rather than
+learning directly from others.
+
+So letÅfs begin taking an analytical approach to
+improving our play when out of position. To start,
+letÅfs analyze the relative hand strengths of both
+the preflop raiser and the cold caller on a few board
+textures using the ranges from the ÅgRecommended
+Hand Chart,Åh starting on page 80, in ÅgPart Two:
+Preflop Play.Åh
+
+Flop Range Analysis
+MP Openonthe K& T& 4Åë flop: Overpair+ 8.6%; top
+
+pair, top kicker+ 14.3%; flush draw 7.6%
+
+Button Flat vs MP open: Overpairt+ 7.2%; top pair top
+kicker+ 14.4%; flush draw 7.2%
+
+Total Equity on the flop: MP = 49.9%, Button = 50.1%
+MP Open onthe AW 6 & 3@ flop: Top pair, top kicker+
+10.2%;top pair 33.5%; middle pair+ 58.3%
+
+Button Flat vs MP open: Top pair, top kicker+ 12.0%; top
+pair 26.4%; middle pair+ 55.2%
+Total Equity on the flop: MP = 52.5%, Button = 47.5%
+
+MP Open onthe T & 8 4Åë flop: Overpair+ 16.4%; top
+pair+27.6%; flush draw 8.9%d:\work\kindle\holdem\285.png @@ Button Flat vs MP open: Overpair+ 12.0%; Top pair+
+24.0%;flushdraw 10.4%
+
+Total Equity on the flop: MP = 49.0%, Button: 51.0%
+
+As can be seen, the strength of both the preflop
+raising and cold calling range are comparable on
+all the above flop textures. In fact, in the middle
+position versus button example on the
+
+$ eo eee
+v bh 4
+| Le *y v:
+
+flop, the buttonÅfs range has the better top pair
+hands and is arguably the stronger range despite
+having less equity. Yet many winning players
+would probably agree theyÅfre used to almost always
+betting when they are the preflop raiser, especially
+ona dry board with one high card such as the Aw
+3m 6a
+
+So the conclusion is that optimal poker does not
+care who raised preflop and has the initiative, and
+against strong opponents neither should we. All
+that matters is the current state of the game. This
+includes what each playerÅfs range is, who is in
+position, and how much stack depth is remaining
+
+relative to the size of the pot.d:\work\kindle\holdem\286.png @@ Assessing How Valuable
+
+Position is on the Flop
+
+Although the exact value of position on the flop
+is impossible to quantify, there are some board
+textures where being in position is extremely
+valuable and others where itÅfs not nearly as
+important. This concept can best be illustrated by
+first imagining an extreme example.
+
+When trying to figure out what fraction of our
+flop bets in position should be for value, we started
+out with a simple example where we assumed our
+range was perfectly polarized. In this situation, we
+would always bet the flop, turn, and river with the
+right ratio of value bets and bluffs on each street to
+make our opponent indifferent to calling. Since our
+range was perfectly polarized, our opponent could
+never prevent us from realizing our equity, and
+because of this, it made no sense for him to ever bet
+with his bluff catchers.
+
+In other words, since our opponent will always
+check when we have a perfectly polarized range
+(giving us no new information) and neither playerd:\work\kindle\holdem\287.png @@ can improve on free cards, it does not matter who
+is in position when one player has a perfectly
+polarized range. More specifically, when a playerÅfs
+range is perfectly polarized, position has no value.
+That is, with a perfectly polarized range, we should
+bluff the same amount of hands on the flop, turn,
+and river regardless of who is in position.
+
+In reality, no player will ever have a perfectly
+polarized range on the flop, but there are situations
+where the betting range functions more similarly
+toa perfectly polarized range than others. This
+occurs when value betting hands are very unlikely
+to be outdrawn by weaker hands and bluffs are very
+unlikely to improve.
+
+HereÅfs an example. When a player bets on the
+
+3a | Fo
+a +
+Vv: +:
+
+flop, he will usually be betting a very polarized
+range. In addition, players rarely bet hands with
+the intention of only betting one or two streets for
+value on this board texture (though it does happen),
+and itÅfs unlikely the best hand on the flop will be
+outdrawn by a weaker hand on the turn or river.
+Consequently, if a player check-calls on the flop,d:\work\kindle\holdem\288.png @@ he will almost always check on the turn since the
+bettorÅfs range will remain polarized.
+
+Since additional cards are unlikely to result in the
+better hand being outdrawn, most players probably
+feel reasonably comfortable playing out of position
+on the K &3 @3 Åë flop. More specifically, itÅfs easy
+to check-call with weak top pair hands and strong
+middle pairs since few overcards can come on
+the turn or river. In addition, since a player who
+check-calls on the flop will almost always check
+on the turn, the flop bettor gains no additional
+information about his opponentÅfs range.
+
+On the other hand, position is more valuable on
+board textures where weaker hands can outdraw
+stronger hands on the turn and river. ThatÅfs
+because the player in position always gets the
+first opportunity to end the action and see an
+additional card. This allows him to more effectively
+manipulate the size of the pot and realize the equity
+of his hands. In other words, position is more
+valuable on flop textures where the turn will likely
+change the strength of many hands in each playerÅfs
+range.
+
+Many board textures, such as when the flop comes
+thed:\work\kindle\holdem\289.png @@ v oe &
+
+which greatly favor the player in position, are
+
+well known by weak and strong players alike. On
+this flop texture, nearly every bluff has at least
+
+one overcard and some sort of straight draw.
+
+This means even the strongest hands on the flop
+are vulnerable to being outdrawn on the turn.
+Therefore, the player in position will have a much
+easier time realizing the equity of his medium
+strength made hands and draws than the player out
+of position.
+
+Other board textures where position is
+especially valuable are not nearly as well known
+since additional cards do not at first appear as
+threatening. A common mistake players make is
+they assume a dry board texture  a board texture
+with few or no possible draws  means allowing
+the opponentÅfs bluffs to see free cards is not risky.
+The fact that there are usually a few strong hands,
+such as sets, on dry board textures which do not
+fear giving free cards encourages players to think
+this way.d:\work\kindle\holdem\290.png @@ In reality, low board textures tend to greatly
+favor the player in position since nearly every
+bluff has overcards, and making top pair on the
+turn or river will often be good enough to win at
+showdown. In other words, itÅfs almost as if hands
+with two overcards are draws with 6 outs on low
+board textures. Consequently, low board textures
+function similarly to wet board textures since the
+weakest hands in both the betting and calling range
+have a considerable amount of equity.
+
+To illustrate this, imagine we open in the
+cutoff and the button calls. If the flop comes the
+7@5 24, nearly every turn card will improve
+some weak hands in our range and our opponentÅfs
+range. That is, around 57 percent of the turn cards
+will be overcards, and there are no hands on the flop
+which won't have a reasonable amount of equity.
+
+In addition, position is particularly valuable on
+the 7@5 #2 flop because itÅfs difficult for us to
+bet the flop and turn for value with a marginal
+strength hand when out of position. ThatÅfs because
+our opponent will have the opportunity to bluff
+after the river is checked and our marginal strength
+hands will become bluff catchers. This makes
+playing medium strength hands such as nines,
+eights, and pairs of sevens difficult. However,d:\work\kindle\holdem\291.png @@ check-calling with medium strength hands also
+isnÅft ideal as they will frequently be outdrawn by
+our opponent's bluffs on the turn and river.
+
+This brings us to the following rule:
+
+The more difficult it is to check-call on a flop
+texture when out of position, the more valuable
+
+position will usually be.
+
+Notice that these are the board textures where
+giving a free card is risky, and the marginal strength
+hands which typically want to be check-called will
+often be outdrawn on the turn or river.
+
+Below are a few examples of flop textures along
+with a quick description for why position is or isnÅft
+usually particularly valuable. In order to better
+visualize some hands in each playerÅfs range, assume
+we open in the cutoff and only the button calls.
+
+Flop No. 1: Q.& 6 v2 . Position is not particularly
+valuable on this board texture as there are many
+hands in our range and our opponentÅfs range with
+little equity. This makes it easy to check-call with
+top and medium pair hands since so few overcards
+can come on the turn. While our strong pairs will
+sometimes be outdrawn by flush draws, mostd:\work\kindle\holdem\292.png @@ hands which have a reasonable chance of making a
+flush by the river will not fold to a flop bet anyway.
+
+Flop No. 2:9 95  3. This board texture is both low
+and wet, so position is extremely valuable. ItÅfs also
+difficult to check-call on this flop texture, as the
+hands which want to get to showdown without
+betting all three streets, such as nines and eights,
+are also the same hands which are extremely
+vulnerable to being outdrawn by overcards.
+
+Flop No. 3: QJ #6 @. Contrary to what many players
+believe, position is not particularly important on
+this flop texture. ItÅfs easy to check-call with pairs of
+queens and jacks since our opponent will often be
+betting hands with little equity which are unlikely
+to improve. In addition, the flop can be check-
+raised occasionally to prevent our opponent from
+recklessly betting.
+
+Flop No. 4: 7 #2 2 @. As previously discussed,
+position is more valuable on low and dry board
+textures than most players think. Check-calling
+with marginal strength made hands is difficult
+since they will so frequently be outdrawn on the
+turn and the river, but in this spot strong hands can
+be slowplayed and check-raised on a later street.d:\work\kindle\holdem\293.png @@ Flop No. 5: 764. This flop texture is an absolute
+nightmare to play out of position. ItÅfs difficult
+
+to develop a check-calling range since check-
+calling even a nut type hand (such as a set) is risky.
+However, if we never check-call a strong hand, our
+opponent can aggressively overbet on many turn
+and river cards.
+
+Furthermore, the marginal strength hands
+which are check-called on the flop will frequently
+be outdrawn on later streets. In addition, if our
+opponent is overbetting, heÅfll be able bet at a high
+frequency and still remain balanced. So boards like
+this require us to check-raise and check-fold the flop
+at a high frequency.d:\work\kindle\holdem\294.png @@ The Out of Position
+
+Value Betting to
+Bluffing Ratio
+
+Previously, we found that betting the flop with
+a perfectly polarized range required 34.3 percent
+of our flop bets to be value bets if we only bet 75
+percent of the pot on all three streets. In addition,
+if we could overbet the river, only 30.6 percent of
+our flop bets needed to be for value. As previously
+discussed, since position has no value when a
+player has a perfectly polarized range, the exact
+same math will apply regardless of who is in
+position as long as we assume our range is perfectly
+polarized.
+
+Yet when modeling situations where our betting
+range was not perfectly polarized, we had to
+make several assumptions which were not true
+
+in general. For instance, even if weÅfre only value
+betting very strong hands on the flop, the winning
+hand won't always be bet on all three streets. In
+addition, our opponent may fold to our turn bet (ord:\work\kindle\holdem\295.png @@ make us fold if he raises), and this prevents us from
+always realizing the equity of our bluffs. Again,
+
+the model was not able to accurately take this into
+account.
+
+On the other hand, when ranges are not perfectly
+polarized, position becomes quite valuable and
+our assumptions from previous chapters become
+more problematic. Specifically, itÅfs more difficult
+to realize the equity of our weak hands when out
+of position than when in position since a turn
+check does not guaranteed we'll see a river card. In
+addition, we won't have the ability to bet the river
+if our opponent shows weakness by checking, so
+getting thin value with strong but not amazing
+hands will often be difficult.
+
+In other words, while the exact value of position
+cannot be quantified, itÅfs safe to say that if we
+wanted to bet between 2.5 to 3 bluffs for every very
+strong hand value bet when in position on the flop,
+we should be bluffing less when out of position.
+And this brings us to our next rule.
+
+Although position will be more valuable on some
+flop textures than others, betting between 2 and
+2.5 bluffs for every 1 very strong hand value bet out
+of position seems reasonable for most flop textures]d:\work\kindle\holdem\296.png @@ As always, be aware of what assumptions are being
+made when applying this general rule of thumb
+since this ratio will not work nearly as well if stack
+
+sizes are shallow or the pot is multiway.
+
+Furthermore, as previously discussed, we'll
+sometimes bet hands on the flop with the intention
+of only betting one or two streets for value. This is
+done when betting the flop will make some high
+equity hands fold. Unlike when in position, itÅfs
+difficult to bet only two streets for value when
+out of position since our opponent will have an
+opportunity to bet after the river is checked. This
+situation is difficult to model, but despite its
+drawbacks, betting only one or two streets for value
+when out of position will sometimes still be the
+
+best line.d:\work\kindle\holdem\297.png @@ When Should
+Betting with
+
+Any Two Cards be
+Profitable?
+
+Up until now, weÅfve assumed our opponent should
+not be able to profitably bluff with any two cards
+preflop or when out of position on the flop. This
+should intuitively make sense for preflop play since
+if our opponent could profitably bluff with any two
+cards, he would never fold. Likewise, since being
+out of position on the flop is a disadvantage, in
+raised pots it made sense to assume our opponent
+should not be able to profitably lead with any two
+cards on the vast majority of flop textures.
+
+While even a hand as weak as deuces has a positive
+expected value when itÅfs checked out of position on
+a flop of thed:\work\kindle\holdem\298.png @@ the expected value of the check should be small and
+close to zero. If we could profitably bet deuces out
+of position on this board texture, then even a bet
+which is only slightly profitable would be better
+than checking. However, most players learn from
+trial and error that betting a weak hand when out
+of position has a negative expected value on most
+board textures even if it cannot be proven directly.
+
+However, there are situations where a player
+should be able to make a profitable bluff even if
+his hand has no equity. More specifically, these
+situations usually occur after someone had to risk
+money to maybe get the opportunity to make a
+profitable bluff.
+
+HereÅfs an example. The cutoff opens, we 3-bet in
+the small blind to 12 big blinds total, and the cutoff
+calls. The flop comes the
+
+ty, y| Åã0,Åë Åeae
++Åë #
+| |  OS eed:\work\kindle\holdem\299.png @@ and we bet 13 big blinds, the turn comes the 4Åë
+and we bet 25 big blinds, and the river comes the
+
+2 and we check. Notice that after we check, our
+opponent has the opportunity to go all in for 50 big
+blinds to win a 100 big blind pot. This requires us
+to call 66.7 percent of the time in order to prevent
+him from being able to profitably bluff with any two
+cards.
+
+Yet since we 3-bet preflop, bet the flop, and bet
+the turn, our range is very polarized by the river,
+and few if any hands will work best as check-calls.
+In fact, if we had a marginally strong hand on the
+flop, such as the Q #9 @ or a pair of jacks, we would
+have likely check-called the flop since allowing our
+opponent too see additional cards with his weakest
+hands isnÅft particularly risky. In other words, once
+we check this river, we'll be check-calling much less
+than 66.7 percent of the time.
+
+While allowing our opponent to profitably bluff
+with any two cards may at first seem confusing,
+itÅfs conceptually similar to when we were betting
+with a perfectly polarized range. More specifically,
+whenever we bet with a perfectly polarized range,
+our opponent always effectively lost, yet whenever
+we checked, he effectively won. The same process
+occurs when we bet the turn with a very polarizedd:\work\kindle\holdem\300.png @@ range in a 3-bet pot since if we check the river our
+opponent will almost always win. That is, heÅfll
+either check back and win at showdown, or heÅfll
+bluff knowing we're almost always folding.
+
+Put differently, even if our opponent can make
+a profitable river bet after we check, this is not a
+problem if he had to risk money on the turn to
+maybe get this opportunity. For example, if our
+opponent calls with a weak speculative hand on the
+turn, such as a gutshot, heÅfll usually lose the money
+heÅfs invested when his draw misses and we bet the
+river. HeÅfll only occasionally improve to the best
+hand or get the opportunity to make a profitable
+bluff, and this will not make his turn call overly
+profitable.
+
+This brings us to our next rule:
+
+The more profitable our opponent's bluff will be,
+the more money he should be required to risk
+and/or the rarer it should be for him to get the
+opportunity to bluff.
+
+Stated another way, if our opponentÅfs bluff ona
+later street will only be slightly profitable, then itÅfs
+not problematic if he often gets that opportunity
+after only risking little. Yet if our opponentÅfs bluff
+will be highly profitable, he must risk more money

@@ -1,0 +1,1194 @@
+d:\work\kindle\holdem\051.png @@ Play,h starting on page 31, this makes analyzing
+preflop play especially difficult.
+
+Likewise, bluffs can also vary greatly in how likely
+they are to make the best hand by the river. For
+example, if we raise the 54v ontheJ‘62‘
+flop, wefll sometimes improve to the best hand on
+the turn or river since our hand is a gutshot with 3
+cards to the flush. Yet the 9 v7  might also make
+a fine bluff raise on this flop despite the fact that it
+has less equity since there is no possible gutshot.
+Nevertheless, both of these hands are often raised
+on the flop hoping to make better hands fold, so itfs
+reasonable to refer to them as bluff raises despite
+one being more likely to improve than the other.
+
+Lastly, players usually call hands gdrawsh when
+they have little showdown value but a significant
+amount of equity. Whether or not to call a hand
+a bluff or a draw is decided arbitrarily, as a draw
+is more or less just a very good bluff (sometimes
+with so much equity that we're actually hoping our
+opponent calls rather than folds). For instance, we
+could just have easily called the 5 v4 from the
+above example a draw rather than a bluff since itfs a
+draw to the straight, a running flush, running trips,
+or two pair.d:\work\kindle\holdem\052.png @@ However, although throughout this book and your
+poker career you'll commonly be using imperfect
+terms, this won't be a problem once you develop a
+strong understanding of poker theory. And while
+using imperfect terms may not be ideal, there
+frequently isnft a better option, and each wordfs
+meaning can usually be understood in context.
+Furthermore, itfs important to be able to discuss
+hands without getting bogged down by details even
+when the terms donft work perfectly.d:\work\kindle\holdem\053.png @@ Making Our Opponent
+
+Indifferent to Bluffing
+
+We often think our opponent should not be able
+to profitably bluff. When this occurs, there should
+be some hands in his range that are +EV to bluff
+while others are -EV. In these cases, our opponent is
+required to bluff hands with the right equity for his
+bluffs to be profitable.
+
+Herefs an example. A player opens in the cutoff
+and only the button calls. If the flop comes the
+Qwv74#64@, the cutoff will almost certainly be able
+to profitably bet the T #9 @ since it has four outs
+to the nuts, can catch a running flush, and can
+also turn a winning middle pair. This is almost
+certainly a profitable bet against an optimal playing
+opponent.
+
+Much weaker hands, such as a pair of deuces, are
+not likely to be profitable as a continuation bet
+because they only have two outs to a set. The small
+pair also should not be able to double barrel bluff
+the turn effectively since it canft pick up additionald:\work\kindle\holdem\054.png @@ outs and is unlikely to win at showdown with just a
+pair.
+
+A player who consistently bluffs with the right
+hands is grandomizing well,h and this player makes
+sure his range is balanced by bluffing with hands
+which have the right equity. This gives him the
+best chance of getting lucky with his bluffs and
+outdrawing his opponent on future streets. Notice
+that this player bluffs in a random way that is
+determined by the hand hefs holding and the board
+texture rather than if he simply feels like bluffing.
+
+In this book, when we say gwe want our opponent
+to break even with his weak bluffs,h it will usually
+mean we want him to be close to indifferent
+between check-folding or bluffing with the worst
+hand in his betting range. That is our opponentfs
+best bluffing hands are clearly going to be profitable
+since they have the best chance to improve on
+future streets or the best removal effects. However,
+in many spots, the worst hand in our opponentfs
+theoretically correct betting range should only be
+slightly profitable.
+
+If a player folds so much that his opponent can
+profitably bluff anything in his range, this will
+often (but not always) tell us he isnft defending
+as aggressively as he theoretically should. Ford:\work\kindle\holdem\055.png @@ instance, imagine a player folds so much to flop
+raises that his opponent can profitably raise the
+flop with any two cards. His opponent will simply
+never fold because folding is O EV whereas bluff-
+raising yields a positive EV. (We will discuss when it
+is acceptable to allow our opponent to make a profit
+by bluffing with any two cards in future chapters,
+but there are many situations where a player should
+not be able to profitably bluff with any two cards.)
+Lastly, note itfs often possible to take two lines
+which have the same expectation against an
+optimal opponent. For instance, we may find
+ourselves holding a bluff catcher on the river
+where calling and folding both have an expectation
+of zero. Against an optimal opponent, it wonft
+matter which line we take since hefll never change
+his strategy to exploit us. But against any real
+opponent, calling too frequently encourages him
+to stop bluffing whereas folding too frequently
+incentivizes him to bluff too much. So itfs
+important to remain balanced against good
+opponents even in spots where the expectation of
+both lines is the same against an optimal opponent
+(unless you are planning to reverse strategy in the
+future).d:\work\kindle\holdem\056.png @@ An Optimal Player
+Always
+
+Takes the Most +EV Line
+
+Two players are playing theoretically optimally
+when they are at what is known as a Nash
+Equilibrium which occurs when neither player
+ever has an incentive to deviate from the way hefs
+playing. That is, if a player ever takes a line with a
+hand that isnft the most +EV, they have an incentive
+to deviate and instead take the most profitable line.
+
+Many players often get this concept confused
+and think sometimes an optimal player will take
+aless +EV or even a-EV line if it makes other
+hands in their range play more profitably after
+their opponent adjusts to them. But this will
+never happen against an optimal opponent who
+will not change his strategy when he sees his
+opponent take a non-optimal line. Thatfs because
+his strategy cannot be beaten and by adjusting he
+can be exploited by an opponent who recognizes the
+change.d:\work\kindle\holdem\057.png @@ However, since an optimal player will never
+change his strategy, this means that when playing
+against weak opposition, an exploitative strategy
+should be more profitable than an optimal strategy.
+For instance, if a player folds too frequently,
+constantly winning small pots from him while
+refusing to give him action on large pots without
+the near nuts is likely more profitable than playing
+optimally. So while an optimal player always
+takes the most profitable line against an optimal
+opponent, more profitable exploitative lines will
+usually be possible when facing weak opposition.d:\work\kindle\holdem\058.png @@ Large Bets Make
+Our Opponent Put
+
+More Money Into the Pot
+
+Small bets relative to the pot require our opponent
+to frequently call in order to prevent us from being
+able to profitably bet any two cards. The opposite
+is true for large bets which require our opponent
+to occasionally put a lot of money into the pot.
+Therefore, picking the right bet sizing is extremely
+important and will be discussed in great detail
+throughout the book
+
+But for now, letfs note that one key aspect of
+bet sizing is the average amount of money our
+opponent must put into the pot increases for larger
+bets. For example, suppose we want to compare
+how much money our opponent must put into the
+pot if we bet 0.5 PSB, 1 PSB, or 2 PSB on the river
+and our opponent does not want us to be able to
+profitably bluff any two cards.d:\work\kindle\holdem\059.png @@ 1. For 0.5 PSB, our opponent must call or raise
+66.7 percent of the time to keep us indifferent
+to bluffing. He thus ends up putting in on aver-
+age at least 0.334 pot-sized bets.
+
+0.334 = (0.5)(0.667)
+
+2. For 1 PSB, our opponent must call or raise 50
+percent of the time to keep us indifferent to
+bluffing. He thus ends up putting in on average
+at least 0.5 pot-sized bets.
+
+0.5=(1)(0.5)
+
+3. For 2 PSB, our opponent must call or raise at
+least 33.4 percent of the time to keep us in-
+different to bluffing. He thus ends up putting in
+at least 0.668 pot-sized bets.2
+
+2 How we arrive at these call percentages will be discussed later in
+the book.
+0.668 = (2)(0.334)
+
+Big bets get more money into the pot but they also
+make our opponent's felting range much stronger
+than small bets. So betting the right amounts
+with the proper hands without making our range
+too transparent is one of the most important and
+
+difficult concepts to master.d:\work\kindle\holdem\060.png @@ The Value of Position
+
+While we usually cannot quantify the exact value
+of being in position, we know it provides several
+advantages. The player in position gets to act last
+which gives him access to more information, gives
+him the first opportunity to stop the betting and
+see the next street, and allows him to call more
+effectively on the turn with draws. How valuable
+position is in any given spot will depend ona
+variety of factors.
+
+Rather than doing an inadequate analysis on the
+value of position right now, simply keep in mind
+that being in position on the flop is a significant
+advantage even if we canft quantify its exact
+value. Because of this, we'll (try to) see many flops
+in position while limiting the flops we see out of
+position.
+
+Position is also sensitive to stack size. When only
+asmall amount can be bet, position has little value.
+But in this book, most of our discussion will assume
+that starting stacks are 100 big blinds, and at this
+stack depth, there should be enough chips to bet
+throughout the hand so that position is almost
+always important.d:\work\kindle\holdem\061.png @@ Summary
+
+. Pot odds are the ratio of the current size of the
+pot to the cost of a potential call. They are crit-
+ical for determining how often we need to ex-
+pect to win to justify a call.
+
+. Equity tells us the odds a hand will be the best
+hand by the river against an opponentfs hand
+or range.
+
+. The expected value of a hand tells us how
+much money we expect to win when we take
+acertain line. It considers all money invested
+in the pot as dead money up to the current
+decision.
+
+. Hands with more equity are not necessarily
+better than hands with less equity. Itfs impor-
+tant our hand retains its equity against our op-
+ponentfs raising and calling ranges. Thatfs why
+hands like the 9 v 8 ware almost always better
+than hands like the A474.
+
+. Hands cannot simply be ranked from strongest
+to weakest. Different hands perform better in-
+
+different spots. For example, thed:\work\kindle\holdem\062.png @@ ce.
+*
+*:
+
+is better in multiway pots and the
+
+plays best in a heads up pot.
+
+1. A polarized range consists of mostly strong
+and weak hands. A condensed range consists
+of mostly medium strength hands. A betting
+or raising range will often but not always be
+polarized, and a calling range will often be
+condensed.
+
+2. Our betting range will almost always be polar-
+ized on the river. If we bluff too much, a strong
+opponent will always call with his bluff catch-
+ers, and if we bluff too little, he will always fold
+his bluff catchers. Thus, our goal is to make this
+player indifferent to calling and folding with
+his marginal hands.
+
+3. Hands cannot always be classified as either a
+
+value bet or a bluff. This is especially true ond:\work\kindle\holdem\063.png @@ the flop when a bet can have both bluffing and
+value properties.
+
+4. Our opponent should often be close to indiffer-
+ent between bluffing and folding the worst
+hands in his bluffing range.
+
+5. Being in position provides many benefits and
+greatly increases the profitability of a playerfs
+
+range.d:\work\kindle\holdem\064.png @@ Part Two
+
+Preflop Playd:\work\kindle\holdem\065.png @@ Preflop Play
+
+Introduction
+
+As we continue through this book, you'll start
+to notice a few general trends when approaching
+problems from a theoretical perspective. First, we'll
+not always be able to approach a solution using
+math and theory alone, and such problems require
+atrial and error approach. Specifically, a powerful
+computer could theoretically solve the game of
+poker and develop an optimal strategy through
+such an approach, but such a solution would
+require nearly a countless amount of simulations.
+On the other hand, the game of checkers was
+solved in 2007 using this method, and the solution
+would require a player to memorize 5x10h‹possible
+positions to ensure he always plays perfectly. But
+poker is much more complex because not all the
+information is available to both players. So while
+itfs possible for the game of poker to eventually be
+solved, itfs unlikely to happen anytime soon.
+
+Second, we should note that the best way to
+approach a problem may often seem backwards ord:\work\kindle\holdem\066.png @@ cause us to pause for a while and come back later
+when we have more information. For instance,
+suppose on the flop we want to figure out what
+our bluffing to value raising ratio should be. To
+accomplish this, we must first know how often
+we're going to bet the river with a balanced range,
+what bet sizing should be used on the turn and
+river, and how position effects our range. Notice
+that this is a large amount of information, and
+obviously it would be quite difficult to know where
+to start if a new player asked us gCan you explain
+how to balance a value to bluff raising ratio on the
+flop and where the numbers come from?h
+
+We will approach many problems like this, and
+itfs important to remember to remain patient and
+know these questions will eventually be answered
+as we discuss more concepts. Your confusion will
+come to an end as we cover more topics and have
+more gah-hahh moments when multiple concepts
+come together and the math and logic behind
+theoretically sound poker begins to make more
+sense.
+
+Last, and perhaps most important, notice that
+while we usually canft solve for the exact solution,
+theory can be used to tell us when something
+is not optimal. This is especially important ford:\work\kindle\holdem\067.png @@ this current section of the book. When we know
+something must be wrong with our ranges or bet
+sizing, we can focus our attention to that specific
+area of our game and try to find a strategy which
+has no glaring theoretical errors.
+
+For instance, we'll quickly see that it likely doesnft
+make sense for every position to 3-bet QQ+/AK
+against a pot-sized under-the-gun (UTG) open.
+
+If every player 3-bets these hands for value and
+balances the range with the proper amount of
+bluffs, then the UTG player will be 3-bet too much
+and will stop opening with those hands he plans
+on folding to a 3-bet. So while this doesnft tell us
+exactly what the optimal ranges are for defending
+against an UTG open, it still provides a useful
+starting point for designing ranges.
+
+Our general approach to preflop play will be to
+start with analyzing the basic ranges most winning
+players currently use and then modify them as we
+see how they can be exploited. Once wefre using
+ranges and bet sizings that give our opponents no
+clear way to exploit us, our strategy will probably be
+closer to game theoretical optimal than it originally
+was. This will make approaching preflop play much
+easier than starting out completely from scratchd:\work\kindle\holdem\068.png @@ which would at best be difficult and at worst close
+
+to impossible.d:\work\kindle\holdem\069.png @@ Preflop 3-Betting,
+4-Betting,
+
+and 5-Betting
+
+Frequencies
+
+Although there is no way to solve for the perfect 3-
+bet, 4-bet, and 5-bet sizings and frequencies from
+every possible position, we can analyze the effects
+of the most commonly used sizings and see how
+they affect each playerfs ranges and frequencies. In
+addition, notice that the methodology we discuss
+will be much more important than making sure we
+used the perfect sizings. In reality, small changes in
+sizing usually only slightly alter each playerfs range.
+Also, keep in mind that online most players have
+100 big blind stacks and a common opening size is
+a pot-sized open for 3.5 big blinds in most positions
+other than the button. In addition, good players
+usually 3-bet a 3.5 big blind open to between 10 and
+12 big blinds.d:\work\kindle\holdem\070.png @@ Letfs consider how often we must defend versus a
+3-bet in order to make our opponent indifferent to
+bluffing. When a player 3-bet bluffs a 3.5 big blind
+open in position to 10 big blinds, hefs risking 10
+big blinds to win 5 big blinds (the opening bet and
+the posted blinds). Thus, this needs to work more
+than 66.7 percent of the time to yield an immediate
+
+profit.
+10
+10+5
+
+Likewise, if the 3-bet was to 12 big blinds instead of
+10, it would need to work 70.6 percent of the time.
+
+0.667 =
+
+12
+
+12+5
+
+0.706 =
+
+Observe that even a 20 percent increase in 3-bet
+sizing only changes how often the original raiser
+must defend by 4 percent. Also note the original
+opener is not the only player who can defend
+against the 3-bet  there are still players yet to act
+who may have a strong hand or decide to bluff.
+
+Herefs an example. The cutoff opens to 3.5 big
+blinds and the button 3-bets to 10 big blinds. Since
+the 3-bettor needs folds 66.7 percent of the time to
+make an immediate profit, the remaining players
+must defend a combined total of at least 33.3
+percent. If each of the blinds 4-bets cold 3 percentd:\work\kindle\holdem\071.png @@ of the time and otherwise folds, then the original
+raiser would need to defend at least 29.1 percent.
+(1 X)(1-0.03)‹ = 0.667 >
+X =0.291
+where
+X is the probability that the original raiser
+defends, and
+1-0.03 is the probability that each blind folds.
+
+But no-limit hold fem isnft always this simple.
+Thatfs because players usually make smaller 3-
+bets in position than out of position since they
+want to encourage their opponent to call so they
+get to see a flop (in position). If we raise first in and
+an opponent makes a small 3-bet, hefll usually be
+in position and there will be multiple people left
+to act who can help us defend. If this player is out
+of position, his 3-bet will usually be larger so we
+won't have to defend as much even if there are no
+other players left to act. In general, our strategy will
+usually be to defend at least 27 to 31 percent of our
+opens against 3-bets.*
+3 This number will increase the more we are calling rather than 4-
+betting as we will discuss later in this section of the book.
+
+The most common 4-bet sizings are usually
+around 22 to 24 big blinds to win a pot of around
+15 to 16 big blinds. If the original raiser 4-bets, hed:\work\kindle\holdem\072.png @@ effectively only risks 18.5 to 20.5 big blinds since
+his original 3.5 big blind open is now dead money.
+Therefore, a 4-bet from the original preflop raiser
+must succeed around 55 percent of the time to
+make an immediate profit, whereas a 4-bet cold
+from one of the blinds must succeed around 60
+percent of the time to make an immediate profit.
+
+Lastly, a player can 5-bet bluff which will almost
+always result in him going all in when stack sizes
+are 100 big blinds or less. So when someone 5-bet
+bluff jams, hefll usually be using a small pocket pair
+or a weak suited ace since these hands have the
+most equity when called.
+
+However, how much equity a specific hand has
+will change significantly based on the opponentfs
+calling range. For instance, against a calling range
+of JJ+/AK, a pair of treys and ace-five suited have
+32.2 and 30.7 percent equity respectively. But
+against a calling range of aces and kings, the pair of
+treys has only 18.4 percent equity while the ace-five
+suited has 26.7 percent equity.
+
+Another point to consider is the 5-bet bluff will
+usually come from the original 3-bettor, and since
+he has already invested around 11 big blinds, hefs
+only risking on average another 89 big blinds
+(assuming he starts the hand with 100 big blinds)d:\work\kindle\holdem\073.png @@ by going all in. Therefore, since the final pot will
+be 201.5 big blinds, his expectation is just over 2
+big blinds back for every 1 percent of equity. So if,
+for instance, his hand has 31 percent equity when
+called, his expectation is 62.5 big blinds when his
+opponent does not fold,
+
+62.5 = (201.5)(0.31)
+which is the same as an overall expectation of -26.5
+big blinds.
+
+26.5 = 62.5-89
+But when the opponent folds, assuming that the 4-
+bet (to 24 big blinds) comes from the preflop raiser,
+the5-bet bluffer will win on average 36.5 big blinds.
+
+36.5 =244+114+15
+where
+1.5 is the amount of the blinds,
+11 is the amount of the 3-bet raise, and
+24 is the amount of the 4-bet raise.
+
+Therefore, in this example, the 5-bet bluff needs
+to work more than 42 percent of the time to yielda
+profit.
+
+(X)(36.5) + (1-X)(-26.5) =0 >
+63X =26.5>
+X =0.42d:\work\kindle\holdem\074.png @@ And in general, 5-bet bluffs need to work
+somewhere between 40 to 50 percent of the time to
+be profitable. The precise percentage is dependent
+on the equity versus the 5-bet calling range, and
+the bet sizings used for opening, 3-betting, and 4-
+betting respectively.
+
+Summing up, the frequencies at which 3-bet, 4-
+bet, and 5-bet bluffs must succeed will usually fall
+
+within the following percentages:
+
+- 3-bet bluffs usually need folds around 67 to
+70 percent of the time to yield an immediate
+profit.
+
+- 4-bet bluffs usually need folds around 54 to
+60 percent of the time to yield an immediate
+profit.
+
+- 5-bet bluffs usually need folds around 40 to
+50 percent of the time to yield an immediate
+
+profit.
+
+So despite each additional bluff getting
+significantly more expensive (in terms of the
+number of big blinds placed into the pot), each bluff
+needs to be successful less frequently than the one
+before it to be profitable. Again, it should be made
+clear that the above frequencies are for how oftend:\work\kindle\holdem\075.png @@ our 3-bets and 4-bets must succeed to yield an
+immediate profit.
+
+If our opponent sometimes defends by calling
+rather than re-raising, as he almost certainly will,
+then our 3-bets and 4-bets do not need to work
+as often to be profitable. Thatfs because even our
+weakest bluffs will sometimes get lucky on the flop.
+Likewise, we can also state the following:
+
++ Preflop opens need to defend by 4-betting
+around 25 to 30 percent of the time if they
+never defend by calling. This number is lower
+than it would otherwise be because there
+are usually players left to act which can help
+defend.
+
++ 3-betting ranges which never flat when facing a
+4-bet should 5-bet jam around 40 to 46 percent
+of the time.
+
+- 4-betting ranges should usually call between
+50 to 60 percent of the time when facing a 5-bet
+
+jam.
+
+These frequencies are important for determining
+the ratio of value raises to bluff raises in 3-bet, 4-
+bet, and 5-bet situations. While they do not tell us
+exactly what hands belong in each range, they dod:\work\kindle\holdem\076.png @@ allow us to check and see if a range is too heavily
+skewed towards value bets or bluffs.d:\work\kindle\holdem\077.png @@ Preflop Raise
+
+First In Ranges
+
+Before we can develop 3-bet ranges versus
+opens from different positions, we must first
+understand what makes a hand theoretically
+correct to raise first in. Since the expected value
+of folding is zero, a player should raise first in
+with any hand that has a positive expected
+value.e That is, the worst hand in a raise first in
+range should be close to 0 EV since itfs just barely
+above or equal to the expectation of folding.
+Therefore, we can make the following four
+assumptions about the properties of the worst
+hand in a game theoretically optimal playerfs
+raise first in range.
+
+4 Of course, in games with certain player types, the expectation
+for some hands may be highest by calling (often referred to as
+
+limping). But that possibility will not be considered here.
+
+1. The expected value of the hand should be
+close to if not exactly 0 EV. A hand has an ex-
+pected value of approximately 0 if it shouldd:\work\kindle\holdem\078.png @@ be opened some but not all of the time. For
+instance, if an UTG player raises six-five
+suited only 75 percent of the time then the
+expected value of the hand should be close
+to 0. But if he raised with it all the time, hefs
+seen to be playing too many highly specu-
+lative hands early and thus is vulnerable to
+reraises and other plays. Hence the expecta-
+tion for the six-five suited would likely now
+be negative.
+
+. The hand should frequently fold when fac-
+ing a 3-bet. It does not usually make sense
+to defend against raises with the weakest
+hands in the opening range.f The EV lost will
+be equal to the size of the preflop open.
+
+. The hand will have a total EV of better than
+-3.5 big blinds when players respond by call-
+ing rather than 3-betting. (Even the weakest
+hand in an opening range can become a
+strong hand on the flop.)
+
+. The hand will not have an EV of greater than
++1.5 big blinds when it sees a flop. Poker is
+a zero sum game, and if the worst hand ina
+preflop opening range expects to win more
+than just the blinds, this implies that thed:\work\kindle\holdem\079.png @@ cold caller is not playing optimally  his
+cold call would have to have a negative ex-
+
+pected value.
+
+5 There may be rare exceptions to this if the hand works
+especially wellasa4-betblufforifthehand is disguised which helps
+implied odds.
+
+The above assumptions provide us witha
+useful guideline for beginning to figure out what
+preflop 3-betting and opening ranges must look
+like. Since a player risks 3.5 big blinds to win
+1.5 big blinds with his weakest opening hands,
+it must succeed at least 70 percent of the time
+to yield an immediate profit. This means if all
+the opponentfs combined 3-betting frequencies
+result in the preflop raiser getting 3-bet a total
+of 30 percent or more, it will not be profitable to
+raise first in with a hand which has to fold to a 3-
+bet.d:\work\kindle\holdem\080.png @@ Maximum 3-
+
+Betting Ranges
+
+We now know enough math and theory to figure
+out what 3-betting ranges make sense based on
+which position opened. In order to accomplish
+a quick estimate, wefll assume players are using
+the same 3-betting frequencies from all possible
+remaining positions. This assumption is dropped
+in the final hand chart at the end of this section,
+but will be useful now for giving us a starting point
+for figuring out what sort of 3-betting ranges are
+possible.
+
+We should also note that simply dividing 30
+percent by the number of players left to act will give
+us an accurate estimate for the maximum amount
+each player can 3-bet, but it will not get us the exact
+correct answer. Thatfs because the estimate does
+not take into account the fact that two or more
+players can have a hand which will 3-bet the same
+open. Therefore, we should instead figure out how
+often each player must not 3-bet in order for the
+open to be 3-bet less than 30 percent total.d:\work\kindle\holdem\081.png @@ Herefs an example. Since there are five players
+left to act when the UTG player opens, we must
+multiply the odds each player does not 3-bet the
+open together to get the correct answer.
+
+X‹=0.7>
+X =0.931
+Hence, the maximum that each remaining player
+
+can 3-bet is 6.9 percent.
+
+0.069 =1-0.931
+
+As we saw in gPreflop 3-Betting, 4-Betting, and 5-
+Betting,h starting on page 34, a player cannot fold
+more than 40 to 46 percent of his 3-betting range to
+most of his opponentfs 4-bets. This means 40 to 46
+percent of the 3-betting range should be prepared to
+either play a 4-bet pot post-flop or 5-bet jam preflop.
+
+However, this also means we should fold
+between 54 and 60 percent of the time against
+our opponent's 4-bet to make him indifferent to
+bluffing (assuming we always either 5-bet or fold
+versus his 4-bet). So if we are the one 3-betting 6.9
+percent of the time, then we should defend with
+2.76 percent of our total hands against a 4-bet
+which is a range of AA-QQ/AK. The following chart
+includes the ranges solved for using the previous
+methodology.d:\work\kindle\holdem\082.png @@ Opening Range Maximum 3- Value 3-Betting | Value Component
+Betting Percentage Percentage of 3-Betting
+Range
+ure 6.9 2.76 AA-QQ, AK
+MP 8.5 3.4 AAJJ, AK, AQs
+co 11.2 46 J Als+,
+AQo+
+Button 16.3 6.52 TT+, ATs+,
+KQs, AJo+
+
+We have not, by any means, proved these hands
+must be theoretically correct 3-bets. We can 3-bet
+some non-premium hands to use as 5-bet bluffs
+when facing a 4-bet, and we can slowplay some
+very strong hands by cold calling preflop.
+
+This does, however, give us a great starting
+point for determining if players are 3-betting too
+aggressively. That is, if they are defending by 3-
+betting at near the above frequencies, then, as we
+will soon see, the preflop raiser is going to be losing
+money by opening the worst hands in his raise first
+in range.
+
+In addition, most people would agree the worst
+hand in a preflop raising range will on average lose
+money when called. While itfs true the dead money
+in the blinds increases the expected value for bothd:\work\kindle\holdem\083.png @@ the preflop raiser and the cold caller, this is unlikely
+a strong enough effect to make the weakest hand
+win money once called.
+
+Consequently, the worst hand in an opening
+range will likely lose money once called for several
+
+reasons.
+
+1. It is weaker than the average hand in a preflop
+cold calling range.
+
+2. On the flop, the preflop raiser will often be out
+of position unless he opened on the button or is
+just called by a blind.
+
+3. If one of the blinds does call (thus letting the
+preflop raiser see a flop in position), the pot will
+be smaller since there is less extra dead money
+from the blinds.
+
+Itfs important to design ranges where all of our
+theory and beliefs make sense and must not
+allow ourselves to have a contradicting thought
+process. We now are equipped with a great set of
+restrictions, or parameters, which will tell us what
+we can and cannot do when designing opening
+ranges and defending ranges from all the positions.
+
+In order to quickly illustrate this concept, letfs
+imagine we are playing at an aggressive table andd:\work\kindle\holdem\084.png @@ open the worst hand in our theoretically correct
+UTG opening range for 3.5 big blinds. We are 3-
+bet 30 percent of the time total and are cold called
+another 25 percent of the time. Furthermore,
+
+letfs be generous and assume our expected value
+when our open is called is on average 0 EV. We can
+now plug in these variables to figure out that the
+expected value of opening the worst hand in an
+
+UTG opening range at this table is -0.375 big blinds.
+~0.375BB = (0.3)(3.5BB) + (0.25)(0BB) + (0.45)(1.5BB)
+
+where
+0.3 is the 3-bet frequency,
+-3.5BB is the EV when facing a 3-bet,
+0.25 is the total call frequency,
+OBB is the EV when called,
+0.45 is the total all opponents fold frequency, and
+1.5BB is the EV when all opponents fold.
+That is the UTG player expects to on average lose
+-0.375 big blinds when he opens the worst hand in
+his theoretically correct UTG opening range.
+
+Notice we are not breaking even at this table by
+opening the worst hand in our theoretically correct
+raise first in range. Our opponents are playing too
+aggressively and our weak hand does poorly against
+opponents who 3-bet 30 percent total. The fact
+that theoretically correct raises can have a negatived:\work\kindle\holdem\085.png @@ expected value against certain opponents shouldnft
+surprise anyone. For instance, a theoretically
+correct bluff on the flop will lose money against
+opponents who refuse to fold.
+
+While we would break even if our opponents
+always 3-bet or folded and they 3-bet 30 percent
+total, we must not forget to take into account our
+open will sometimes be called. This is something
+which can easily be forgotten when performing
+calculations. Itfs easy to think gsince I break
+even when my opponent calls, it doesnft change
+anything,h but this is not true. When our opponents
+fold we win 1.5 big blinds, yet when one of them
+calls, we win 0 big blinds.
+
+This showcases the fact that as long as our
+opponents have any sort of reasonable cold calling
+ranges, they must be 3-betting significantly less
+than 30 percent of the time combined. If instead
+they always reraise with all these hands, we have
+no incentive to open with the weak hands in our
+
+theoretically correct opening range.d:\work\kindle\holdem\086.png @@ The Expected Value of
+
+4-Betting or Folding
+Against
+
+Opponents Who
+Don't Flat 4-Bets
+
+For 100 big blind stacks, players rarely like to flat
+3-bets out of position. One of the most commonly
+given pieces of advice is gDonft flat 3-bets out of
+position, instead either 4-bet or fold. You donft
+want to play a 3-bet pot out of position post-flop if
+you can avoid it.h Another common piece of advice
+when facing 4-bets is gIf you were 3-betting for
+value, value jam when facing a 4-bet, and if you
+were 3-bet bluffing, fold. Donft call and risk getting
+unlucky on the flop.h This is not theoretically sound
+advice, but it does allow players to avoid tough
+decisions for very large pots, and as such itfs often
+
+useful to newer players.d:\work\kindle\holdem\087.png @@ Since itfs impossible to directly solve for the
+expected value of a hand which sees a flop, this
+makes comparing the EV of jamming to flatting
+quite tricky. Nevertheless, we can analyze the
+effects of only 4-betting or folding against a 3-
+bettor who doesnft flat 4-bets. Later, wefll use the
+results of this analysis to conceptually show why
+this cannot be the theoretically optimal way to
+respond.
+
+When a player responds to a 3-bet by only 4-
+betting or folding, we have established that they
+must 4-bet between 25 to 30 percent of their
+preflop opening range. When facing a 5-bet, they
+must call between 50 to 60 percent of their 4-
+betting range. So by multiplying the averages of
+both, we see that approximately 15.2 percent of the
+preflop raising range should call a 5-bet.
+
+0.152 = (0.275)  (0.55)
+Stated again, if the preflop raiser 4-bets 27.5
+percent of the time and calls a 5-bet 55 percent of
+the time, he will end up felting 15.2 percent of his
+
+opening range.
+
+This is an important frequency to keep in mind
+when playing against opponents who refuse to flat
+3-bets out of position. Against these players, we
+need to defend at least 15.2 percent of their totald:\work\kindle\holdem\088.png @@ opening range or else bluffing with hands like ace-
+
+rag suited and pocket pairs becomes profitable for
+
+them.
+
+We will now examine what typical 4-betting
+
+and 5-bet-calling ranges look like for a number
+
+of opening ranges where players refuse to flat 3-
+
+bets. We can figure this out by looking at the raise
+
+first in frequency. Note that many of the ranges
+
+are estimates since they donft require using all the
+
+possible combinations of one type of hand.
+
+Raise First | 4-Bet | 4-BetRange | 5-Bet- 5-Bet-Call
+In% % (ofFirstin | Call% Range (of
+Raiser) First in
+Raiser)
+10 2.75 | QQ+, AKs, | 1.52 | QQ+, AKs
+AKo
+15 4.13 | TT+,AQs | 2.28 | QQ+, AKs,
++, AKo AKo
+20 5.5 | TT+,AJs | 3.03 | QQ+,AQs
++,KQs, +, AKo
+AQo+
+25 6.88 | TT+,ATs | 3.78 | TT+,AQs
++,KQs, +, AKo
+AjJo+d:\work\kindle\holdem\089.png @@ 30 8.25 | TT+,ATs | 4.54 | TT+,AQs
++,KQs, +, AQot+
+AjJo+
+40 11 88+, A9s 6.05 TT+, AJs
++,KJs+, +,KQs,
+QJs, ATo AjJo+
++, KJo+
+
+These defending ranges allow us to get a glimpse
+of what hands make effective value 3-bets against
+opponents who defend only by 4-betting or folding.
+For instance, against a 15 percent raise first in it
+makes little to no sense to 3-bet and 5-bet a hand
+like queens or ace-king offsuit since the preflop
+raiser will never felt worse. A raise first-in of 15
+percent is around what many players use for an
+UTG open, and the inability to 3-bet and 5-bet ace-
+king offsuit for value against an UTG open in six
+max is consistent with the theory from gMaximum
+3-Betting Rangesh starting on page 41. This does
+not mean ace-king offsuit will never be a 3-bet
+against an UTG open, but itfs usually a call.
+
+Letfs now analyze the profitably of 4-betting with
+the intention of calling a 5-bet. To accomplish this,
+assume we win 12.5 big blinds total for the hand
+when our 4-bet is successful and that our 4-bet isd:\work\kindle\holdem\090.png @@ successful 60 percent of the time.e We will thus win
+on average 7.5 big blinds from our fold equity alone
+every time we 4-bet.
+6 Remember, slight changes in these numbers will not greatly affect
+our results.
+
+7.5 = (0.6)(12.5)
+
+The remaining 40 percent of the time our
+opponent will jam and we'll call, and our
+expectation will be decided by our equity times
+the final pot-size. For example, in a 201.5 big blind
+pot, if our 4-bet has 45 percent equity against our
+opponentfs 5-bet jamming range, the total amount
+we will expect to win with our hand will be -9.325
+big blinds.
+
+~9.325 =(0.45)(201.5) 100
+
+And since this only occurs 40 percent of the time
+(with the remaining 60 percent producing a profit
+of 7.5 big blinds), our overall expectation is 0.77 big
+blinds.
+
+0.77 = (0.60)(7.5) + (0.40)(9.325)
+
+Note the following tables show how much we
+expect to win or lose overall for the hand when we
+4-bet. So since folding to a 3-bet results in us losing
+3.5 big blinds, itfs still more profitable to 4-bet with
+the intention of calling a 5-bet provided our total
+expected value is greater than -3.5 big blinds.d:\work\kindle\holdem\091.png @@ The following data shows the profitability of 4-
+betting and calling a 5-bet against various potential
+
+5-betting ranges.
+
+Equity Versus a 5-Bet Jamming Range of KK+, AKs, A5s (1.5%)*
+
+Hand Percent Equity Total Expected
+When All In Value (BB)
+
+QQ 35.1 -4.2
+
+KK 42.8 2.0
+
+AA 81.0 32.8
+AQs 34.8 -4.4
+AKo 37.4 -2.4
+AKs 41.5 1.0
+
+an UTG open.
+
+* This isa commonly used jamming range against
+
+Equity Versus a 5-Bet Jamming Range of
+
+QQ+, AKs, A5s, AKo (2.9%)*
+
+Hand Percent Equity Total Expected
+When All In Value (BB)
+I 39.4 -0.7
+QQ 43.4 2.5
+KK 58.7 14.8
+AA 84.3 35.5d:\work\kindle\holdem\092.png @@ AQs 33.1 -5.8
+
+AKo 42.5 1.8
+
+AKs 45.4 4.1
+
+* This is acommonly used jamming range against a
+
+middle position opener.
+Equity Versus a 5-Bet Jamming Range of JJ
++, AKs, A5s, AKo (3.3%)*
+Hand Percent Equity Total Expected
+When All In Value (BB)
+J 39.7 -0.7
+QQ 49.4 7.3
+KK 63.1 18.4
+AA 83.7 34.9
+AQs 35.4 -4.0
+AKo 42.7 1.5
+AKs 45.5 4.2
+
+* This is acommonly used jamming range against a
+
+cutoff opener.
+
+Equity Versus a 5-Bet Jamming Range of TT+, AJs, AQo (5%)*
+
+Hand Percent Equity Total Expected
+
+When AllIn Value (BB)d:\work\kindle\holdem\093.png @@ 99 38.2 -1.7
+TT 41.2 0.7
+UJ 47.5 5.8
+QQ 56.0 12.6
+KK 67.6 22.0
+AA 84.7 35.8
+Ajo 28.5 -9.5
+Ajs 32.8 -6.1
+AQo 36.6 -3.0
+AQs 39.9 -0.3
+AKo 50.5 8.2
+AKs 52.9 10.1
+
+* This is acommonly used jamming range against a
+
+button opener.
+
+Note we assumed our 4-bets would get folds
+60 percent of the time, but in practice, removal
+effects will impact our 4-bet success frequency.
+For instance, aces will face a 5-bet less often than
+other hands because it blocks so many combos of
+aces and ace-king. However, it also blocks hands
+in the opponentfs 3-bet bluffing range. Hence, this
+makes it impossible to solve exactly how often
+our opponent will be 5-betting, but we can stilld:\work\kindle\holdem\094.png @@ calculate the equity our hand will have once we face
+a 5-bet.
+
+Notice the above results should be quite
+surprising even to experienced players. 4-betting
+with ace-king or jacks in the cutoff against a 3-
+bet is mediocre, with the hands only having a
+total expected value of 1.5 and -0.7 big blinds
+respectively. This suggests we should be calling 3-
+bets with these hands, especially in position, where
+we will almost certainly have a higher expectation
+since this keeps the opponentfs range wider.
+
+Many players would also be surprised to learn
+that the only hand they should be happy to get all
+in preflop after opening UTG is aces. In fact, even
+kings show only a small profit by being 4-bet  we
+are hoping our opponent folds rather than 5-bets.
+An UTG player who decides to 4-bet and call with
+queens should expect to lose over 4 big blinds on
+average with the hand.
+
+These felting ranges are probably stronger than
+most players would expect and further reinforce
+what the math in gMaximum 3-Betting Rangesh
+suggested. We cannot 3-bet ace-king and queens
+against an UTG open and expect to do well when
+facing a 4-bet. Although itfs much easier to play
+by only 4-betting or folding when facing a 3-betd:\work\kindle\holdem\095.png @@ preflop, especially when we are out of position,
+these results show just how ineffective this strategy
+actually is. Our opponentfs 3-betting range should
+be polarized meaning that our best strategy is to
+defend by calling much more often than 4-betting.
+
+One final note. As we discuss more theory, itfs
+often important for us to stop for a moment and
+think if our experiences match what the math is
+telling us. Players who 3-bet or 4-bet ace-king and
+queens recklessly from any position and claim they
+are just unlucky when they get it in behind are
+mistaken. The theory and math behind preflop play
+implies theyfre often making a big mistake against
+strong opponents.d:\work\kindle\holdem\096.png @@ Flatting 3-Bets
+and 4-Bets
+
+We're almost ready to begin analyzing the effects
+of flatting a 3-bet. Yet before we can do this, it must
+be understood why we also need to have a flatting
+range against 4-bets. As mentioned previously,
+most players will not flat 4-bets whether they are in
+or out of position. This is often justified by claiming
+there is too much money in the pot and bluffs
+have at least 20 percent equity against even a very
+strong calling range. More importantly, they do not
+want to be faced with a tough decision post-flop.
+However, this is a poor approach and players should
+be willing to call 4-bets for the following reasons:
+
+1. Hands in the value 4-betting range are stronger
+than the weakest hands in the value 3-betting
+range. If a player 5-bets the weakest hand in his
+value 3-betting range, he will never be ahead
+when called.
+
+2. 5-betting ensures either all the money gets in
+
+preflop or no one sees a flop. This takes awayd:\work\kindle\holdem\097.png @@ the positional advantage the 3-bettor would
+have if he called the 4-bet when in position.
+
+3. Even if a hand has only 20 percent equity
+against a monster like aces or kings, it likely
+needs to see the turn or river to become best.
+Overpairs can ensure all the money gets in on
+the flop or turn on threatening boards before
+the opponent gets to see additional cards. In
+other words, our opponent will have a difficult
+time realizing the equity of his semi-blufts.
+
+4. For 100 big blind stacks, itfs extremely difficult
+to 5-bet and fold. This means a player can 4-
+bet very small if he knows his opponent will al-
+
+ways respond by 5-betting or folding.
+
+Always 4-betting or folding when out of position
+becomes ineffective once players start flatting 4-
+bets in position. The 4-bettor can no longer destroy
+the 3-bettorfs positional advantage by 4-betting
+and instead risks playing an even larger pot out
+of position. Rather, it now makes sense to call 3-
+bets with a balanced range which can be defended
+
+effectively on the vast majority of common board
+textures.d:\work\kindle\holdem\098.png @@ Examining Complex
+Ranges  Defending
+
+Enough Against Opens
+
+We're now ready to begin making complex ranges
+by building on the concepts wefve previously
+discussed. Our ultimate goal is to find ranges where
+neither player has an incentive to change, but
+unfortunately this is difficult to do with preflop
+ranges. Thatfs because we have no clear starting
+point and need at least one theoretically correct
+range to help us design other theoretically correct
+ranges.
+
+Herefs an example. Itfs easy to see that we need to
+know what the button opening range is before we
+can design effective defending ranges in the blinds.
+Yet we won't know what a good button opening
+range is until we know how aggressively the blinds
+are 3-betting and calling. Likewise, how can we
+know what hands to 3-bet on the button against a
+
+cutoff open if we donft know exactly what range thed:\work\kindle\holdem\099.png @@ cutoff is opening and how he responds to a 3-bet?
+So this requires us to take a much more gtrial and
+errorh approach when analyzing preflop play than
+we would like.
+
+In addition, changing one aspect of strategy will
+often impact other areas of our game as well. For
+instance, suppose we decide to defend a wider
+range against our opponentfs 3-bets to make
+his 3-bet bluffs successful less often. While this
+does force our opponent to play a 3-bet pot out of
+position at a higher frequency, it also weakens our
+calling range which in turn increases the expected
+value of our opponentfs weak post-flop hands.
+
+These problems make it critical we use a sound
+methodical approach to design strong ranges.
+Doing this for every single possible raise first in
+spot would quickly become quite cumbersome, so
+the methodology used for examining ranges will
+be shown now and a recommended hand chart
+included at the end of this section. While once
+again perfect ranges cannot be solved for, we can
+make sure every range designed makes sense and
+there are no contradictions in our thought process.
+The best we can do is make ranges where no player
+has a clear incentive to change his strategy.d:\work\kindle\holdem\100.png @@ We'll start by attempting to figure out how the
+blinds should respond to a first in button raise.
+These ranges are arguably the most important
+ranges in 6-max since this situation occurs so
+frequently and it will be assumed the button open
+is to 2.5 big blinds and the 3-bet is to 9.5 big blinds.
+This means a button open cannot be successful
+more than 62.5 percent of the time or else he will
+make an immediate profit by opening with any two
+cards.2
+7 This isnft exactly accurate since the button will make a small profit
+anyway due to its position. On the other hand, a button raise that
+successfully steals less than 62.5 percent of the time can still make a
+profit because it sometimes wins when it is just called.
+
+(1.5).X)(2.5)1-X)=0>
+X =0.625
+Moreover, 3-bets from the small blind cannot be
+successful more than 69.3 percent of the time.
+(4(X)-O)A-X) =0>
+X =0.693
+and for the big blind the percentage is 68.0 percent.
+(4)(X) -(8.5)d- X) =0>
+X =0.68
+
+Last, when the button 4-bets we will assume he
+uses a 4-bet sizing to 19 big blinds. While the exact
+required success frequency will change based on

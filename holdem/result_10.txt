@@ -1,0 +1,1200 @@
+d:\work\kindle\holdem\501.png @@ 1 bluff for every 2 value bets. In other words, if he
+value bets 30 percent of the time he also should
+bluff 15 percent of the time to keep us indifferent
+to calling. This results in him betting the river
+45 percent of the time, and as already explained,
+whenever our opponent bets with a balanced
+range, we have effectively lost the hand and the
+expected value of our call will be zero. Therefore,
+the expected value of checking the river will be 0.55
+pot sized bets.
+0.55 = (0.55)(1) + (0.45)(0)
+where
+
+0.55 is the proportion of times our opponent
+
+checks the river and loses,
+
+0.45 is the proportion of times our opponent bets,
+
+1is the size of the pot, and
+
+O is our expectation when our opponent bets.
+
+Since the expected value of jamming the river
+
+is 0.6 pot sized bets while the expected value of
+check-calling is only 0.55 pot sized bets, we should
+value bet this river when out of position despite
+expecting to lose over half the time when called.
+This further showcases why the term value bet is
+misleading  when out of position, itÅfs often best
+to bet the river with a strong hand expecting to lose
+more often than win when called! (The obviousd:\work\kindle\holdem\502.png @@ exceptions occur when your opponent bluffs far too
+frequently or infrequently when you check.)
+
+ThatÅfs because when we check out of position, we'll
+not only lose to all the hands which beat us, but
+also effectively lose to all the hands our opponent
+bluffs in a balanced betting range. This reduces the
+expected value of checking a hand with showdown
+value, and encourages us to value bet aggressively
+in some spots even if we expect to lose more often
+than win when called. ItÅfs especially common,
+when out of position, that going all-in is the best
+strategy despite expecting to lose more often than
+win when called if stack sizes are shallow relative to
+
+the pot size.d:\work\kindle\holdem\503.png @@ Value Betting
+
+When Raises are
+Possible
+
+Since we won't often be going all-in when we
+bet the river, our opponent will usually have the
+opportunity to raise us. In addition, his raising
+range should be designed to turn the majority of
+our value betting hands into bluff catchers, so we
+must take into account how often heÅfll make us face
+a break even call when deciding whether or not itÅfs
+more profitable to bet or check.
+
+When betting out of position, we donÅft need
+to worry about reopening up the betting. Put
+differently, if our opponent is in position, heÅfll
+always have the opportunity to bet or raise with
+his strong hands and will never check back a very
+strong hand since checking goes to showdown  he
+canÅft check hoping to check-raise. This, in a sense,
+makes out of position value betting on the river less
+risky. Sure itÅfs true that if we bet and our opponent
+
+raises balanced range we'll have invested more deadd:\work\kindle\holdem\504.png @@ money into the pot and usually be faced witha
+break even call, but hands which are strong enough
+to value raise are of course strong enough to bet as
+well when facing a check. In other words, although
+betting the river when out of position makes the
+pot bigger, it doesnÅft really give our opponent
+
+an opportunity to bet or raise that he wouldnÅft
+otherwise have.
+
+But when we bet the river in position, it reopens
+the betting and gives our opponent the opportunity
+to check-raise with a balanced range of value hands
+and bluffs. And when he does this, both calling
+and folding with most of the hands in our range
+will have an expected value of zero meaning we'll
+have effectively lost the hand. So notice that by
+bet-folding the river in position, weÅfll not only lose
+our bet to hands which beat us, but our bet and the
+pot will also effectively be lost to hands which our
+opponent bluffs in a balanced check-raising range.
+
+LetÅfs illustrate this with an example. On the river,
+we're in position and have 80 big blinds remaining
+and the pot is 40 big blinds. If we bet 20 big blinds,
+our opponent has the opportunity to go all-in for
+80 big blinds total, and for us to be indifferent to
+calling, 70 percent of our opponentÅfs check-raises
+must be value raises.d:\work\kindle\holdem\505.png @@ (140)(1.X)  (60)(X) =0 >
+X =0.7
+where
+140 is the size of the pot,
+60 is the size of the raise,
+X is the frequence of our opponentÅfs value raises,
+and
+1-Xis the frequency of our opponent's raise
+bluffs.
+
+Since our opponent needs 70 percent of his river
+check-raises to be value raises, if 5 percent of his
+range on the river is strong enough to value check
+raise, then he can also check-raise bluff 2.1 percent
+
+of the time and remain balanced.
+
+0.071 = 205
+
+0.70
+0.021 =0.0710.05
+
+LetÅfs assume we always fold once our opponent
+check-raises since calling and folding both have
+an expected value of zero. When we bet-fold a
+hand after our opponent value check-raised, we'll
+have lost 20 more big blinds than we would have
+by checking. Yet if our opponent was bluff check-
+raising, we'll have effectively lost 60 blinds. ThatÅfs
+because we would have won the 40 big blind pot
+had we simply checked back, but by bet-folding, wed:\work\kindle\holdem\506.png @@ lost both the original 40 big blind pot and our 20
+big blind bet. This makes value bet-folding riskier
+in position than out of position since we'll lose to
+our opponents check-raise bluffs whereas checking
+guaranteed showdown.
+
+Nevertheless, bet-folding on the river in position
+will still frequently be the best option and the
+following equation can be used to determine the
+expected value of betting relative to checking.
+
+EV of betting relative to checking = (betsize)
+(frequency opponent calls with the worst hand) -
+(bet size)(frequency opponent calls or check-raises
+the better hand) - (bet size + pot size)(frequency
+opponent check-raise bluffs)
+
+This equation shows that in order for in position
+value betting to be superior to checking, our
+opponent must call with the losing hand frequently
+enough to overcome the fact that weÅfll sometimes
+fold the best hand to our opponentÅfs check-raise
+bluffs. Notice that simply solving for the expected
+value of our river bet won't tell us if betting or
+checking is superior since checking has a positive
+expectation as well. So our goal isnÅft to bet if
+betting has a positive expected value, but rather if
+betting has a greater expected value than checking.d:\work\kindle\holdem\507.png @@ Therefore, if the expectation of betting relative to
+checking is positive, betting is our best strategy.
+
+Furthermore, on the river, make sure to note our
+opponent will not usually be able to check-raise all
+of his hands which beat our value betting hand.
+
+He has to make sure his value check-raises beat
+over half the hands in our check-raise calling range
+or else calling will be more profitable than check-
+raising. As such, there are many different variables
+in this equation, and this requires us to estimate
+several of our opponentÅfs frequencies.
+
+LetÅfs stick with our previous example and suppose
+we're in position on the river and bet 20 big blinds
+into a 40 big blind pot with the intention of bet-
+folding. In addition, letÅfs suppose our opponent
+will call the river frequently enough to make us
+indifferent to bluffing which requires him to call
+66.7 percent of the time. Moreover, assume 5
+percent of his hands will be strong enough to value
+check raise and he'll check-raise bluff an additional
+2.1 percent of hands so his range is balanced. Lastly,
+assume he calls with the best hand 10 percent of
+the time. These values can be plugged into the
+previous formula to determine the expected value
+of betting relative to checking. And in this case the
+answer is 5.66 big blinds.d:\work\kindle\holdem\508.png @@ (20)(0.667  0.10  0.05  0.021)  (20)(0.1+ 0.05)
+(60)(0.021) =
+
+9.92 -3-1.26 =5.66
+
+where
+
+20 is the size of the bet,
+
+0.667 is our opponentÅfs calling frequency,
+
+0.10 is how often our opponent calls with the best
+hand,
+
+0.05 is how often our opponent value check-
+raises.
+
+0.021 is how often our opponent check-raise
+bluffs, and
+
+60 is the size of the pot after we bet.
+
+So here, the expected value of betting is 5.66 big
+blinds greater than that of checking. And despite
+the fact that we effectively lose both our bet and the
+pot for 60 big blinds total every time our opponent
+check-raise bluffs, this does not occur often enough
+to deter us from betting.
+
+Another way to get this answer would be to solve
+for the expected value of betting and the expected
+value of checking and then subtract. Both methods
+are valid, but this method is a bit faster and
+
+showcases why itÅfs so risky to bet-fold when ourd:\work\kindle\holdem\509.png @@ opponent plans to aggressively check-raise with a
+balanced range.d:\work\kindle\holdem\510.png @@ Pinpointing the
+
+Optimal River Bet Size
+
+One of the most exciting aspects of applying
+theory to river play is in many cases it allows us
+to actually solve for the theoretically perfect bet
+size. But before this formula is in troduced and
+explained, itÅfs best to first discuss river bet sizing
+using some easier to visualize examples.
+
+Even when exact answers can be solved for, itÅfs
+usually a good idea to begin with predicting the
+correct answer then seeing how accurate our
+prediction was. For example, we learned previously
+that as a general rule of thumb itÅfs good to use
+around a 2-to-1 bluffing to value raising ratio when
+raising the flop in position. Yet if we were to ask a
+player who doesnÅft understand theory well to guess
+how many bluff raises he should have in his flop
+raising range, heÅfll almost always guess he should
+be bluffing much less. ThatÅfs because he doesnÅft
+understand how itÅfs possible to bluff so much when
+there are many streets left to act.d:\work\kindle\holdem\511.png @@ This information is useful because it gives us an
+idea of how players of a given skill level actually
+think and play. Those who are playing low limits
+online almost certainly donÅft bluff raise enough
+on the flop. This encourages us to exploitatively
+fold our bluff catchers when facing a raise even
+if in theory we should be defending much more
+aggressively.2! Again, this is one of the main reasons
+why being a theoretically strong player is so useful.
+It allows us to make less mistakes against strong
+opponents as well as better exploit weak ones.
+
+21 The point Mason Malmuth and David Sklansky made much.
+earlier in the text warning about bluff catching.
+
+So letÅfs start with making a few predictions before
+actually getting to the formula. Assume we are
+on the river with unlimited stack depth and our
+opponent will never raise our bet. In addition,
+assume he'll call often enough so our bluffs break
+even. Due to these two assumptions, position will
+not matter, so itÅfs fine to assume we're either in or
+out of position.
+
+So on the river, given the above assumptions, how
+much would you bet (in terms of pot sized bets)
+with a hand your opponent has beaten 15 percent
+of the time? Stop and actually think of a bet size
+because if you bet too much or too little thereÅfsd:\work\kindle\holdem\512.png @@ a good chance other players around your skill
+level are also making the same mistake. And after
+you've made your best guess, itÅfs a good idea to go
+and solve for the expected value of that bet sizing.
+How often does your opponent call this bet? How
+often do you win when you're called? Getting good
+at poker requires work, and these are the types of
+questions you'll often need to be able to answer as
+you continue to improve.
+
+The optimal bet sizing in this situation is 0.83 pot
+sized bets, and how this value was calculated will
+be explained later in this chapter. When we bet
+0.83 pot sized bets, our opponent will need to call
+54.7 percent of the time to keep us indifferent to
+bluffing.
+
+(D(X) -(0.83)(X) =0>
+X = 0.547
+
+This information can be used to determine our
+expected value after betting. Our opponent will call
+54.7 percent of the time but he only has us beat 15
+percent of the time. This means 39.7 percent of the
+time heÅfll call and lose. Therefore, our expectation
+after betting is 1.06.
+
+1.06 = (0.453)(1) + (0.397)(1.83)  (0.15)(0.83)
+
+whered:\work\kindle\holdem\513.png @@ 0.453 is the frequency at which our opponent
+folds,
+
+0.397 is the frequency at which our opponent
+calls and loses,
+
+0.15 is the frequency at which our opponent calls
+and wins,
+
+1is the size of the pot,
+
+1.83 is how much we win when our opponent
+calls and loses, and
+
+0.83 is how much we lose when our opponent
+calls and wins.
+
+This can be compared to the expected value of
+checking which will be 0.85 pot sized bets since
+we'll win the pot 85 percent of the time.
+
+0.85 = (0.85)(1) + (0.15)(0)
+
+So by betting the perfect amount on the river we
+
+increase our expected value by 0.21 pot sized bets
+
+relative to checking.
+0.21=1.060.85
+
+ItÅfs also important to understand our mistake if we
+bet too much or too little. Betting too much causes
+us to lose more money to hands which beat us and
+causes our opponent to fold more hands we beat.
+Although our bet will be profitable as long as we
+win over half the time when called, winning just
+over half the time causes our bet to be only slightlyd:\work\kindle\holdem\514.png @@ better than checking. An optimal bet sizing results
+in us winning the majority of the time when called
+for reasonable sized bets.
+
+Betting too small results in us getting too little
+value from the hands we do beat. Here we're already
+winning 72.6 percent of the time when called, so
+betting smaller causes us to lose too much value
+from the hands we beat and decreases our expected
+value.
+
+0.397
+0.547
+
+0.726 =
+
+where
+0.397 is the frequency our opponent calls and
+loses, and
+0.547 is our opponentÅfs calling frequency.
+
+Again, these types of exercises are useful for
+identifying general leaks. Understanding a formula
+on paper isnÅft nearly as important as being able to
+recognize the mistakes you're currently making and
+fixing them in a methodical way.
+
+Here is the formula for the expected value of
+betting on the river. Notice this is the total expected
+value of the bet and not the expected value of
+betting relative to checking. Also keep in mind the
+expected value of checking will change based on
+whether we're in or out of position, so the followingd:\work\kindle\holdem\515.png @@ formula won't automatically tell us if betting is
+better than checking.
+EV of betting =(opponentÅfs folding frequency )(pot - size) +
+(frequency weÅfre called and win) (pot - size + bet size) 
+(frequency we effectively lose) (bet size)
+
+This formula can be expressed using only two
+variables when playing against an optimal
+opponent who wants to keep us indifferent to
+bluffing.
+
+, 5 1 1 5 .
+EV of b g =| 1- 1) +} -Y ]0+X)-Q)\(X
+of betting [ az|\ ) sy \ +X)-Y)(X)
+
+where
+X is our bet size in terms of pot sized bets, and
+Y is how often we effectively lose.
+
+Since the variable Y represents how often we
+effectively lose, this formula is able to take into
+account our opponent's ability to bluff raise.
+Remember, when he bluff raises with a balanced
+range, weÅfll have effectively lost the hand. So if
+our opponent never raises on the river, then Y will
+simply be how often he has us beat. But in cases
+where heÅfll sometimes raise with a balanced range,
+Y will also include bluff raises.
+
+We can consider the derivative of this formula
+with respect to X to obtain the river bet sizing
+which yields the highest expected value. Basicd:\work\kindle\holdem\516.png @@ calculus tells us that the value of X for which
+
+the derivative equals zero corresponds to a local
+maximum or minimum, in this case the bet size
+for which the value of the formula is maximized.
+In reality, Y will change slightly based on our bet
+sizing, stack depth, and the removal effects of our
+hand. That is, if we check or bet small, our opponent
+will usually bet or raise more aggressively and
+have more stack depth to utilize. However, Y will
+often change only a small amount based on our bet
+sizing assuming stacks are adequately deep, so itÅfs
+worthwhile to treat it as a constant rather than get
+sidetracked with details.
+
+This is the only formula in this book which
+requires calculus to derive, and if youÅfre not
+comfortable with calculus, you shouldnÅft worry
+about its derivation. You can still test the formula
+by plugging in values yourself and seeing that itÅfs
+correct. But if you are comfortable with calculus,
+you should be able to derive it yourself, and more
+mathematically intensive explanations are given
+in The Mathematics of Poker by Bill Chen and Jerrod
+Ankenman.
+
+Derivative :0 = I. 2YorY= | Jar?
+(+x)
+
+Nie
+
+whered:\work\kindle\holdem\517.png @@ X is our bet size in terms of pot sized bets, and
+Y is how often we effectively lose.
+
+This formula probably seems confusing at first.
+But luckily after some rearrangement it can be
+expressed in the following way and can then be
+used in a quadratic solver (which are available
+for free online) to solve for close to the perfect bet
+sizing.
+
+0=1-(Y)1+2X +XÅf)
+
+This is such an important formula that itÅfs worth
+carefully doing a few examples to make sure weÅfre
+comfortable using it. LetÅfs start with an example
+where we think we're effectively beaten on the river
+22 percent of the time. This requires us to plug in
+0.22 for Y and solve for X.
+
+0=1-(2Y)0+2X+.X7)>
+0=1-(2)(0.22)0+2X + X*)>
+0=1-(0.44)(1+ 2X +X?) >
+
+0 =1-0.44-0.88X -0.44.X? >
+0=0.56-0.88.X 0.44.X?
+
+We're almost done. Now all we need to do is google
+search Ågquadratic solverÅh online and click on one of
+the many links. After plugging in each of the terms,
+
+the following answers should appear.
+X =-2.51or0.51d:\work\kindle\holdem\518.png @@ Since weÅfre using a quadratic equation, we'll
+usually get two answers. Normally, one will be
+nonsensical in the context of poker  a negative
+pot sized bet  and only one will be the correct
+answer. And in this example, since itÅfs impossible
+to bet -2.51 pot sized bets, betting 0.51 pot sized
+bets is clearly the answer. ThatÅfs the sizing which
+maximizes our expected value. It results in us
+winning the majority of the time when called while
+still winning a reasonable sized bet.
+
+LetÅfs try one more example. Only this time assume
+we're beat on the river 40 percent of the time.
+Again, itÅfs a good idea to guess at what this number
+is before solving for the answer so you can estimate
+if you're regularly betting too big or too small.
+
+0=1-(2Y)\14+2X+X*)>
+0=1-(2)(0.4)1+2X + X7)>
+0=1-(0.8)04+2 +X*)>
+0=1-0.8-16X-0.8x* >
+0=0.2-1.6X -0.8X7
+Plugging these values into a quadratic equation
+solver, the two possible values for X are -2.11 or
+0.12 pot sized bets. Clearly, the optimal bet sizing
+here must be 0.12 pot sized bets.d:\work\kindle\holdem\519.png @@ Although it may at first seem as if we should
+always bet 0.12 pot sized bets when our opponent
+has us effectively beat 40 percent of the time,
+this isnÅft true. This would be true if he could only
+defend by calling, but we have to be extra careful
+when check-raises are possible. ThatÅfs because as
+previously discussed, this formula will not tell
+us whether itÅfs more profitable to check or bet in
+position since betting reopens up the action and
+allows our opponent to raise.
+
+And if our opponent is able to aggressively check-
+raise, then betting 0.12 pot sized bets will probably
+be inferior to checking. Again, thatÅfs because
+whenever our opponent check raise bluffs with a
+balanced range we'll have effectively lost the pot (in
+addition to our bet) which would have been won by
+checking. So getting check-raise bluffed effectively
+causes us to lose 1.12 pot sized bets. However, when
+our opponent calls we can only win an additional
+0.12 pot sized bets (and we'll still sometimes lose
+when called) which is usually too small to justify
+reopening up the betting when in position.
+
+This brings us to an interesting and important
+point regarding bet sizing. In general, very small
+bets often make sense theoretically when out of
+position since they do not reopen the betting. Yetd:\work\kindle\holdem\520.png @@ the same small bets in position will rarely be best
+when our opponent has a check-raising range.
+ThatÅfs because winning such little additional
+money when he calls with a worse hand does not
+justify the risk of getting raised. Put another way,
+the more aggressively our opponent will check-
+raise, the more likely we should be to check back.
+ThatÅfs because betting causes us to effectively lose
+the pot at a higher frequency.
+
+Another important point to mention is when stack
+sizes are shallow and going all-in is an option this
+formula won't work very well for determining
+whether or not to bet when out of position.
+
+The reason for this is that our opponent has no
+opportunity to raise after we go all-in, and by going
+all-in for a small amount, we force him to call with
+a wide range. In fact, itÅfs sometimes correct to go
+all-in when out of position even if weÅfre beat by
+over half the hands in our opponentÅfs range (before
+he calls). So this formula is not accurate for bet
+sizing when stacks are shallow, and itÅfs important
+to understand the concepts at play as already
+discussed in ÅgPart 11: Comparing In Position and
+Out of Position River JamsÅh starting on page 329.
+
+Lastly, as we'll see in the next chapter, this
+formula does not take into account removal effects.d:\work\kindle\holdem\521.png @@ The cards our hand removes from the deck will
+impact our opponentÅfs calling, raising, and folding
+frequencies. In other words, itÅfs impossible for him
+to always call at the same frequency based on our
+bet sizing regardless of what hand we have. This
+effect ranges from nearly irrelevant to extremely
+important based on our hand and the board
+
+texture.d:\work\kindle\holdem\522.png @@ Utilizing Removal
+Effects
+
+Since cards in our hand cannot be in our
+opponentÅfs range, our holdings will almost always
+influence what hands he can have. Although this
+effect is present on every street, itÅfs especially
+important to properly utilize removal effects on
+the river. For instance, when bluffing, our hands
+removal effect is often the sole determinant
+for whether our bluff has a positive or negative
+expected value.
+
+Since there are no additional cards to come, all of
+our river bluffs will have zero equity when called.
+This was not the case for preflop, flop, and turn play
+since even our weakest bluffs had some equity. As
+such, we always emphasized bluffing with hands
+which retained their equity well since they hada
+chance to outdraw our opponent. And although
+removal effects were still present on previous
+streets, they were usually much less significant
+than the concept of simply bluffing with hands
+which best retain their equity. So it made sense tod:\work\kindle\holdem\523.png @@ largely ignore this effect and concentrate on more
+significant concepts.
+
+Furthermore, ranges are usually quite wide on
+previous streets so removal effects often have a
+limited impact on our opponentÅfs range. While
+itÅfs true holding a top pair hand on the flop means
+sheÅfll have one-third fewer top pair combinations,
+there are usually so many strong and weak hands
+in his range that removal effects rarely significantly
+alter it. But this isnÅft always the case on the river
+since ranges are usually more defined with fewer
+combinations of hands. ItÅfs thus common for our
+holding to significantly change our opponentÅfs
+betting or calling frequency because we remove a
+large fraction of hands from his range.
+
+HereÅfs a simple example. On the river, our
+opponent checks to us and we bet a single pot sized
+bet. Since we risk one pot sized bet to win one pot
+sized bet, he must call exactly 50 percent of the time
+to keep us indifferent to bluffing.
+
+Moreover, letÅfs suppose our opponentÅfs river
+checking range includes 100 hand combinations
+if our hand has no removal effect. He thus should
+check-call with 50 of these combinations to keep us
+indifferent to bluffing with a hand with no removal
+effects.d:\work\kindle\holdem\524.png @@ Now letÅfs suppose we bluff with a hand on the
+river that blocks 6 value hands in our opponentÅfs
+check-calling range but no hands in his check-
+folding range. This means heÅfll have six less hand
+combinations in his checking range and check-
+calling range (since his checking range includes
+his check-calling range). HeÅfll thus call only 46.8
+percent of the time.
+
+50-6
+100-6
+And since our opponentÅfs calling frequency has
+
+0.468 =
+
+decreased, we'll both win the pot more frequently
+as well as lose our bet less often. The expected value
+of betting this hand is now 0.064 pot sized bets.
+0.064 = (10.468)(1)  (0.468)(1)
+where
+1 is either the size of the pot or the size of the bet,
+0.468 is our opponent's calling frequency, and
+1-0.468 is our opponentÅfs folding frequency.
+This may seem insignificant at first, but keep in
+mind this value represents pot sized bets. And if the
+pot is 100 big blinds on the river, bluffing with this
+hand will have an expected value of 6.4 big blinds.
+ThatÅfs a substantial gain and constantly bluffing
+with the right hands on the river will add up in the
+long run.d:\work\kindle\holdem\525.png @@ Likewise, our bluff will have a negative expected
+value when our hand has an undesirable removal
+effect. ThatÅfs because hands with bad removal
+effects block hands in our opponentÅfs check-folding
+range. For example, suppose our hand blocks 8
+hands in our opponentÅfs check-folding range but
+only 1 hand in his check-calling range. This results
+in our opponent check-calling 53.8 percent of the
+time.
+
+50-1
+~ 100-8-1
+And if he check-calls 53.8 percent of the time then
+the expected value of our bluff will be negative
+0.076 pot sized bets.
+0.076 = (10.538)(1)  (0.538)(1)
+where
+1 is either the pot size or the bet size,
+0.538 is our opponent's calling frequency, and
+1-0.538 is our opponentÅfs folding frequency.
+
+As can be seen, the expected value of a bluff can
+change quite significantly based on removal effects.
+Bluffs with good removal effects have a positive
+expectation while bluffs with bad removal effects
+have a negative expectation. So picking the right
+bluff randomizers is often quite significant as the
+expected value of our first bluff with a beneficiald:\work\kindle\holdem\526.png @@ removal effect was 0.14 pot sized bets greater than
+our second bluff with a detrimental removal effect.
+
+In reality, almost every bluff in our betting or
+raising range should have a beneficial removal
+effect. ThatÅfs because we'll only be able to make a
+few bluffs and remain balanced on the river since
+our value hands are limited. However, there are
+usually many hands in our range with beneficial
+removal effects. As such, our opponent will have
+to make sure heÅfs calling aggressively enough that
+we're required to bluff with the right hands to show
+a profit. In other words, we should lose money
+in most spots unless we bluff with a hand witha
+beneficial removal effect.
+
+LetÅfs examine a couple board textures and discuss
+the type of hands which will have beneficial and
+detrimental removal effects when bluffed. For each
+of these boards, assume we called a cutoff open on
+the button, our opponent bet the flop, turn, and
+river, and we're debating if we should bluff raise.
+Hand No. 1: Flop:Qv8 v4 Åë;Turn:J #; River: K&. Here
+we should not likely bluff raise with missed flush
+draws since these hands likely block many hands in
+our opponent's bet-folding range. This may seem
+counterintuitive at first, especially because, on the
+river, players are often used to bluffing with thed:\work\kindle\holdem\527.png @@ worst hands in their range. But if we have a hand
+like the 7 v 6 v, then our opponent canÅft be bet-
+folding the river with any missed flush draw with
+the 7 or 6v, and this means heÅfs more likely to be
+bet-calling.
+
+If our opponent is betting the river with many
+sets, two pairs, straights, and bluffs, then bluff
+raising a hand like the T&T will likely be best.
+ThatÅfs because tens block half of his ace-ten and
+ten-nine combinations. Additionally, he'll likely
+fold most if not all of his his two pairs to our raise.
+When bluffing in a spot like this, itÅfs important to
+see how many combinations we block in both our
+opponentÅfs value betting and bluffing range as well
+since calling with our bluff catcher may also be
+profitable. But if calling isnÅft particularly profitable,
+then bluffing with a hand which blocks many hands
+in his bet-calling range will be best.
+
+Hand No. 2: Flop: QvJ #5; Turn: 8 Åë; River: 2@.On
+the river, much of our opponentÅfs bet-calling range
+will be flushes. So, in order for bluff raising here to
+be profitable, our hand should block as many flush
+combinations as possible while minimizing how
+many hands we block in his bet-folding range.d:\work\kindle\holdem\528.png @@ ItÅfs not usually possible to block some of our
+opponentÅfs value hands without also blocking some
+bluffs. HereÅfs an example. We decide to bluff raise
+on the river with the A@J @. Notice this hand is
+only a bluff catcher when we call yet it blocks all of
+our opponent's nut flush hands when raised. But
+doing this also blocks some hands in his bet-folding
+range since he could be bet-folding the river with
+ahand like the A&T @. Nevertheless, blocking a
+few of our opponent's bet-folding hands likely isnÅft
+enough to stop AJ @ from being an excellent bluff
+raise.
+
+Lastly, we should avoid bluff raising with hands
+which only block hands in our opponentÅfs bet-
+folding range. For instance, since heÅfs likely bet-
+folding all his pairs of queens which bet the river,
+bluff raising with a queen which blocks no flush
+combinations will have a negative expected value.
+So even if calling with top pair will not be profitable,
+we shouldn't raise since our hand has a detrimental
+
+removal effect.d:\work\kindle\holdem\529.png @@ Turning Made
+
+Hands Into Bluffs
+in Position
+
+Removal effects aside, on the river, weak made
+hands should be turned into bluffs when they are
+our weakest holdings and we want to bet with
+a balanced range. This occurs when the river
+completed most or all of the possible draws in our
+range so we donÅft have many or any missed draws.
+This will usually only occur on the river since
+ranges are both weaker and wider on earlier streets.
+
+ItÅfs important to remember that just because
+checking a made hand on the river is profitable
+doesnÅft mean checking is superior to betting. ThatÅfs
+because bluffing can have an even greater expected
+value.
+
+HereÅfs an example. Suppose we open with the
+
+eg | le &
+RXR hgh
+1% 0%
+ve: d:\work\kindle\holdem\530.png @@ in the cutoff, the big blind 3-bets, and we call.
+Assume the flop is the
+
+and our opponent bets one half the pot and we call.
+Likewise, assume we do the same on the 7 @ turn.
+If the river comes the Jv and our opponent checks,
+then a pair of nines with no kicker is probably the
+worst hand in our range. All of our draws which
+called on the turn will have made either a straight,
+flush, or pair of jacks, and all of our made hands will
+be at least as strong as a pair of tens.
+
+Without any more analysis, itÅfs safe to conclude
+we'll likely want to bluff with the T 49 # since
+itÅfs the weakest hand in our range. While removal
+effects are of course relevant, here itÅfs probably
+most important to check with hands that are more
+likely to win at showdown and bluff with hands
+which win less often. Furthermore, removal effects
+won't likely matter enough to encourage us to
+bluff with a hand which will frequently win after
+checking.d:\work\kindle\holdem\531.png @@ Whether or not bluff jamming is best will depend
+on how often our hand wins after checking back
+the river as well as how often our opponent calls
+our river bet. Remember, since bluffing any two
+cards on the river will be profitable, heÅfs not calling
+enough to prevent us from profitably bluffing any
+two cards. The formulas for the expected value of
+bluff jamming and checking will be as follows.22
+22 The formula for our expected value is slightly
+more complicated if weÅfre not all-in and the
+opponent can check raise as shown previously in
+ÅgPart 11: Value Betting When Raises are Possible,Åh
+starting on page 335
+
+EV of jamming = (pot -size) (opponentÅfs folding frequency ) 
+(bet size) (opponentÅfs calling frequency )
+EV of checking = (pot - size) ( frequency we win after checking)
+
+ItÅfs best to solve both of these equations separately
+and then take whichever line has a higher expected
+value, and this is quite easy to do. But letÅfs doa
+quick example just to make sure weÅfre comfortable
+doing it.
+
+On the river, the pot is 80 big blinds and we have
+60 big blinds remaining. Furthermore, suppose our
+hand wins 20 percent of the time when checked
+back and our opponent only defends against our
+river jam 40 percent of the time. To determined:\work\kindle\holdem\532.png @@ which line is more profitable, letÅfs start with
+determining the expected value of jamming.
+where
+80 is the size of the pot,
+60 is the size of the bet,
+0.60 is the probability that our opponent folds,
+and
+0.40 is the probability that our opponent defends.
+So, the expected value of betting all-in is 24 big
+blinds. LetÅfs compare this with the expected value
+of checking.
+16 = (0.20)(80) +(0.80)(0)
+where
+80 is the size of the pot,
+0.20 is the probability our hand is best,
+0.80 is the probability our opponentÅfs hand is
+best, and
+O is our return when our opponentÅfs hand is best.
+Checking has an expected value of only 16 big
+blinds, so the expected value of betting is 8 big
+blinds greater than checking. Despite having
+showdown value, our hand is weak enough that it
+should be bet as a bluff.
+One final note. Players often try to make turning
+a made hand into a bluff seem more complex or
+impressive than it is. In reality, all weÅfre doing ond:\work\kindle\holdem\533.png @@ the river is bluffing with the worst hand in our
+range as is common in many other spots. It just
+
+so happens that the hand weÅfre bluffing with also
+makes a profitable check, but ultimately, all we care
+about is if betting is more profitable than checking.d:\work\kindle\holdem\534.png @@ Overbetting the River
+
+Although overbetting has already been addressed
+in previous sections, itÅfs worth discussing
+specifically with regards to the river. ThatÅfs because
+overbets work best when our opponent called on
+a wet board texture and the next community card
+was a blank. Furthermore, since there are no streets
+left to act on the river, we have only one round of
+betting left to get all-in. (Remember, when betting
+with a perfectly polarized range itÅfs always best to
+get all-in by showdown.) This usually requires us
+to make a very large river bet when our opponent
+cannot be strong.
+
+Since there are four community cards on the turn,
+there will usually be many draws in each playerÅfs
+range. After all, even if the flop came rainbow,
+the turn will bring a flush draw just under three-
+fourths of the time and some straight draws will
+almost always be possible. So while there are some
+dry turn boards where few or no draws are possible,
+such as thed:\work\kindle\holdem\535.png @@ feel ke
+oÅë + as
+Fa | ke
+a
+
+v: + 3
+
+theyÅfre relatively uncommon.
+
+In addition, recall our betting range gets stronger
+on each street as we bluff less. Usually, we'll check-
+fold our weakest hands on the turn and continue
+to bluff with our better bluffs. As a result, many of
+our turn bluffs will often be flush draws or straight
+draws. This wasnÅft the case on the flop since we
+usually needed many bluffs in our range that we
+regularly bet overcards or hands with 3 to the flush
+and 3 to the straight. But on the turn, bluffs usually
+have more equity and are more likely to make a very
+strong hand on the following street when compared
+to flop bluffs.
+
+When our opponent calls our turn bet, itÅfs
+important to assess how many draws are in our
+range which can outdraw any strong hands our
+
+opponent might have slowplayed. If our ranged:\work\kindle\holdem\536.png @@ includes many draws which can improve to beat
+his best hands, then he won't usually be strong if
+the river card blanks. This makes large overbets
+with nut type hands on the river effective. When
+slowplaying is less risky, heÅfll be more likely to just
+call with a very strong hand and we should consider
+betting smaller.
+
+Here are some board textures and a quick
+description of why our opponent should or
+shouldn't be likely to slowplay a very strong hand
+when facing a bet. To better visualize the hand,
+assume we are in the cutoff against a button cold
+caller and have bet the flop and turn. And when
+he calls our turn bet and the river card blanks, we
+should be willing to overbet accordingly on these
+boards.
+
+Boards which should often be slowplayed: QQ4@7&2Åë,
+A@Aelea4a,andKa9v5@2Åë. Slowplaying
+
+is easy on these boards because there are either
+few or no flush and straight draws possible or our
+opponent can have a full house. In the case of the
+QvQa7#2Åë board, no straight draws or flush
+draws are possible, so our opponent should call
+with his strong hands to encourage us to keep
+bluffing. Likewise, although many gutshots are
+possible on the K#9v5@2Åë board, it stillisnÅftd:\work\kindle\holdem\537.png @@ very risky for our opponent to call with a set and
+encourage us to keep bluffing. And since we wonÅft
+frequently out draw him with hands in our bet-
+folding range, heÅfs better off waiting until the river
+
+to raise his very strong hands.
+
+In the case of the A@A J 4@ board, there
+will often be six combinations of ace-jack in our
+opponentÅfs range on the flop and turn which he
+can comfortably slow play. These hands are not
+vulnerable to being outdrawn by our gutshots and
+flush draws, so our opponent will call with these
+hands and hope we make a straight or flush and lose
+a large pot.
+Boards which should sometimes be slowplayed:
+QuTa7a4Åë,Ka8a2e4ea,andTv9a9u5e.
+There are more possible straight draws and flush
+draws on these boards so our opponent will be
+more reluctant to slowplay a strong hand. Many
+straight draws are possible on the QvTa7#4Åë
+board and flush draws on the Ka@8 &2 Åë4@ board.
+As such, slowplaying will likely be justified only if
+our opponent expects us to occasionally overbet
+the river. This prevents him from having a capped
+range on blank river cards and allows him to wina
+very large pot when we overbet a worse hand.d:\work\kindle\holdem\538.png @@ Although there are many straight and flush draws
+onthe Tv9@9w5Åë board, our opponent flopped
+6 combinations of full houses or four of a kind 
+
+3 combinations of TT, 2 combinations of T9s, and
+1 combination of 99. He should call with these
+hands on the flop and turn to encourage us to keep
+bluffing and keep draws in our range.
+
+Boards which should rarely be slowplayed:
+JvTv6a54,Ta6a3ÅëKe,andQa7a5 aby.
+There are so many possible draws on each of these
+board textures that our opponent takes a huge risk
+whenever he calls with a strong hand. Not only is
+there a good chance heÅfll likely get outdrawn on the
+river, he may also lose value by calling. This means
+that raising on the turn will almost certainly be
+more profitable than calling. Furthermore, since
+there are so many possible draws, most river cards
+will usually put some strong hands in his range.
+
+HereÅfs an example. Our opponent will not likely
+want to slowplay a strong handonaJvTv6a5@
+board since there are so few possible river blanks.
+Additionally, if weÅfre betting a strong hand such as
+the J#T@ on the turn and our opponent has a set of
+sixes, when he slow plays, he may lose action if the
+river card completes many draws. This discourages
+him from slowplaying even if he knows heÅflld:\work\kindle\holdem\539.png @@ sometimes face a very large river bet on a few river
+cards.d:\work\kindle\holdem\540.png @@ Summary
+
+Applying theory to river play is especially exciting
+since little guesswork is often required. With no
+more additional cards to come, itÅfs often possible to
+calculate the expected value of our hand based on
+how much equity it has. Although models are still
+important for visualizing situations, much more
+precise bet sizings and frequencies can usually be
+found.
+
+In order to consider value betting a hand in
+position, our holding must win at showdown once
+called over 50 percent of the time. ItÅfs also common
+to value bet a hand hoping our opponent will fold,
+but we should be careful not to bet too aggressively
+with weaker holdings since betting allows our
+opponent to check-raise. Conversely, since checking
+out of position does not guarantee a showdown, itÅfs
+often best to value bet a hand even if it will lose over
+half the time when called.
+
+A formula can be used to solve for the theoretically
+correct bet sizing if our opponent never bets or
+raises and calls aggressively enough to prevent us
+from being able to profitably bluff. When these
+assumptions are relaxed, the formula still usuallyd:\work\kindle\holdem\541.png @@ provides a good estimate for the best bet sizing
+provided there is adequate stack depth. In addition,
+betting the right size on the river can often have a
+large impact on the expected value of our hand.
+
+Since all bluffs have zero equity when called on
+the river, hands with beneficial removal effects
+should be emphasized. The difference between
+bluffing a hand with beneficial and detrimental
+removal effects is often substantial and shouldnÅft
+be ignored. If our opponent doesnÅft want to allow
+us to be able to profitably bet with any two cards,
+he should call aggressively enough that only bluffs
+with the best removal effects are profitable.
+
+ItÅfs common to overbet on a blank river because
+the turn board texture will usually be coordinated
+enough to deter our opponent from slowplaying a
+strong hand. Furthermore, our turn betting range
+should include fewer bluffs than our flop betting
+range so the quality of our bluffs should be better 
+the worst hands are check-folded. This discourages
+our opponent from slowplaying on many boards
+and allows us to overbet strong hands with little
+fear of losing when the river is a blank.
+
+Here are a few brief descriptions of the most
+important points:d:\work\kindle\holdem\542.png @@ 1. When in position, we should only bet a hand
+for value if we expect to win at least 50 percent
+of the time when called. If our opponent can
+check-raise, weÅfll need to win more than this
+to make up for the fact that he can check-raise
+bluff and make us fold (or call as an underdog).
+
+2. When out of position, we'll often be Ågvalue jam-
+mingÅh the river even though we expect to lose
+the majority of the time when called. Whether
+or not we should jam will depend on the fre-
+quency our opponent has us beat and the pot to
+stack size ratio.
+
+3. When itÅfs theoretically correct to play the same
+hand two different ways, the expected value
+of both lines should be the same. This occurs
+quite frequently, and a player who never slow
+plays a very strong hand will often find heÅfs
+vulnerable to overbets and an equilibrium
+point must be reached.
+
+4. In theory, we should have many bet sizings
+with balanced ranges in most spots. This is
+extremely difficult to do in practice, but a nec-
+essary concept to work on for becoming a great
+
+player. The optimal river bet sizing formulad:\work\kindle\holdem\543.png @@ allows us to bet near the perfect size in many
+situations.
+
+5. River bluffs should be made by hands with
+excellent removal effects, whereas bluffs on
+earlier streets should be made with hands
+which retain their equity.
+
+6. A made hand should only be turned into a bluff
+if itÅfs profitable since checking will usually
+have a positive expected value as well. This
+usually occurs when a draw came on the turn
+or the river and now the weakest hands in our
+range would be made hands.
+
+7. Since ranges are often highly polarized by the
+river, this will frequently be a street where
+players have overbetting ranges. We should
+overbet when our opponent cannot have very
+many strong hands in his range which beat our
+value overbetting hands, and this can be solved
+
+for by the optimal river bet sizing formula.d:\work\kindle\holdem\544.png @@ Part Twelve
+
+Multiway Potsd:\work\kindle\holdem\545.png @@ Multiway Pots
+
+Introduction
+
+Similar to the way 3-bet pots arenÅft more difficult
+to play than single raised pots, multiway pots arenÅft
+more difficult to play than heads up pots. Players
+often find them more troublesome only because
+they learn through a trial and error approach and
+in online games most hands are played heads up to
+the flop. Nevertheless, since we now have a strong
+understanding of theoretical poker, itÅfs unnecessary
+to play millions of hands before feeling comfortable
+with how to play against multiple opponents.
+
+In many ways, multiway pots are actually easier
+to play than heads up pots since players need to
+defend a smaller fraction of their range when facing
+a bet. More specifically, we wonÅft usually need to
+defend weak hands which are often difficult to play
+as was often the case for heads up pots. However,
+itÅfs worth briefly discussing multiway pots since
+they occur reasonably often and the pot size is
+
+larger, so mistakes are costly.d:\work\kindle\holdem\546.png @@ Although we'll focus on the theory of multiway
+pots, itÅfs important to note that when several
+players see a flop, a weak player will commonly be
+involved. ThatÅfs because weak players usually like
+to call preflop and see many flops and good players
+will play more loosely to try to stack the fish. So
+while we'll mostly focus on how to play in multiway
+pots against strong opponents, always remember
+theory is also a useful tool for exploiting weak
+players and taking their stack before someone else
+can.d:\work\kindle\holdem\547.png @@ Hand Strength
+on the Flop
+
+Just as was the case for heads up single raised pots,
+an out of position bettor should not usually be
+allowed to profitably bet any two cards. However,
+since there is more than one player who can defend
+against a bet, each active player needs to defend
+only a fraction of his range to prevent the bettor
+from making an immediate profit on his bluffs. This
+ultimately results in players seeing the turn with
+stronger ranges than they otherwise would.
+
+How much each player should defend depends
+on their range and position. Put differently, each
+player wonÅft defend the same percentage of hands
+when facing a bet. However, we can get a general
+idea of how aggressively each player must defend
+by assuming they each defend the same percentage
+of hands in a combined effort to prevent the bettor
+from profitably betting any two cards.
+
+LetÅfs suppose the player out of position bets 75
+percent of the pot on the flop and the remaining
+players combined will defend aggressively enough
+so this flop bet only succeeds 40 percent of thed:\work\kindle\holdem\548.png @@ time. In other words, the remaining players must
+defend 60 percent of the time combined against
+the flop bet. Remember, when figuring out how
+often each player needs to defend in a situation like
+this, itÅfs not as simple as taking the total defending
+frequency (in this case 60 percent) and dividing by
+the number of players remaining. ThatÅfs because
+sometimes multiple players will have a hand strong
+enough to defend. Instead, we must calculate how
+often each player must fold so the bettor wins 40
+percent of the time and from there figure out how
+often each player needs to defend.
+
+Given the previous assumptions, if there are three
+players on the flop (so two players can defend
+against the bet), then each player would fold 63.2
+percent of their flopping range.
+
+X?=04>
+X = 0.632
+Since each player can fold 63.2 percent of the time,
+
+they must defend at least 36.8 percent of the time.
+0.386 =10.632
+
+This same methodology can be used to determine
+how often each player must defend given how
+many players saw the flop. Again, this method
+assumes every player defends the same percentaged:\work\kindle\holdem\549.png @@ of hands and believes all players combined should
+defend 60 percent of the time.
+
+PlayersOn | Folding Frequency Defending
+The Flop (%) Frequency (%)
+2 40 60
+3 63.2 36.8
+4 73.7 26.3
+5 79.6 20.4
+6 83.2 16.7
+
+Notice how drastically each playerÅfs range changes
+as more players see the flop. If the flop is heads up,
+the defending player should defend 60 percent of
+his range. But if there are four players on the flop,
+each player should defend only 26.3 percent of
+the time. So given the above assumptions, if four
+players see the flop, theyÅfll defend less than half as
+many hands as they would when heads up.
+
+In general, most players significantly
+underestimate how much stronger a hand should
+be to bet, call, or raise when multiway. Top pair
+hands and even overpairs will regularly not be
+strong enough to bet or raise on many board
+textures where three or more players see the flop.
+Furthermore, weak players often use close to thed:\work\kindle\holdem\550.png @@ same range regardless of how many opponents they
+are facing. This is a huge leak which results in them
+going to showdown with hands that are too weak.
+
+ItÅfs worth noting that although itÅfs unlikely flops
+will be seen by five or more theoretically sound
+players, in a live setting itÅfs amore common
+occurrence that pots will include many players.
+ThatÅfs because live play is usually full ring where
+more players have the option to see the flop and live
+players are often too loose preflop. One reason why
+otherwise overly tight players, (assuming the rake
+isnÅft too high relative to the stakes), can still do well
+in games against soft opponents even if they have a
+very limited understanding of poker. And this also
+means that calling with speculative hands hoping
+to flop either a set or draw is a strong play against
+weak opponents who will regularly invest too much
+money in the pot with top pair.

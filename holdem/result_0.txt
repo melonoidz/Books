@@ -1,0 +1,1131 @@
+d:\work\kindle\holdem\001.png @@ d:\work\kindle\holdem\002.png @@ Applications of No-
+Limit HoldÅfem
+
+A Guide to Understanding
+Theoretical Sound Poker
+
+By
+\
+MATTHEW JANDA
+
+A product of
+
+Two Plus Two Publishing LLC
+
+Rg Sh vw y
+<e =
+: *; aa
+FIRST EDITION
+FIRST PRINTING
+May 2013
+
+Printing and Binding
+
+Creel Printers, Inc.d:\work\kindle\holdem\003.png @@ Las Vegas, Nevada
+
+Printed in the United States of Americad:\work\kindle\holdem\004.png @@ Applications of No-
+Limit HoldÅfem
+
+A Guide to Understanding
+Theoretically Sound Poker
+
+COPYRIGHT  2013 Two
+Plus Two Publishing LLC
+
+All rights reserved. Printed in the United States of
+America.
+No part of this book may be reproduced or
+transmitted in any form, by any means, electronic
+or mechanical, including photocopying and
+recording, or by any information storage or
+retrieval system without the express permission in
+writing from the publisher.
+
+For information contact:
+
+Two Plus Two Publishing LLC
+32 Commerce Center Drive
+Suite H-89
+
+Henderson, NV 89014d:\work\kindle\holdem\005.png @@ ISBN: 1-880685-55-8
+
+ISBN13: 978-1-880685-55-6d:\work\kindle\holdem\006.png @@ Table of Contents
+
+1. About Matthew Janda
+
+2. Acknowledgements
+3. A Cautionary Note About ÅgBluff CatchingÅh
+
+4. Introduction
+5. Part One: The Basics
+1. Introduction
+
+2. Calculating Pot Odds
+3. Understanding Equity
+1. Retaining Equity Against Strong
+Ranges
+2. ÅgHand SignalingÅh To See Additional
+Cards
+3. Hand Equity Distribution on Different
+
+Board Textures
+
+4. Comparing Equity To Expected Value
+
+5. Hands Cannot Simply Be Ranked From
+
+Strongest To Weakest
+6. Understanding Polarized and Condensed
+
+Ranges
+7. Making Our Opponent Indifferent to
+
+Calling on the Riverd:\work\kindle\holdem\007.png @@ 8. The Grey Area Between Value Betting and
+
+Bluffing
+9. Making Our Opponent Indifferent to
+
+Bluffing
+
+10. An Optimal Player Always Takes the Most
++EV Line
+
+11. Large Bets Make Our Opponent Put More
+
+Money Into the Pot
+12. The Value of Position
+13. Summary
+
+6. Part Two: Preflop Play
+1. Introduction
+
+2. Preflop 3-Betting, 4-Betting, and 5-Betting
+Frequencies
+3. Preflop Raise First In Ranges
+
+4. Maximum 3-Betting Ranges
+5. The Expected Value of 4-Betting or Folding
+
+Against Opponents Who Don't Flat 4-Bets
+
+6. Flatting 3-Bets and 4-Bets
+7. Examining Complex Ranges  Defending
+
+Enough Against Opens
+8. Examining Complex Ranges  Designing
+
+Defending Ranges To Maximizing EV
+
+9. Examining Complex Ranges  Balanced:\work\kindle\holdem\008.png @@ 10. Examining Complex Ranges  Board
+
+Texture Frequencies
+
+11. Understanding Complex Ranges 
+
+Defending Enough Against 3-Bets
+
+12. Understanding Complex Ranges 
+
+Defending Against 4-Bets
+
+13. Recommended Hand Chart
+
+14. Summary
+7. Part Three: Post-flop Bet Sizing
+
+1.
+2.
+3.
+
+Introduction
+
+Post-flop Bet Sizing at a Glance
+Summary
+
+8. Part Four Facing a Flop Bet in Position
+
+1.
+2.
+3.
+
+wo onan
+
+Introduction
+
+Defending by Calling
+Defending by Raising The Value to Bluff
+
+Raising Ratio on the Flop
+
+. Increased Complications in the Bluffing to
+
+Value Raising Ratio
+
+. Required Hand Strength to Value Raise a
+
+Made Hand
+
+. Delaying a Raise on a Dry Board
+
+. Delaying a Raise on a Wet Flop
+
+. Facing a Flop 3-Bet
+. Defending by Both Calling and Raisingd:\work\kindle\holdem\009.png @@ 10. Example of Balancing a Defending Range
+
+on the Flop
+11. Summary
+
+9. Part Five: Whether to Bet or Check in Position
+
+1. Introduction
+2. The Value Betting to Bluffing Ratio for 3
+Streets of Value
+3. The Value Betting to Bluffing Ratio for Less
+than 3 Streets of Value
+4. Required Hand Strength to Value Bet the
+Flop
+. Deciding Which Streets to Value Bet
+. Bluffing with the Right Hands on the Flop
+. Checking Back with a Strong Hand
+. Facing a Flop Check-Raise
+. Thought Process for Deciding Whether to
+Bet or Check in Position
+
+ ONAUN
+
+10. Example of Balancing a Flop Bet in Position
+
+11. Summary
+
+10. Part Six: Out of Position Flop Play
+
+1. Introduction
+2. The Mental Block of Betting as the Preflop
+
+Raiser
+
+1. Flop Range Analysisd:\work\kindle\holdem\010.png @@ 3. Assessing How Valuable Position is on the
+
+Flop
+4. The Out of Position Value Betting to
+
+Bluffing Ratio
+5. When Should Betting with Any Two
+Cards be Profitable?
+6. How Profitable Should Our OpponentÅfs
+Bluffs Be in Position on the Flop?
+7. Whether to Bet or Check Very Strong
+Hands on the Flop When Out of Position
+8. Deciding Whether to Check-Call or
+Check-Raise
+9. The Difficulties of Check-Raising Certain
+Flop Textures
+10. The Difficulties of Check-Calling
+Vulnerable Hands
+11. Donk Betting from the Blinds
+12. Understanding the Major Parameters of
+Flop Play
+13. Example of Balancing a Range Out of
+Position on the Flop
+
+14. Summary
+11. Part Seven: 3-Bet Pots on the Flop
+
+1. Introduction
+
+2. Bet Sizing as the 3-Bettord:\work\kindle\holdem\011.png @@ 3. Defending Against Flop Bets in 3-Bet Pots
+by Calling
+
+4. Defending Against Flop Bets in 3-Bet Pots
+by Raising
+
+5. Facing a Flop Check as the Cold Caller in
+Position
+
+6. Summary
+12. Part Eight: Playing the Turn in Position
+
+1. Introduction
+2. Raising a Turn Bet After Calling the Flop
+3. Raising a Turn Bet After the Flop was
+Checked Through
+4. Putting Hands in the Right Ranges on the
+Turn in Position
+1. Facing a Turn Bet After Calling the
+
+Flop
+2. Facing a Turn Check After Calling the
+
+Flop
+
+3. Facing a Turn Check as the Flop
+Bettor
+
+4. Facing a Turn Check After Checking
+Back the Flop
+
+5. Facing a Turn Bet After Calling a Flop
+Check-Raised:\work\kindle\holdem\012.png @@ 6. Facing a Turn Check After Calling a
+
+Flop Check-Raise
+5. Example of Balancing a Defending Range
+
+onthe Turn
+
+6. Summary
+13. Part Nine: Playing the Turn Out of Position
+
+1. Introduction
+2. Playing the Turn as the Flop Bettor
+
+3. Playing Draws Out of Position on the
+
+Turn
+4. Playing the Turn After Betting the Flop
+1. Following a Flop Bet by Betting the
+
+Turn
+2. Following a Flop Bet by Check-
+
+Calling the Turn
+3. Following a Flop Bet by Check-
+
+Raising the Turn
+5. Playing the Turn After Check-Calling the
+
+Flop
+1. Following a Flop Check-Call by
+
+Check-Calling the Turn
+2. Following a Flop Check-Call by
+
+Check-Raising the Turn
+3. Following a Flop Check-Call by Donk
+
+Betting the Turnd:\work\kindle\holdem\013.png @@ 6. Summary
+14, Part Ten: 3-Bet Pots on the Turn
+
+1. Introduction
+
+2. Double Barreling in a 3-Bet Pot
+
+3. Playing the Turn Out of Position After the
+
+Flop Checks Through
+4. Facing a Turn Bet in Position After
+
+Calling a Flop Bet
+
+5. Facing a Turn Check in Position After
+Calling a Flop Bet
+
+6. Summary
+
+15. Part Eleven: River Play
+1. Introduction
+
+2. Comparing In Position and Out of
+Position River Jams
+
+3. Value Betting When Raises are Possible
+
+4. Pinpointing the Optimal River Bet Size
+
+5. Utilizing Removal Effects
+6. Turning Made Hands Into Bluffs in
+
+Position
+7. Overbetting the River
+8. Summary
+16. Part Twelve: Multiway Pots
+
+1. Introduction
+
+2. Hand Strength on the Flopd:\work\kindle\holdem\014.png @@ 3. Bluff Catchers in Multiway Pots
+
+4. Speculative Preflop Hands
+5. Deciding Who is Responsible for
+
+Defending
+6. Summa:
+17. Part Thirteen: Shallow and Deep Stack Play
+
+1. Introduction
+
+2. Flop Value Betting Frequencies with a
+
+Perfectly Polarized Range
+3. Shallow Stack Play at a Glance
+4. Deep Stack Play at a Glance
+
+5. Summary
+18. Part Fourteen: Advanced Bet Sizing
+
+1. Introduction
+2. Using Bet Sizing to Check for
+
+Contradicting Thoughts
+3. Bet Sizing Examples
+
+4. Summary
+19. Part Fifteen: Applying Theory to Analyze
+
+Hands
+1. Introduction
+2. Facing Bets in Position Revisted
+3. Betting When Out of Position Revisted
+
+4, Summary
+20. Part Sixteen: Sample Handsd:\work\kindle\holdem\015.png @@ 1. Introduction
+2. Sample Hands
+21. Conclusion
+22. Indexd:\work\kindle\holdem\016.png @@ About Matthew Janda
+
+Matthew Janda has had an interest in card games
+his entire life, and began playing poker with friends
+in high school before playing online cash games
+in college. While originally studying business
+economics at UCLA, a game theory course sparked
+his interest in poker theory and optimal play.
+
+Currently, Matthew continues to make poker
+training videos for CardRunners and all of his
+videos are theory based and designed to teach
+players the math necessary for improving their
+play without going into unnecessary or impractical
+details. HeÅfs never been one to discuss what line is
+best with a specific hand, but rather uses computer
+programs to display what action he thinks is best
+with each hand in his entire range.
+
+Matthew is applying for medical school in 2013
+and hopes to be a physician one day. HeÅfs currently
+finishing up his required science classes and
+volunteering, but poker remains his favorite hobby.d:\work\kindle\holdem\017.png @@ Acknowledgements
+
+Perhaps the most rewarding aspect of playing
+poker was all the amazing people I got to know
+over the last several years, many of whom deserve
+recognition for making this book possible. Their
+input and encouragement allowed me to continue
+forward even at times when it appeared the project
+was beyond my abilities. While there are far too
+many to name, Jaime Kaplan, Matt Groves, Nick
+Hall, Roy Bhasin, Michael Marinakis, and Nick
+Howard have all been especially important to
+me over my poker career. Additionally, without
+the help of Johannes Nowak in the early stages
+of this book, IÅfm nearly positive it would not be
+produced in its current form. And lastly, IÅfve been
+very fortunate to have the opportunity to discuss
+poker with Ben Sulsky, as few players will ever
+understand the game as well as he does, much
+less be able to implement complex strategies so
+effectively.
+
+TÅfve also been extremely lucky to have the support
+of the staff and community at CardRunners. Their
+positive response to my poker theory videos is
+ultimately what inspired me to undertake suchd:\work\kindle\holdem\018.png @@ a large project, and without their consistent
+enthusiasm, itÅfs likely I would have given up at
+some point.
+
+Additionally, IÅfd like to thank Mason Malmuth
+and David Sklansky of Two Plus Two Publishing
+LLC. Creating this book from the initial manuscript
+required a tremendous amount of work from
+Mason, and his professionalism and work ethic
+were crucial in allowing us to complete the project
+ina timely manner. Plus, DavidÅfs comments and
+insights into advanced aspects of poker proved
+invaluable. ItÅfs been a pleasure working with both
+of them, and thanks to their help, IÅfve improved
+tremendously as a writer. And after working with
+Two Plus Two, I canÅft imagine working with any
+other publishing company.
+
+The fantastic cover illustration, which I feel does
+a great job capturing the essence of the content in
+this book, is the work of Russell Acton who won the
+Cover Design Contest on wwwÅftwoplustwo.com
+and who posts as Ågninetynine99.Åh I also need to
+thank Gary Alstatt of Creel Printing for additional
+graphics throughout the book.
+
+The program Flopzilla was especially useful for
+analyzing hand examples, so IÅfd like to thank Scyllad:\work\kindle\holdem\019.png @@ for creating this excellent program. It can be found
+at www.flopzilla.com.
+
+For the index, I need to thank Carol Roberts of
+Roberts Indexing Services. Her website is located at
+www.RobertsIndexing.com.
+
+Lastly, I'd like to thank my friends and family,
+especially my parents, who always encouraged me
+to pursue my goals. ItÅfs much easier to complete
+a large project with the support of those you care
+most about.d:\work\kindle\holdem\020.png @@ A Cautionary Note
+
+About ÅgBluff CatchingÅh
+
+by Mason Malmuth and David Sklansky
+
+Because we at Two Plus Two know that many of
+the readers of this book are presently intermediate
+players who play against non-experts, we felt that it
+was necessary to add an important point regarding
+this advanced text.
+
+One of the main aspects of Game Theory Optimal
+Play that Matthew Janda emphasizes is that you
+should usually strive to stop your opponent from
+showing a profit if he were to bet all of his hands.
+From this axiom, he derives many of his strategies.
+
+To keep an opponent from gaining from constantly
+bluffing profitably you need to make a lot of calls
+with mediocre hands. That is, hands which are only
+bluff catchers since they wonÅft beat a legitimate bet.
+
+Our concern is that those of you who are not
+playing against experts may not realize that the
+calling strategy that Janda assumes may be too
+loose for your game. For instance, if your opponent
+bets the pot, you should theoretically call withd:\work\kindle\holdem\021.png @@ about half your hands which usually include many
+weaker ones.
+
+Janda mentions a few theoretical exceptions. But
+the biggest exception occurs in games that Janda
+doesnÅft usually address. Namely games when you
+are playing against players who are very tight or
+very timid. So if your opponent bets the pot ina
+situation where, even before he bet, you thought he
+was a big favorite to have a monster, bluff catching
+calls will just lose money. Similarly, if you are
+against someone who will often be beaten, it makes
+no difference if you know he almost never bluffs.
+Hence, if he bets, you should almost always fold.
+(Well, probably not always since that may ÅgteachÅh
+him to change his ways.)d:\work\kindle\holdem\022.png @@ Introduction
+
+This book is designed to develop and explain
+the math and theory behind no-limit Texas hold
+Åfem with extra emphasis placed on how the game
+should be played against Ågperfect,Åh or theoretically
+optimal, opponents. It will show how many
+winning players approach the game and with talent
+and hard work, give the tools needed to continue to
+develop as a player.
+
+Many of the concepts in this book have been largely
+ignored by the poker community, and the few
+players who understand them usually like to keep
+this information private. On the other hand, many
+winning players are not even aware these concepts
+exist since they are not required to beat strong
+opponents. However, difficult concepts shouldnÅft
+be ignored if your goal is to slowly tune your game
+closer to Åggame theoretically optimalÅh with the
+purpose of moving up in stakes and beating other
+strong players. While itÅfs true no-limit hold Åfem is
+far from a ÅgsolvedÅh game, players who understand
+theory well will usually be the players best able to
+recognize and exploit their opponentÅfs mistakesd:\work\kindle\holdem\023.png @@ and make sure their opponents are not able to easily
+exploit them.
+
+The theory and hand examples all focus on 6-
+max. This game is my specialty where IÅfve played
+almost all of my hands. Nevertheless, nearly all the
+concepts discussed will be transferable to 9-max
+and heads-up games. The majority of the theory
+will even be useful in other poker games such as
+Omaha.
+
+Note that some important poker concepts have
+been left out of this book, or are only mentioned
+briefly. Life and bankroll management skills, tilt
+control, and understanding how to implement
+reads are all-important skills every great poker
+player needs. But these topics have already been
+discussed numerous times elsewhere in great
+detail.
+
+Therefore, my goal is to present theoretical
+concepts as clearly as possible, and for your
+learning not to be encumbered by unnecessary
+mathematics and terminology. To assist in
+accomplishing this, I will frequently be using the
+pronoun Ågwe.Åh There are two main reasons. First,
+it helps get us in the right mind set. We're on the
+same team with the same goal; to greatly increase
+your understanding of poker theory and make youd:\work\kindle\holdem\024.png @@ a better poker player. Second, itÅfs often simply too
+difficult to try to analyze hands and concepts in
+poker using multiple perspectives at once. So by
+using the pronoun at the beginning of a sentence or
+paragraph, you'll know right at the beginning from
+which perspective weÅfre analyzing the hand.
+
+Lastly, please note the book is divided into 16
+sections: theory intensive content and hand
+examples. The theory intensive content is the larger
+portion of the book and presents the necessary
+information for balancing hand ranges and bet
+sizes. The hand example section of the book puts
+the theory into practice and shows how players
+attempting to play close to optimal will balance
+
+their ranges.d:\work\kindle\holdem\025.png @@ Part One
+
+The Basicsd:\work\kindle\holdem\026.png @@ The Basics
+
+Introduction
+
+One of the difficulties with discussing poker
+theory is itÅfs not usually possible to talk about
+single concepts in isolation. For instance, itÅfs
+impossible to adequately discuss flop play without
+also understanding river play, and itÅfs difficult
+to comprehend why position is so advantageous
+without a solid fundamental understanding of how
+equity works. This makes approaching poker theory
+for the first time feel somewhat daunting.
+
+This section is designed to quickly introduce many
+important theoretical concepts before discussing
+them in detail. The goal is not to make sure all of
+these concepts are fully understood, but rather
+make them somewhat familiar so they can be
+explained mathematically and showcased with
+examples in future sections.
+
+If you're already a winning no-limit holdÅfem
+player who understands theory reasonably well,
+feel free to skim over or skip some of what follows.
+However, make sure you have at least somed:\work\kindle\holdem\027.png @@ understanding of every concept in this section
+before moving on.d:\work\kindle\holdem\028.png @@ Calculating Pot Odds
+
+Pot odds are the ratio of the current size of the pot
+to the cost of a potential call. If, on the river, a player
+bets $30 into a $50 pot, the potential caller will be
+risking $30 to win $80 and is said to be getting pot
+odds of $80-to-$30 or 8-to-3. And for his call to be
+profitable, he must win at least 27.3 percent of the
+time.
+
+3
+843
+
+When a player bluffs, he risks however much he
+
+0.273
+
+bets to try to win all the money in the pot. So ifon
+the river, the pot is $50 anda player makes a river
+bluff for $30, he risks $30 to try to win $50. This
+produces pot odds of $50-to-$30 or 5-to-3, and
+for his bluff to be profitable, his bluff needs to be
+
+successful at least 37.5 percent of the time.
+3
+
+S43
+
+0.375 =d:\work\kindle\holdem\029.png @@ Understanding Equity
+
+Equity represents the odds that a hand will win
+
+D
+
+after the river card is dealt against the opponentÅfs
+hand or range. It also takes into account that the
+pot will sometimes be split. In addition, itÅfs also
+important to note that because a hand has more
+equity than another hand, it does not make it a
+better and more profitable hand.
+
+HereÅfs an example. A reasonable opponent opens in
+middle position and itÅfs folded to us on the button.
+
+We would rather call with the
+
+than the
+
+despite the former having less equity. To
+understand why, we will discuss the key qualities
+we look for when deciding whether or not to play a
+hand other than simply the handÅfs total equity.d:\work\kindle\holdem\030.png @@ Retaining Equity
+
+Against Strong Ranges
+
+We want to emphasize playing hands which have
+a high amount of equity against our opponentÅfs
+betting and calling range. Hands which only have
+a high amount of equity against those hands our
+opponent will frequently fold by the river are much
+less useful. Unfortunately, simply looking at the
+equity of a hand against a range using computer
+software will not take this key difference into
+account.
+
+For instance, one of the reasons why ace-nine
+offsuit is a poor call on the button against a middle
+position open is because it has so much equity
+against the opponent's check-folding range.
+Specifically, ace high with no kicker is usually too
+weak to be checked on all three streets to try to
+win at showdown, but when we do bet the hand,
+its equity is never realized since all worse hands in
+our opponent's range should fold. In addition, on
+the flop, ace-nine offsuit will almost never beat any
+
+D
+
+hands in the opponentÅfs value betting range and itÅfs
+unlikely to improve when behind. And lastly, when
+
+we do have a pair and our opponent does check, itÅfsd:\work\kindle\holdem\031.png @@ unlikely heÅfll be check-calling multiple streets with
+worse.
+
+On the other hand, consider nine-eight suited.
+While itÅfs unlikely nine-eight suited will flop a hand
+which beats strong hands our opponent will value
+bet on the flop, it will however often flop a flush
+draw, straight draw, or a pair with five outs. These
+draws all have the potential to become strong hands
+which can beat hands in our opponentÅfs value
+betting or check-calling range.
+
+In addition, nine-eight suited also utilizes its
+equity efficiently when it flops a draw but does not
+make a strong hand. We can semi-bluff on the turn
+or river if our opponent checks and we donÅft have
+a pair, and if he does check-call our turn bet, our
+draw outs will almost certainly be live. Therefore,
+notice that suited connectors are usually profitable
+holdings since when they do make the best hand,
+theyÅfll usually be strong enough to beat hands in
+our opponent's value betting and check-calling
+range. In addition, when they donÅft make strong
+hands and are instead used as bluffs, they will
+almost always make our opponent fold better hands
+so little equity is wasted.d:\work\kindle\holdem\032.png @@ ÅgHand SignalingÅh
+
+To See Additional Cards
+
+ÅgHand signalingÅh occurs when our hand tells us
+whether or not we should try to see additional cards
+to make the best hand by the river. For instance,
+after seeing a flop with a suited connector, we'll
+almost always know exactly what we need in order
+to make the best hand, and weÅfll usually want to
+see a turn card if we flop a pair, straight draw, flush
+draw, or three to a flush and three to a straight.
+Since we only fold suited connectors on the flop and
+turn if our hand has little equity, if we donÅft see a
+river card, itÅfs unlikely we would have outdrawn our
+opponent on the river anyway. !
+
+1 Of course, this assumes a normal size bet with additional chips still
+in play.
+
+Other hands do not allow us to effectively call on
+the flop and give ourselves a chance to outdraw our
+opponent. This occurs frequently with weak pocket
+pairs. If he bets, we'll usually have to fold since our
+pair only beats bluffs and doesnÅft have enough outs
+to justify a call. Consequently, despite the fact that
+pocket pairs on the flop will improve to sets by the
+river about 10 percent of the time, itÅfs not enoughd:\work\kindle\holdem\033.png @@ equity to make us want to invest additional chips to
+see if we hit our set.
+
+HereÅfs an example. We call on the button a middle
+position opener and the flop comes the
+
+Te. pl] }
+thie FY
+ats v
+Åevv as
+
+While both the 6 Åë 6 @ and the 9 v8 whave around
+10 percent equity against a top pair hand, calling
+with nine-eight suited is a much stronger play than
+calling with sixes. ThatÅfs because when we hold the
+98 vthere are twenty-two cards in the deck which
+will give us a straight draw, flush draw, or pair with
+five outs. If the turn is one of these twenty-two
+cards, as it will be 46.8 percent of the time, we can
+call again and hope to make the best hand on the
+river (and sometimes bluff if we donÅft improve and
+our opponent checks to us).
+
+While we may get lucky immediately on the turn
+with sixes, if we do not immediately hit our set, we
+are usually going to have to fold to a bet. This means
+even if the river card would come a six, we will not
+end up seeing it and winning a large pot. So despite
+having the same amount of equity as the6#6@d:\work\kindle\holdem\034.png @@ on the flop, the 9 v 8 w will be able to call a turn bet
+when it can outdraw our opponent on the river and
+is thus the superior hand.
+
+Hand Equity Distribution
+
+on Different Board Textures
+
+As we'll see in future chapters, hands which flop
+or turn either a lot or a small amount of equity
+are better than hands which always flop or turna
+medium amount of equity. In other words, a hand
+which has 100 percent equity on the flop one-third
+of the time and 0 percent equity two-thirds of the
+time is better than a hand which always has 33.3
+percent equity (on the flop). Notice that despite
+both hands having the same average amount of
+equity, itÅfs much easier to realize the equity of
+strong hands than it is to realize the equity of
+marginal hands.
+
+HereÅfs an example. On the flop, our opponent goes
+all in for a $100 bet into a $50 pot and our hand has
+33.3 percent equity, we should fold since 40 percent
+
+equity is needed to profitably call.
+$100
+
+0.40 = __
+$150 +$100d:\work\kindle\holdem\035.png @@ But we will never run into the problem of having
+to fold a high equity hand when our range consists
+only of hands which are the pure nuts or pure air.
+This concept will prove especially important when
+we discuss turn play in 3-bet pots where we often
+have a difficult time effectively playing hands with
+20 to 25 percent equity.d:\work\kindle\holdem\036.png @@ Comparing
+
+Equity To Expected
+Value
+
+Throughout this book, we'll be using both the
+terms expected value (EV), sometimes written
+as expectation, and equity. Oftentimes players
+get these two concepts confused, and while
+we should keep in mind that they are related,
+expected value and equity are not interchangeable.
+Specifically, expected value of a hand tells us how
+much we expect to win on average and considers
+all the money previously invested in the pot as
+dead money. This means folding at the point of
+calculation always has an expectation of zero
+regardless of whether we lose money overall on the
+hand.
+
+In addition, expected value is not solved for by
+taking the equity of a hand and multiplying it
+by the size of the pot unless every player in the
+hand is all in. For instance, suppose we flop a set
+in an 8 big blind pot and the hand has 90 percentd:\work\kindle\holdem\037.png @@ equity against our opponentÅfs flopping range.
+Inexperienced players may incorrectly assume the
+expected value of the hand is 7.2 big blinds.
+
+7.2 = (0.90)(8)
+
+However, this is not true since this formula
+does not solve for the expected value of the hand
+unless both players are already all in. In fact, the
+expectation of this hand will be higher than 7.2 big
+blinds since weÅfll usually bet or raise and hope our
+opponent decides to continue putting more money
+into the pot.
+
+So in conclusion, despite being unable to convert
+equity directly into expected value, a clear
+correlation between expected value and equity
+exists. And we will regularly look at the equity of
+our hands to figure out which ones should be used
+as calls, value raises, bluff raises, and folds since we
+won't be able to solve directly for the expectation
+since we canÅft predict with certainty the betting
+action for the rest of the hand.d:\work\kindle\holdem\038.png @@ Hands Cannot
+Simply Be Ranked
+
+From Strongest
+To Weakest
+
+Since having more equity does not necessarily
+make a hand better, hands cannot be ranked from
+strongest to weakest. This means that different
+types of holdings will be useful indifferent spots
+and we must not get in the habit of thinking
+some hands are always better than others. This
+is especially true preflop since a slight change in
+stack depth or position can significantly impact the
+expected value of a hand.
+
+For instance, against a button opener who has a
+wide range, a hand like king-ten offsuit will work
+much better as a call from the big blind than a
+hand like seven-five suited. ThatÅfs because cold
+calling with king-ten offsuit keeps the buttonÅfs
+weaker kings and tens in his range while 3-bettingd:\work\kindle\holdem\039.png @@ would make most of them fold. Since the buttonÅfs
+opening range is so wide, we do not need to make an
+extremely strong hand by the river to usually have
+the best hand and win a reasonable sized pot. But
+seven-five suited plays less effectively as a call since
+it will more often flop the second best pair which
+includes making the same pair but with a weaker
+kicker.
+
+On the other hand, seven-five suited will play
+much better in a 3-bet pot than king-ten offsuit.
+Here, stronger hands are required to win at
+showdown than in raised only pots, and seven-five
+suited has the potential to make more very strong
+hands than king-ten offsuit. In addition, this allows
+us to double barrel semi-bluff the turn effectively
+when we hold a straight or a flush draw since if
+we hit our draw, we will almost always make the
+best hand. Finally, there is the problem that 3 bets
+preflop greatly increases the chances that king-ten
+is ÅgdominatedÅh (by KK, TT, AK, AT, KQ, or KJ).
+
+We must remember that some hands will play
+better as calls and others will play better as semi-
+bluff raises, and our job as a strong theoretical
+player will be to put hands into the right ranges
+against tough opponents. Unfortunately, there is
+no simple formula for deciding which hands god:\work\kindle\holdem\040.png @@ into what ranges, so we must understand no-limit
+theory well to accomplish this task.d:\work\kindle\holdem\041.png @@ Understanding
+Polarized
+
+and Condensed Ranges
+
+Arange is considered to be a Ågpolarized rangeÅh
+when it consists of mostly strong and weak hands
+and has few or no medium strength hands. This
+occurs in many spots such as 3-betting ranges
+preflop and flop raising ranges, but itÅfs most clearly
+illustrated on the river. When a player bets on
+the end heÅfs usually doing it either with a bluff to
+make stronger hands fold or with a strong hand
+to get value from weaker hands, since it doesnÅft
+make sense to bet medium strength hands if the
+opponent only calls when you are beaten.
+
+HereÅfs an example. A player opens in the
+cutoff and the button calls. The flop is the
+
+Kaey)| taal b&wd:\work\kindle\holdem\042.png @@ the turn is the 7 w, and the river is the J Åë. If the
+cutoff bet on the flop and the turn, we would
+expect him to continue betting on the river with
+strong hands like ace-king and better for value
+and occasionally with weak hands such as missed
+draws as a bluff. But we would not expect him to
+bet a hand like the QvJ v since betting is unlikely
+to attract a call from a weaker hand or get a better
+hand to fold.
+
+The opposite of a polarized range is a Ågdepolarized
+rangeÅh which we will refer to as a Ågcondensed
+range.Åh This is a range that consists mostly of
+medium strength hands and has few or no strong or
+weak hands. A player will usually have a condensed
+range after calling or checking several times on a
+board texture where giving additional cards with
+strong hands is risky.
+
+HereÅfs an example. A player check-calls on the
+QvuTv4@ flop and check-calls again whena7@
+comes on the turn. We would expect this check-
+calling range to include few or no strong hands
+since most of them would raise on either the flop
+or turn. Likewise, we would also expect this range
+to include few or no weak hands since most weak
+hands would fold on either the flop or the turn. So
+as long as the river card does not cause many handsd:\work\kindle\holdem\043.png @@ in the check-calling range to improve, the range
+should remain condensed on the river.
+
+ItÅfs worth noting that a polarized range of strong
+and weak hands is usually quite profitable and
+easy to play. Yet if our strategy is to always raise
+our strong and weak hands, when we donÅft raise
+we're left with a condensed calling range which is
+usually quite problematic. That is, our opponents
+can effectively make large bets when they know our
+range is condensed since their value hands cannot
+be beat. Therefore, we will sometimes need to
+slowplay strong hands against skilled opponents to
+prevent them from being able to overbet against us
+effectively.
+
+Lastly, ranges do not have to be polarized or
+condensed. This often occurs on the flop in raised
+pots when both players have wide ranges and the
+flop texture changed the strength of many hands
+which were called or raised preflop. For example, a
+bet in position on the Tv 844 flop will usually
+consist of strong made hands, medium strength
+made hands, draws, and bluffs, and itÅfs neither a
+
+polarized or condensed range.d:\work\kindle\holdem\044.png @@ Making Our
+Opponent Indifferent
+
+to Calling on the River
+
+A balanced river betting range consists of the right
+ratio of value bets and bluffs so our opponent is
+indifferent to calling with a large group of hands
+commonly referred to as Ågbluff catchersÅh since they
+only beat our bluffs. The EV of calling and folding
+on the river with a bluff catcher against a balanced
+range is approximately 0.
+
+HereÅfs an example. The board is the
+
+Sasz)\ la al im | fe 6] fece
+
+vu es |} 4
+
+and we value bet king-queen and better for a pot-
+sized bet (PSB) on the river. We also bluff all hands
+worse than a pair of nines for the same pot-sized
+bet. Since our opponent will be risking one pot-
+sized bet to win two pot-sized bets, he needs tod:\work\kindle\holdem\045.png @@ win 33.3 percent of the time when he calls to break
+
+even.
+
+(2PBS)(X)(1PBS)(1 X) =0>
+
+X = 0.333
+That is, without taking into account card removal
+effects, we need to have two value bets for every
+one bluff to make our opponent indifferent to
+calling with all hands weaker than king-queen and
+
+stronger than seven-x..
+
+The reason why making our opponent indifferent
+to calling is crucial is due to the fact that when we
+bet the river, our opponent is likely to have a bluff
+catcher. Thus, if we bluff too much, heÅfll always
+call with these hands, and if we bluff too little, heÅfll
+learn to throw these hands away. Stated another
+way, using the wrong ratio of value bets to bluffs
+will give our opponent the opportunity to correctly
+call or fold all of his bluff catchers, and excellent
+players will be sure to capitalize on this flaw in our
+strategy.
+
+On the other hand, if we do bet the river witha
+balanced range, our opponent should respond by
+calling with enough hands to make us indifferent to
+bluffing. These holdings should always include the
+hands in his bluff catching range which have thed:\work\kindle\holdem\046.png @@ best removal effects. For example, if our opponent
+has the KJ @ above, heÅfs blocking some of our top
+pair combos and should usually call.d:\work\kindle\holdem\047.png @@ The Grey Area Between
+
+Value Betting
+and Bluffing
+
+ItÅfs often tempting to try to oversimplify complex
+situations by taking a binary or Ågall or nothingÅh
+approach. This often makes problems easier to
+visualize and understand, and while being able
+to break down complex situations in an effort to
+better understand them is often useful, we must
+be careful not to go overboard. This concept can
+be seen clearly in poker when players attempt to
+visualize bets on the flop and turn as either value
+bets or bluffs. Oftentimes, especially on the flop, the
+best line available will be to make a bet which has
+both bluffing and value betting properties.
+
+HereÅfs an example. We open with the
+
+hae) Åg4 4
+a*a | aye
+vyv iv%y
+vr"; 9d:\work\kindle\holdem\048.png @@ in middle position and the button calls. If the flop
+comes the
+
+9
+Åe
+
+| fv w| Ba
+
+Åë 4: (& a v:
+
+and we bet, are we value betting or bluffing? Notice
+
+that our opponent may call with AK, AQ, 98s, 88, or
+77, and we'll usually win at showdown if the turn
+
+and river check through.
+
+Notice that this makes the hand seem like a value
+bet since we are getting value from worse hands.
+Yet we also make our opponent fold hands such
+as ace-jack and king-queen which have over 24
+percent equity against our holding because they
+do poorly against our overall betting range which
+includes many overpairs and better overcards.
+Thus, making our opponent fold hands with 24
+percent equity is a significant accomplishment.
+This is especially true when there are two streets
+left to act, a large amount of stack depth, and our
+opponent has position on us. In fact, if we do decide
+to bet our pair of nines with a ten kicker on this flop,
+itÅfs largely because making our opponent fold hands
+with two overcards is so desirable.d:\work\kindle\holdem\049.png @@ Before understanding theory well it may
+be tempting to think, ÅgHow is this situation
+complicated? We are value betting since our
+opponent should call with worse hands as well
+as protecting our hand by not letting him see a
+free card. Just because we want to deny free cards
+doesnÅft make our bet less of a value bet.Åh Yet this
+would be a huge oversimplification.
+
+ItÅfs important to understand that betting this flop
+has several important consequences. They are:
+
+1. We make our opponentÅfs turn range stronger.
+2. We make the pot bigger. And,
+3. We risk getting raised when there are still two
+
+streets left to act.
+
+Also, there are now a couple of questions to
+consider. They are:
+
+1. Even if we are ahead on the flop, how can we
+keep getting value on almost any turn or river
+cards?
+
+2. Was betting the flop really a Ågvaue betÅh if we
+have to check the turn and now play a big pot
+
+out of position against a strong range?d:\work\kindle\holdem\050.png @@ Notice that the hand doesnÅft simply end once we
+bet this flop and our opponent calls since we will
+often have a difficult time realizing our equity
+once our flop bet is called. Therefore, claiming
+our flop bet is a Ågvalue betÅh is at best an extreme
+oversimplification.
+
+Furthermore, in general, the terms Ågvalue betÅh (or
+Ågvalue raiseÅh) and ÅgbluffÅh will be imperfect terms
+on every street except the river. ThatÅfs because
+there are always additional cards to come on earlier
+streets, and weaker hands have the opportunity to
+improve and outdraw stronger ones. In addition,
+since not all value hands and bluffs have the same
+amount of equity, some will be more likely to win at
+showdown than others.
+
+To illustrate, suppose we usually 3-bet aces and
+ace-king on the button against a cutoff open. Most
+players would simply refer to these 3-bets as value
+raises since our opponent will often call with
+dominated hands such as tens or ace-queen. Yet
+there is a huge difference in strength between aces
+and ace-king, as the former has much more equity.
+Consequently, simply referring to these hands as
+Ågvalue 3-betsÅh is an oversimplification, but one
+which is often necessary when discussing and
+analyzing hands. As we'll see in ÅgPart Two: Preflop
